@@ -1,1 +1,4 @@
-requests
+requests>=2.34
+numpy>=2.5
+scikit-learn>=1.9
+openai>=3.49

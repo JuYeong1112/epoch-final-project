@@ -59,7 +59,9 @@ epoch_data/
 │   ├─ groups/            평가·개발에 쓰는 묶음 목록
 │   └─ review/            사람 검토표
 ├─ drafts/               모델·지시문 버전별 답변 초안 CSV (generate.py 결과)
-└─ logs/                 (git 제외) 수집·정리 리포트
+├─ logs/                 (git 제외) 수집·정리 리포트
+├─ requirements.txt      필요한 라이브러리 (requests, numpy, scikit-learn, openai)
+└─ README.md
 ```
 
 **근거 번호 체계:** `L-0001` 법령 조문 · `G-0001` 고시 문단 · `Q-6889973` 과거 질의응답(faqNo)
@@ -116,9 +118,8 @@ epoch_data/
 ```powershell
 python -m venv .venv
 .venv\Scripts\activate
-pip install requests numpy scikit-learn openai
+pip install -r requirements.txt
 ```
-> `requirements.txt`에는 아직 `requests`만 적혀 있어서 위처럼 직접 설치해 주세요.
 
 키는 **환경변수로만** 넣습니다. 파일이나 채팅에 키를 적지 마세요.
 ```powershell
