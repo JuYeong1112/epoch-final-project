@@ -3,7 +3,7 @@
   5 교육지원금액(원/분기)  6 그 밖의 지원금액(원/월)  7 재산의 합계액 기준(천 원)
 값은 법제처 원문 화면(보건복지부고시 제2025-210호, 시행 2025. 12. 17.)에서 옮겼다. 원문과 반드시 대조한다.
 
-사용:  python apply_tables3.py     (한 번 적용한 뒤에는 다시 실행해도 아무 일도 하지 않는다)
+사용:  python src/apply_tables3.py     (한 번 적용한 뒤에는 다시 실행해도 아무 일도 하지 않는다)
 ※ collect_admrul.py 를 다시 실행하면 사라지므로, 그 뒤에는 apply_tables.py -> split_g0017.py -> apply_tables2.py ->
    add_admrul.py add 2100000269954 -> apply_tables3.py 순서로 다시 한다.
 """
@@ -12,7 +12,8 @@ import re
 import shutil
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 CSV = BASE / "law" / "chunks_admrul.csv"
 BAK = BASE / "law" / "chunks_admrul.bak4.csv"
 NAME = "긴급지원 지원금액 및 재산의 합계액 기준"

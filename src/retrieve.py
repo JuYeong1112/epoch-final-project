@@ -11,8 +11,8 @@
   eval_groups.txt  (선택)      평가용 group_id 목록, 한 줄에 하나. 있으면 이 묶음은 '비슷한 질의' 검색 대상에서 뺀다.
 
 사용
-  python retrieve.py ask "부부가 기초연금을 받으면 금액이 줄어드나요?"
-  python retrieve.py eval      # 검색 정확도 점검: 핵심 질의의 정답 조문이 근거 3개 안에 들어오는 비율
+  python src/retrieve.py ask "부부가 기초연금을 받으면 금액이 줄어드나요?"
+  python src/retrieve.py eval      # 검색 정확도 점검: 핵심 질의의 정답 조문이 근거 3개 안에 들어오는 비율
 
 ※ 평가용 목록(eval_groups.txt)이 확정되면 반드시 넣고 초안을 만든다 (데이터 누수 방지).
 """
@@ -26,11 +26,12 @@ from pathlib import Path
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 QNA = BASE / "clean" / "qna_all.csv"
 LAW = BASE / "law" / "chunks.csv"
 ADM = BASE / "law" / "chunks_admrul.csv"
-EVAL_FILE = BASE / "eval_groups.txt"
+EVAL_FILE = ROOT / "eval" / "groups" / "eval_groups.txt"
 EMB_DIR = BASE / "emb"
 EMB_MODEL = os.environ.get("EMB_MODEL", "text-embedding-3-small")
 HYB = float(os.environ.get("HYB", "0"))   # 0 = 글자 방식만(기존), 0.5 = 의미 검색 절반 섞음
@@ -174,12 +175,12 @@ class Retriever:
         meta_p = EMB_DIR / "meta.json"
         if not (meta_p.exists() and (EMB_DIR / "qa.npy").exists() and (EMB_DIR / "ev.npy").exists()):
             if self.hyb > 0:
-                sys.exit("HYB > 0 인데 emb/ 벡터가 없습니다. 먼저 python embed_build.py 를 실행하세요.")
+                sys.exit("HYB > 0 인데 emb/ 벡터가 없습니다. 먼저 python src/embed_build.py 를 실행하세요.")
             return
         meta = json.loads(meta_p.read_text(encoding="utf-8"))
         ev_ids = [e["id"] for e in self.ev]
         if meta.get("qa_ids") != self.qa_all_ids or meta.get("ev_ids") != ev_ids:
-            msg = "emb/ 벡터가 현재 데이터와 맞지 않습니다(질의응답·법령·고시가 바뀜). python embed_build.py 를 다시 실행하세요."
+            msg = "emb/ 벡터가 현재 데이터와 맞지 않습니다(질의응답·법령·고시가 바뀜). python src/embed_build.py 를 다시 실행하세요."
             if self.hyb > 0:
                 sys.exit(msg)
             print("  [참고]", msg)

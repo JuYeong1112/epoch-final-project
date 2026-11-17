@@ -1,9 +1,9 @@
 """의미 검색용 벡터를 한 번 만들어 emb/ 폴더에 저장한다 (OpenAI 임베딩, 수 센트).
 
-사용:  python embed_build.py          (모델은 EMB_MODEL 환경변수, 기본 text-embedding-3-small)
+사용:  python src/embed_build.py          (모델은 EMB_MODEL 환경변수, 기본 text-embedding-3-small)
 만드는 것: emb/qa.npy (질의응답 질문), emb/ev.npy (법령+고시 문단), emb/meta.json
 ※ 질의응답·법령·고시 파일이 바뀌면 다시 실행한다 (바뀐 채로 쓰면 검색이 멈춘다).
-이후  python retrieve.py eval  로 섞는 비율(HYB)별 정확도를 비교한다.
+이후  python src/retrieve.py eval  로 섞는 비율(HYB)별 정확도를 비교한다.
 """
 import json
 import numpy as np

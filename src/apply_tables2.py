@@ -2,7 +2,7 @@
   G-0010  기초연금 고시 제8조  기본재산한도액 (지역별, 만 원)
   G-0018  긴급복지지원 금융재산 기준  2026년 가구원 수별 금융재산 금액 (천 원)
 
-사용:  python apply_tables2.py     (한 번 적용한 뒤에는 다시 실행해도 아무 일도 하지 않는다)
+사용:  python src/apply_tables2.py     (한 번 적용한 뒤에는 다시 실행해도 아무 일도 하지 않는다)
 값은 법제처 원문 화면에서 옮겼다. 반드시 원문과 대조한다.
 G-0018 은 어제 입력한 기준 중위소득 표(백 원 단위 절사 + 600만 원)와 계산이 맞는 것을 확인했다.
 ※ collect_admrul.py 를 다시 실행하면 사라지므로, 그 뒤에는 apply_tables.py -> split_g0017.py -> apply_tables2.py 순서로 다시 실행한다.
@@ -12,7 +12,8 @@ import re
 import shutil
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 CSV = BASE / "law" / "chunks_admrul.csv"
 BAK = BASE / "law" / "chunks_admrul.bak2.csv"
 NOTE = " (법제처 원문 표를 글자로 옮김, 2026-11-11 입력)"

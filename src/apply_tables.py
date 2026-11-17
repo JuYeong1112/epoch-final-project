@@ -1,6 +1,6 @@
 """이미지로만 제공된 표를 글자로 옮겨 law/chunks_admrul.csv 에 넣는다 (G-0017: 2026년 기준 중위소득 고시).
 
-사용:  python apply_tables.py
+사용:  python src/apply_tables.py
   - 먼저 law/chunks_admrul.csv 를 law/chunks_admrul.bak.csv 로 복사해 둔다.
   - G-0017 본문에서 '[표(이미지) ...]' 표시를 나온 순서대로 아래 6개로 바꾼다.
   - 이미 바꾼 뒤에는 표시가 없으므로 다시 실행해도 아무 일도 하지 않는다.
@@ -12,10 +12,11 @@ import re
 import shutil
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 CSV = BASE / "law" / "chunks_admrul.csv"
 BAK = BASE / "law" / "chunks_admrul.bak.csv"
-LOG = BASE / "logs" / "manual_tables.txt"
+LOG = ROOT / "logs" / "manual_tables.txt"
 CID = "G-0017"
 NOTE = " (법제처 원문 표를 글자로 옮김, 2026-11-11 입력)"
 

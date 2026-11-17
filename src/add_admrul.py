@@ -1,8 +1,8 @@
 """고시 1건을 기존 law/chunks_admrul.csv 맨 끝에 추가한다. 기존 G-번호와 손으로 입력한 표는 그대로 둔다.
 
-  1) 찾기   python add_admrul.py search "긴급지원 지원금액"
+  1) 찾기   python src/add_admrul.py search "긴급지원 지원금액"
             -> 현행 고시 목록(일련번호, 이름, 시행일자)을 보여준다.
-  2) 추가   python add_admrul.py add 일련번호
+  2) 추가   python src/add_admrul.py add 일련번호
             -> 본문을 받아 새 G-번호로 끝에 붙인다. 같은 고시명이 이미 있으면 아무것도 하지 않는다.
             백업: law/chunks_admrul.bak3.csv
 인증키는 collect_admrul.py 와 같다.  PowerShell:  $env:LAW_OC="인증키"

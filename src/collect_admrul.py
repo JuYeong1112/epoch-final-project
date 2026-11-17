@@ -4,7 +4,7 @@ collect_law.py 와 같은 인증키(OC)를 쓴다.
     PowerShell : $env:LAW_OC="인증키"
 
 실행
-  python collect_admrul.py
+  python src/collect_admrul.py
 
 출력
   law/raw_admrul/{일련번호}.json   원본 응답
@@ -34,10 +34,11 @@ TARGETS = [
 URLS = ["https://www.law.go.kr/DRF/lawService.do", "http://www.law.go.kr/DRF/lawService.do"]
 MAX_CHARS = 900   # 문단 하나의 대략적인 최대 길이
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 RAW = BASE / "law" / "raw_admrul"
 OUT = BASE / "law"
-LOGS = BASE / "logs"
+LOGS = ROOT / "logs"
 for d in (RAW, OUT, LOGS):
     d.mkdir(parents=True, exist_ok=True)
 

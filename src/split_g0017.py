@@ -12,7 +12,8 @@ import csv
 import re
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 CSV = BASE / "law" / "chunks_admrul.csv"
 CID = "G-0017"
 CUT = re.compile(r"\s*(?=(?:2\. 생계급여의 선정기준|3\. 보장시설 생계급여의|4\. 의료급여의 선정기준))")

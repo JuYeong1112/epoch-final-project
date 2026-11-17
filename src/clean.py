@@ -5,7 +5,7 @@
        clean/qna_groups.csv   묶음별 대표 행 + 중복 횟수 -> 유형 분류·평가 담당에게 넘기는 표
        logs/clean_report.txt  처리 통계, 마스킹 흔적
 
-실행: python clean.py
+실행: python src/clean.py
 """
 import csv
 import html
@@ -14,11 +14,12 @@ import re
 from difflib import SequenceMatcher
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 ITEMS = BASE / "raw" / "items"
 INDEX = BASE / "raw" / "index.json"
 OUT = BASE / "clean"
-LOGS = BASE / "logs"
+LOGS = ROOT / "logs"
 OUT.mkdir(exist_ok=True)
 LOGS.mkdir(exist_ok=True)
 

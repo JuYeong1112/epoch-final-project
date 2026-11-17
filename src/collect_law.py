@@ -7,8 +7,8 @@
   (인증키를 파일 안에 쓰거나 팀 채팅·공유 Drive 에 올리지 않는다.)
 
 실행
-  python collect_law.py            # 아래 LAWS 전부 수집 -> law/raw, law/chunks.csv
-  python collect_law.py --only 기초연금법
+  python src/collect_law.py            # 아래 LAWS 전부 수집 -> law/raw, law/chunks.csv
+  python src/collect_law.py --only 기초연금법
 
 출력
   law/raw/{법령명}.json   법제처 원본 응답 (공유 Drive 에 올리지 않아도 됨)
@@ -34,10 +34,11 @@ LAWS = [
 ]
 URLS = ["https://www.law.go.kr/DRF/lawService.do", "http://www.law.go.kr/DRF/lawService.do"]
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 RAW = BASE / "law" / "raw"
 OUT = BASE / "law"
-LOGS = BASE / "logs"
+LOGS = ROOT / "logs"
 for d in (RAW, OUT, LOGS):
     d.mkdir(parents=True, exist_ok=True)
 

@@ -7,10 +7,10 @@
   ※ 외부 AI에는 개인정보를 가린 글만 보낸다. 질문을 직접 넣을 때도 이름·연락처를 빼고 넣는다.
 
 사용
-  python generate.py ask "질문"                  # 질문 1건 -> 초안 (파일 저장 없음, 화면 출력)
-  python generate.py dry "질문"                  # AI 호출 없이 AI에게 보낼 글만 출력 (비용 0)
-  python generate.py batch --groups eval_groups.txt   # 묶음 목록의 대표 질문마다 초안 -> drafts/drafts.csv
-  python generate.py batch --first 5            # (시험) 핵심 질의 앞 5건
+  python src/generate.py ask "질문"                  # 질문 1건 -> 초안 (파일 저장 없음, 화면 출력)
+  python src/generate.py dry "질문"                  # AI 호출 없이 AI에게 보낼 글만 출력 (비용 0)
+  python src/generate.py batch --groups eval/groups/eval_groups.txt   # 묶음 목록의 대표 질문마다 초안 -> drafts/drafts.csv
+  python src/generate.py batch --first 5            # (시험) 핵심 질의 앞 5건
 
 기록: drafts/drafts.csv 에 모델 이름, 지시문 버전, 날짜, 찾은 근거 번호가 같이 남는다.
 """
@@ -26,8 +26,9 @@ from check_citations import check
 from retrieve import Retriever, load_eval_groups, read_csv, QNA
 
 INSTRUCTION_VERSION = "v5.2-2026-11-13"
-BASE = Path(__file__).resolve().parent
-OUT = BASE / "drafts"
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
+OUT = ROOT / "drafts"
 OUT.mkdir(exist_ok=True)
 
 SYSTEM = """당신은 복지 민원 답변 초안을 쓰는 보조자입니다. 최종 결정은 담당 공무원이 합니다.

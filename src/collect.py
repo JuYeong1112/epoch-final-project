@@ -7,10 +7,10 @@
 
 사용 예
   # 1) 건수만 세어 보기 (호출 몇 번만 씀)
-  python collect.py count --keywords 기초연금 생계급여 긴급복지 --types 1 2 3 --search-types 1 2
+  python src/collect.py count --keywords 기초연금 생계급여 긴급복지 --types 1 2 3 --search-types 1 2
 
   # 2) 수집 (목록 -> 항목 본문). 이미 받은 건은 건너뜀
-  python collect.py collect --keywords 기초연금 생계급여 긴급복지 --types 3 --search-types 2
+  python src/collect.py collect --keywords 기초연금 생계급여 긴급복지 --types 3 --search-types 2
 """
 import argparse
 import csv
@@ -29,11 +29,12 @@ LIST_URL = "https://apis.data.go.kr/1140100/CivilPolicyQnaService/PolicyQnaList"
 ITEM_URL = "https://apis.data.go.kr/1140100/CivilPolicyQnaService/PolicyQnaItem"   # .../PolicyQnaItem
 # -----------------------------------------------------------------------
 
-BASE = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data"
 RAW = BASE / "raw"
 ITEMS = RAW / "items"
 LISTS = RAW / "lists"
-LOGS = BASE / "logs"
+LOGS = ROOT / "logs"
 for d in (ITEMS, LISTS, LOGS):
     d.mkdir(parents=True, exist_ok=True)
 
