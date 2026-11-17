@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5540000",
+   "ancName": "경기도 광주시",
+   "regDate": "20260327141935",
+   "title": "한부모 아동양육수당을 받을수있는지에 대한 기준조건",
+   "faqNo": "6901382"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1830000",
+   "ancName": "국가보훈부",
+   "regDate": "20260320091640",
+   "title": "국가유공자 보훈급여금 기초생활보장 소득 산정 불합리 한제도 개선요구",
+   "faqNo": "6901270"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1830000",
+   "ancName": "국가보훈부",
+   "regDate": "20260320091519",
+   "title": "국가보훈부에서 지급하는 보훈급여금 등을 기초생활보장 소득 산정 시 제외",
+   "faqNo": "6901263"
+  },
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "1571000",
+   "ancName": "방송미디어통신위원회",
+   "regDate": "20260306093223",
+   "title": "[방송미디어정책기획과]수신료 면제 대상 수상기 관련",
+   "faqNo": "70246"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1210000",
+   "ancName": "국세청",
+   "regDate": "20260227172313",
+   "title": "연말정산시 배우자나 자녀의 신용카드 등 사용금액은 모두 공제가 되나요?",
+   "faqNo": "6900773"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260223150659",
+   "title": "2026년도 기초생활수급자 선정기준",
+   "faqNo": "6900323"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3070000",
+   "ancName": "서울특별시 성북구",
+   "regDate": "20260204172638",
+   "title": "청소년 위생용품 지원사업 안내",
+   "faqNo": "6900065"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3070000",
+   "ancName": "서울특별시 성북구",
+   "regDate": "20260127091314",
+   "title": "디딤씨앗 통장은 어떻게 개설하나요?",
+   "faqNo": "6899690"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4701000",
+   "ancName": "전북특별자치도 남원시",
+   "regDate": "20260123171606",
+   "title": "기초생활보장 수급자가 되면 어떤 급여를 받을 수 있나요?",
+   "faqNo": "6899783"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20251203152304",
+   "title": "에너지바우처의 지원대상 및 신청방법은 어떻게 되나요?",
+   "faqNo": "6898874"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

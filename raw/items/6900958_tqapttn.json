@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900958",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "국민취업제도란?",
+  "qstnCntnCl": "국민취업지원제도의 대상자, 신청방법 등",
+  "ansCntnCl": "&lt;strong&gt;◑&nbsp;&lt;/strong&gt;취업을 원하는 구직자에게 취업지원 서비스를 제공합니다.&lt;br /&gt;\n&nbsp;기초생활수급자(생계급여) 이외의 대상자는 관할 고용센터의 심사를 통해 지원여부가 결정됩니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;strong&gt;◑ 대상자&nbsp;&lt;/strong&gt;: 기초생활수급자(조건부수급자) , 법정한부모 등&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;strong&gt;◑ 방문처&lt;/strong&gt;&nbsp;: 용인고용복지플러스센터 ( 기흥구 강남로 3, 2~4층(구갈동) )&lt;br /&gt;\n&lt;br /&gt;\n&lt;strong&gt;◑ 대상 별 문의처&lt;/strong&gt;&lt;br /&gt;\n&nbsp;①&nbsp;&lt;strong&gt;기초생계급여&nbsp;수급자&lt;/strong&gt;&nbsp;: 시청 복지정책과 자활지원팀 (☎ 3133)&lt;br /&gt;\n&nbsp;② 그 외: 국민취업지원제도 콜센터(☎ 1350 )&lt;br /&gt;\n&nbsp; &nbsp;※ 조건부 수급자 외에는 본인 신청 가능하므로 생계급여 미해당인 자는 국민취업지원제도 콜센터로 안내&nbsp;",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 사회복지국 복지정책과",
+  "regDate": "20260327",
+  "ancCode": "4050000",
+  "deptCode": "4050614",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제9조(생계급여의 방법)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

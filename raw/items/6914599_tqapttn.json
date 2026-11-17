@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914599",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급복지 지원제도란 무엇인가요",
+  "qstnCntnCl": "긴급지원제도란 무엇인가요",
+  "ansCntnCl": "&lt;span style=&quot;background-color:#ffffff; color:rgba(0, 0, 0, 0.65); font-family:&quot;Malgun Gothic Regular&quot;,-apple-system,BlinkMacSystemFont,Arial,Helvetica,&quot;Helvetica Neue&quot;; font-size:13px&quot;&gt;긴급복지 지원제도는 갑작스러운 위기상황으로 생계가 어려워진 사람이나 가구에 정부가 생계비, 의료비, 주거비 등을 신속하게 일시적으로&nbsp;지원하여 위기를 극복할 수 있도록 돕는 사회안전망입니다.&lt;br /&gt;\n&lt;br /&gt;\n대표적인 지원대상은 다음과 같습니다.&lt;br /&gt;\n 주소득자의 사망, 가출, 실종, 구금 등으로 소득이 끊긴 경우&lt;br /&gt;\n 중한 질병이나 부상을 입은 경우  가정폭력, 학대, 방임, 유기 피해를 입은 경우&lt;br /&gt;\n 화재나 자연재해로 거주가 어려워진 경우&lt;br /&gt;\n 휴업, 폐업, 실직 등으로 생계유지가 곤란해진 경우  그 밖에 법령에서 정한 위기 상황에 해당하는 경우&lt;br /&gt;\n&lt;br /&gt;\n또한, 소득재산 등 일정한 기준도 충족해야 합니다.&lt;br /&gt;\n&lt;br /&gt;\n지원 내용에는 다음과 같은 것들이 있습니다&lt;br /&gt;\n&nbsp; 생계지원: 식비, 의복비 등 생계유지비&lt;br /&gt;\n 의료지원: 각종 검사 및 치료 등 의료서비스&lt;br /&gt;\n 주거지원:&nbsp;주거비 지원&lt;br /&gt;\n 교육지원: 초중고등학생의 학용품비 등&lt;br /&gt;\n&lt;br /&gt;\n신청 방법은 주민등록주소지 읍면동 행정복지센터를 방문하여 상담받을 수 있습니다.&lt;/span&gt;",
+  "ancName": "경기도 평택시",
+  "deptName": "경기도 평택시 서탄면",
+  "regDate": "20260730",
+  "ancCode": "3910000",
+  "deptCode": "3910068",
+  "lawList": [
+   {
+    "fullName": "긴급복지지원법 시행령 / 제1조(목적)",
+    "lwrdNm": "긴급복지지원법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법 시행령"
+   },
+   {
+    "fullName": "긴급복지지원법 시행령 / 제1조의2(긴급지원대상자에 해당하는 외국인의 범위)",
+    "lwrdNm": "긴급복지지원법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법 시행령"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

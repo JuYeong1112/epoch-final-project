@@ -1,0 +1,110 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6901948",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청 방법",
+  "qstnCntnCl": "기초연금신청은 어떻게 하나요?",
+  "ansCntnCl": "&lt;span style=&quot;color:#555555&quot;&gt;&lt;span style=&quot;font-family:NanumGothic&quot;&gt;&lt;span style=&quot;font-size:small&quot;&gt;1. 신청방법&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 가. 방문신청&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 수급희망자의&nbsp;전국 읍면동 행정복지센터 또는 국민연금공단 지사&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 수급희망자의 주소지에 관계없이 신청 가능&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 나. 온라인 신청&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 복지로 사이트 (&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a&gt;&lt;span style=&quot;font-size:small&quot;&gt;http://online.bokjiro.go.kr&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:small&quot;&gt;)에서 신청&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 신청권자 : 수급희망자(본인) 또는 그 배우자, 자녀, 형제자매,&nbsp;친족(8촌 이내의 혈족, 4촌 이내의 인척)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;배우자를 제외한 대리인이 신청할 경우 위임장 필요&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 지급계좌 : 수급희망자(본인) 명의의 계좌&lt;br /&gt;\n&lt;br /&gt;\n2. 신청기간&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 가. 만 65세 생일이 속하는 달의 1개월 전 초일부터 신청접수 가능&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 수급자로 결정된 경우 신청일이 속한 달부터 기초연금 지급&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (사전신청자는 생일이 속한 월부터 지급)&lt;br /&gt;\n&lt;br /&gt;\n3. 신청구비서류&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 가. 필수제출서류&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 사회보장급여 신청(변경)서, 소득재산신고서, 금융정보 등 제공 동의서&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 신분증, 통장사본&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 나. 추가제출서류(해당 시)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 기초연금 수급희망 이력관리 신청서, 사실(이)혼 관계 확인서, 사용대차확인서&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 임대차계약서&lt;/span&gt;",
+  "ancName": "서울특별시 강동구",
+  "deptName": "서울특별시 강동구 천호1동",
+  "regDate": "20260409",
+  "ancCode": "3240000",
+  "deptCode": "3240049",
+  "lawList": [
+   {
+    "fullName": "기초연금법 시행규칙 / 제1조(목적)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제3조(재산가액의 산정)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제4조(재산의 소득환산액 산정방식)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제5조(재산가액의 산정 및 재산의 소득환산액 산정방식의 특례)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제6조(대리인)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제7조(기초연금 지급 신청서 등의 서식)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제7조의2(기초연금 수급희망 이력관리 신청서의 유효기간)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제7조의3(현장조사서)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제8조(기초연금의 지급결정 절차 및 통지)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제2조(소득평가액 산정방식)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제9조(기초연금의 지급방법 및 절차)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제10조(미지급 기초연금의 청구서식 등)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제11조(지급정지 및 해제 절차 등)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제12조(신고의 내용 및 절차 등)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제13조(환수금의 분할 납부)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제14조(이의신청 절차 등)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제15조(기초연금 수급자 등의 현황관리)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제16조(서식)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

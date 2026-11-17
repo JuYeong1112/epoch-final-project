@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6911386",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금제도란?",
+  "qstnCntnCl": "기초연금 신청방법 및 대상자 기준은? ",
+  "ansCntnCl": "안녕하십니까? 귀하께서 질의하신 내용에 대한 답변은 다음과 같습니다.&lt;br /&gt;\n&lt;br /&gt;\n□ 기초연금제도란?&lt;br /&gt;\n&nbsp;- 노인의 생활 안정을 지원하고 복지를 증진하기 위해 65세 이상 어르신 중 소득인정액이 선정기준액 이하인&nbsp;&lt;br /&gt;\n&nbsp; 분들에게 매월 지급하는 연금을 지급하는 사회보장제도&nbsp;&lt;br /&gt;\n□ 대상자&lt;br /&gt;\n&nbsp;- 만 65세 이상 본인과 배우자의 소득인정액이 선정기준액 이하인 자&lt;br /&gt;\n&nbsp;- (연령요건) 신청일이 속한 월 당시, 만65세 이상인 자&lt;br /&gt;\n□ 2026년 선정기준액&lt;br /&gt;\n&nbsp;- 단독가구 247만원, 부부가구 395.2만원&lt;br /&gt;\n□ 신청방법&lt;br /&gt;\n&nbsp;- 방문신청: 거주지 주민센터 방문&lt;br /&gt;\n&nbsp;- 온라인 신청: 복지로 사이트(www.bokjiro.go.kr)",
+  "ancName": "부산광역시 부산진구",
+  "deptName": "부산광역시 부산진구 주민복지국 가족지원과",
+  "regDate": "20260713",
+  "ancCode": "3290000",
+  "deptCode": "3290192",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제3조(기초연금 수급권자의 범위 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제5조(기초연금액의 산정)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

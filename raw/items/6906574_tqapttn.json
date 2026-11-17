@@ -1,0 +1,45 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6906574",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청 및 선정기준은 어떻게 되나요?",
+  "qstnCntnCl": "기초연금 신청 및 선정기준은 어떻게 되나요?",
+  "ansCntnCl": "1. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;평소 구정 행정에 관심과 애정을 가져주셔서 감사드리며&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;국민신문고를 통해 질의 하신 내용에 대해 다음과 같이 답변드립니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n2. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금은 &lt;/span&gt;65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세 이상의 어르신으로서 소득인정액이 매년 보건복지부장관이 정하여 고시하는 금액 이하인 사람에게 지원합니다&lt;/span&gt;. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;신청은 읍&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;면&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;동 주민센터 또는 국민연금공단 지사&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;온라인 복지로&lt;/span&gt;(&lt;a href=&quot;http://bokjiro.go.kr)로&quot;&gt;&lt;u&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;http://bokjiro.go.kr)&lt;/span&gt;&lt;/u&gt;&lt;u&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;로&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/a&gt; &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;사이트에서 신청할 수 있습니다&lt;/span&gt;.&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;※ &lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;단&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;직역연금 수급권자와 그 배우자는 기초연금 지급대상에서 제외하나&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;특례대상과 예외대상에 해당하는 경우는 수급권자의 범위에 포함됩니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n3. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금 선정기준&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&bull; &lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;신청자&lt;/span&gt;: &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;연령이 &lt;/span&gt;65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세 이상인 자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&bull; &lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;대상자 &lt;/span&gt;: &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;부부가구 또는 단독가구의 소득&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&bull;&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산기준이 소득인정액이 선정기준액 이하인 자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&bull; &lt;/span&gt;2026&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;년도 선정기준액 &lt;/span&gt;: &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;단독가구 &lt;/span&gt;2,470,000&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;원&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;부부가구는 &lt;/span&gt;3,952,000&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;원&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&bull; &lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;소득인정액은 아래와 같이 계산합니다&lt;/span&gt;.&lt;br /&gt;\n- &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;소득인정액 &lt;/span&gt;= &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;소득평가액&lt;/span&gt;+&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산의 소득환산액&lt;/span&gt;&lt;br /&gt;\n- &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;소득평가액 &lt;/span&gt;= {0.7(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;근로소득&lt;/span&gt;-116&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만원&lt;/span&gt;)}+&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기타소득&lt;/span&gt;&lt;br /&gt;\n- &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산의 소득환산액 &lt;/span&gt;= [{(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;일반재산&lt;/span&gt;-&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기본재산액&lt;/span&gt;)+(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;금융재산&lt;/span&gt;-2,000&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만원&lt;/span&gt;) -&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;부채&lt;/span&gt;}&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산의 소득환산율&lt;/span&gt;12&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;월&lt;/span&gt;]+p&lt;br /&gt;\n&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;＊&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기본재산액은 대도시 및 특례시 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;억&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;3,500&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만원&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;중소도시 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;8,500&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만원&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;농어촌 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;7,250&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만원&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;＊&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;는 고급자동차 및 회원권의 가액으로 월&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;100%&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;의 소득환산율을 적용&lt;br /&gt;\n＊&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기타소득&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;사업소득&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;공적이전소득&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산소득&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-size:9.0pt&quot;&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;무료임차소득 등&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n4. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금은 신청주의로 &lt;/span&gt;65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세 이상이면 언제든지 신청이 가능합니다&lt;/span&gt;. 65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세가 되는 분이면 &lt;/span&gt;65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세 생일이 속한 달의 &lt;/span&gt;1&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;개월 전 초일부터 신청이 가능합니다&lt;/span&gt;.&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;신청 후 공적자료 회신을 통해 조사 후 &lt;/span&gt;30&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;일 이내에&lt;/span&gt;(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;특별한 사유가 있는 경우 &lt;/span&gt;60&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;일이내&lt;/span&gt;) &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;보장결과를 통지하고 있습니다&lt;/span&gt;.\n\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n5. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;귀하의 질문에 만족스러운 답변이 되었기를 바라며&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;추가 설명이 필요한 경우 관할 동 행정복지센터 및 구청 복지지원과로 문의하시면 상세히 답변드리도록 하겠습니다&lt;/span&gt;.\n\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "울산광역시 남구",
+  "deptName": "울산광역시 남구 복지교육국 복지지원과",
+  "regDate": "20260610",
+  "ancCode": "3700000",
+  "deptCode": "3700235",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제5조(기초연금액의 산정)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제10조(기초연금 지급의 신청)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제13조(기초연금 지급의 결정 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제1조(목적)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제3조(기초연금 수급권자의 범위 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260710132652",
+   "title": "기초연금 수급자의 신청 범위 및 신청방법",
+   "faqNo": "6911064"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260625165945",
+   "title": "기초연금 대상 및 지원금액",
+   "faqNo": "6909750"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5360000",
+   "ancName": "경상남도 밀양시",
+   "regDate": "20260624160344",
+   "title": "어르신 기초연금 지급기준",
+   "faqNo": "6909621"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5090000",
+   "ancName": "경상북도 영주시",
+   "regDate": "20260622133630",
+   "title": "기초연금 신청방법 및 신청기간은 어떻게 되나요?",
+   "faqNo": "6909230"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5060000",
+   "ancName": "경상북도 김천시",
+   "regDate": "20260618091452",
+   "title": "기초연금 신청방법",
+   "faqNo": "6908294"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260610102605",
+   "title": "기초연금 신청 및 선정기준은 어떻게 되나요?",
+   "faqNo": "6906574"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5070000",
+   "ancName": "경상북도 안동시",
+   "regDate": "20260514103055",
+   "title": "공무원 유족연금 수급자는 금액에 상관없이 기초연금에서 제외되는지 궁금합니다.",
+   "faqNo": "6904057"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5460000",
+   "ancName": "경상남도 함양군",
+   "regDate": "20260511145631",
+   "title": "기초연금 사업에 대해 궁금해요",
+   "faqNo": "6903898"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260421102037",
+   "title": "기초연금 제도가 무엇이며 어떤 분들이 받나요?",
+   "faqNo": "6902671"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414105243",
+   "title": "기초연금 신청방법과 지원내용 문의",
+   "faqNo": "6902195"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

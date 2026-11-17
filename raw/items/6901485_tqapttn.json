@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6901485",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "노인일자리 신청 문의",
+  "qstnCntnCl": "노인일자리 신청 방법 문의",
+  "ansCntnCl": "&nbsp;&lt;br /&gt;\n-참여자 모집기간 : 전년도 12월 참여자 모집(세부 모집일정, 장소 등은 추후 공지)&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 선발된 참여자는 다음 해 사업 개시 후 배치하며,&nbsp; 대기자는 상시 접수(수행기관에 직접 접수)&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 매년 참여자 모집&lt;br /&gt;\n-신청자격 : 만65세 이상 오산시 거주자(일부사업 만 60세)&lt;br /&gt;\n-신청서류 : 참여신청서, 개인정보동의서, 주민등록등본, 증명사진, 통장사본 등&lt;br /&gt;\n-신청 제외자&lt;br /&gt;\n&bull;과거 부정수급 등으로 사업 참여가 제한된 자&lt;br /&gt;\n&bull;국내 거주자 중 외국민인 자&lt;br /&gt;\n-선발 제외자&lt;br /&gt;\n&bull;국민기초생활보장법에 의한 생계급여 수급자(취업 지원 사업 제외)&lt;br /&gt;\n&bull;국민건강보험 직장가입자(취업 지원 사업 제외)&lt;br /&gt;\n&bull;장기요양보험 등급 판정자 1~5등급, 인지지원등급(취업 지원 사업 제외)&lt;br /&gt;\n&bull;정부부처 및 지자체에서 추진하는 일자리사업에 참여하는 경우&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&nbsp;",
+  "ancName": "경기도 오산시",
+  "deptName": "경기도 오산시 복지교육국 노인장애인과",
+  "regDate": "20260401",
+  "ancCode": "4000000",
+  "deptCode": "4000168",
+  "lawList": [
+   {
+    "fullName": "노인 일자리 및 사회활동 지원에 관한 법률 / 제8조(노인 일자리 및 사회활동 지원사업의 실시)",
+    "lwrdNm": "노인 일자리 및 사회활동 지원에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/노인 일자리 및 사회활동 지원에 관한 법률"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

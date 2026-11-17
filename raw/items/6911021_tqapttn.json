@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6911021",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청안내 우편, 문자를 받고 싶지 않은 경우 ",
+  "qstnCntnCl": "기초연금 신청안내 우편, 문자를 받고 싶지 않은 경우",
+  "ansCntnCl": "기초연금 신청 안내 우편, 문자를&nbsp;미수신을 희망하는 경우 관할 국민연금공단 지사로 연락하여&lt;br /&gt;\n&lt;br /&gt;\n'우편/SMS 미수신 희망자'로 등록하면 됩니다.&lt;br /&gt;\n&lt;br /&gt;\n'우편/SMS 미수신 희망자'로 등록할 경우 국민연금공단에서 보내는 기초연금 관련 신청안내를 더 이상 받지 않게 되며,&lt;br /&gt;\n&lt;br /&gt;\n기초연금 신청안내를 재안내 받길 희망하는 경우 국민연금공단으로 문의하여 '우편/SMS 미수신 희망자' 등록을&lt;br /&gt;\n&lt;br /&gt;\n취소처리하면 됩니다.",
+  "ancName": "부산광역시 수영구",
+  "deptName": "부산광역시 수영구 망미2동",
+  "regDate": "20260713",
+  "ancCode": "3380000",
+  "deptCode": "3380029",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제10조의2(기초연금 관련 정보의 제공)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

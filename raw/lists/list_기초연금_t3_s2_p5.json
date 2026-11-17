@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "1230000",
+   "ancName": "조달청",
+   "regDate": "20260622162018",
+   "title": "직전연도 종업원이 없는 기업의 일자리 창출 신인도 평",
+   "faqNo": "70664"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5090000",
+   "ancName": "경상북도 영주시",
+   "regDate": "20260622133630",
+   "title": "기초연금 신청방법 및 신청기간은 어떻게 되나요?",
+   "faqNo": "6909230"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "9290000",
+   "ancName": "제주특별자치도교육청",
+   "regDate": "20260619133923",
+   "title": "행정심판 국선대리인 선임  신청 대상 및 신청 방법",
+   "faqNo": "6906781"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5060000",
+   "ancName": "경상북도 김천시",
+   "regDate": "20260618091452",
+   "title": "기초연금 신청방법",
+   "faqNo": "6908294"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4191000",
+   "ancName": "강원특별자치도 원주시",
+   "regDate": "20260616093819",
+   "title": "장애인연금 및 장애수당 안내",
+   "faqNo": "6907257"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260610102605",
+   "title": "기초연금 신청 및 선정기준은 어떻게 되나요?",
+   "faqNo": "6906574"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4231000",
+   "ancName": "강원특별자치도 속초시",
+   "regDate": "20260526103724",
+   "title": "노인일자리 신청 기준이 궁금해요",
+   "faqNo": "6904973"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260520133329",
+   "title": "울산 남구 무인민원발급기 수수료에 대해 궁금합니다.",
+   "faqNo": "6902603"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260515142445",
+   "title": "치매공공후견사업 지원 대상∙내용 및 신청방법",
+   "faqNo": "6904321"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5070000",
+   "ancName": "경상북도 안동시",
+   "regDate": "20260514103055",
+   "title": "공무원 유족연금 수급자는 금액에 상관없이 기초연금에서 제외되는지 궁금합니다.",
+   "faqNo": "6904057"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

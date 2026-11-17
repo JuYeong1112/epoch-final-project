@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6901497",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "대구시 &apos;이웃살핌 확인조사&apos;란 무슨 사업이고 왜 하는 것인가요?",
+  "qstnCntnCl": "대구시 &apos;이웃살핌 확인조사&apos;란 무슨 사업이고 왜 하는 것인가요?",
+  "ansCntnCl": "대구시는 1인 가구의 증가, 사회관계망의 약화, 초고령화 사회 진입 등으로 사회적 고립 및 고독사 발생이 증가함에&lt;br /&gt;\n따라, 우리 주변의 복지위기에 처한 가구를 미리 찾고 돕기 위한 &apos;이웃살핌 확인조사(고독사 위험군 실태조사)&apos;를&lt;br /&gt;\n해마다 실시하고 있습니다. 누구도 소외되지 않도록 함께 이웃을 돌보는 따뜻한 지역사회를 만들기 위해 시민 여러분의 많은 관심과 협조 부탁드립니다.&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;○ (사 업 명) 2026년 대구광역시 이웃살핌 확인조사&lt;br /&gt;\n&nbsp;○ (조사기간) 2026. 4. ~ 10. (7개월간)&lt;br /&gt;\n&nbsp;○ (조사대상) 총 130,741가구 정도 (중복 미제외)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 한부모가족, 차상위계층, 25년 긴급복지지원대상자, 쪽방거주자,&nbsp;이전년도 미조사 가구(3회이상 부재가구) 등&lt;br /&gt;\n&nbsp;○ (조사방법) 각 구군별 온라인 설문조사&nbsp;및 &apos;즐거운생활지원단&apos;(노인일자리사업 참여자로 구성된 이웃살핌&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 확인조사단)의 대면 조사 병행 실시&lt;br /&gt;\n&nbsp;○ (조사내용) 보건복지부가 개발한 고독사 위험자 판단도구*를 활용한 위험정도 확인&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; * 2026년 고독고립 예방 및 관리사업 운영지침 내 판단도구 (사회적고립가구 조사표) 활용",
+  "ancName": "대구광역시",
+  "deptName": "대구광역시 보건복지국 복지정책과",
+  "regDate": "20260401",
+  "ancCode": "6270000",
+  "deptCode": "6271406",
+  "lawList": [
+   {
+    "fullName": "고독사 예방 및 관리에 관한 법률 / 제10조(고독사 실태조사)",
+    "lwrdNm": "고독사 예방 및 관리에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/고독사 예방 및 관리에 관한 법률"
+   },
+   {
+    "fullName": "대구광역시 고독사 예방 및 관리에 관한 조례 / 제5조(실태조사)",
+    "lwrdNm": "대구광역시 고독사 예방 및 관리에 관한 조례",
+    "lwrdUrl": "http://law.go.kr/법령/대구광역시 고독사 예방 및 관리에 관한 조례"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

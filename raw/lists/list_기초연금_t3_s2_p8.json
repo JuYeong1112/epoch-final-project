@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20250804154001",
+   "title": "기초연금 신청문의",
+   "faqNo": "6884573"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250727153811",
+   "title": "노인일자리 자격",
+   "faqNo": "6893595"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1352000",
+   "ancName": "보건복지부",
+   "regDate": "20250715155056",
+   "title": "소득재산조사가 무엇인가요?",
+   "faqNo": "6892600"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20250704100921",
+   "title": "기초연금 지급 관련",
+   "faqNo": "6889939"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20250704100638",
+   "title": "부동산 압류해제의 요건",
+   "faqNo": "6889487"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20250702195350",
+   "title": "부부가 기초연금을 함께 받을 시 지급 금액이 감소되나요?",
+   "faqNo": "6889973"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4580000",
+   "ancName": "충청남도 서천군",
+   "regDate": "20250627171259",
+   "title": "기초생활수급자 소득인정액에 산정되는 소득은 어떤 종류가 있나요?",
+   "faqNo": "6890423"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250627145332",
+   "title": "2년 전에 아파트를 처분하였는데 왜 아직도 재산에 반영되어 있나요?",
+   "faqNo": "6889733"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4390000",
+   "ancName": "충청북도 충주시",
+   "regDate": "20250602110159",
+   "title": "노인일자리 참여 신청 방법",
+   "faqNo": "6884576"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20250513173116",
+   "title": "사망신고는 어디서 어떻게 하나요? 동 주민센터에서 바로 처리할 수 있나요?",
+   "faqNo": "6883067"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914613",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "부정수급 신고",
+  "qstnCntnCl": "부정수급 신고를 하고 싶습니다.\n",
+  "ansCntnCl": "&lt;table cellspacing=&quot;0&quot; style=&quot;border-collapse:collapse; border:undefined; width:308pt&quot;&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;border-color:currentcolor windowtext windowtext; height:102.75pt; vertical-align:middle; white-space:normal; width:308pt&quot;&gt;&lt;span style=&quot;font-size:10pt&quot;&gt;&lt;span style=&quot;font-family:&quot;맑은 고딕&quot;,monospace&quot;&gt;사회보장급여(생계,의료,주거,교육) 부정수급에 대한 신고는 복지로 홈페이지( [부정수급 신고하기] 메뉴 &rarr; 신고내용 입력)를 통해 접수하실 수 있습니다. 신고는 실명 또는 익명으로 가능하며, 자세한 사항은&lt;br /&gt;\n\t\t\t복지로 홈페이지를 참고하시기 바랍니다.&lt;br /&gt;\n\t\t\t온라인 신고 외에도 우편 및 팩스로도 신고 가능하며, 신고 방법이나 절차 문의는 보건복지부 복지급여조사담당관(1551-1290) 또는 보건&lt;br /&gt;\n\t\t\t복지상담센터(129)를 통해 안내받으실 수 있습니다.&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n",
+  "ancName": "서울특별시 도봉구",
+  "deptName": "서울특별시 도봉구 복지가족국 생활보장과",
+  "regDate": "20260729",
+  "ancCode": "3090000",
+  "deptCode": "3090194",
+  "lawList": [
+   {
+    "fullName": "&quot;국민기초생활보장법 제37조(신고의 의무) 국민기초생활보장법 제37조(비용의 징수) 국민기초생활보장법 제49조(벌칙)&quot; / ",
+    "lwrdNm": "&quot;국민기초생활보장법 제37조(신고의 의무) 국민기초생활보장법 제37조(비용의 징수) 국민기초생활보장법 제49조(벌칙)&quot;",
+    "lwrdUrl": "http://law.go.kr/법령/&quot;국민기초생활보장법 제37조(신고의 의무) 국민기초생활보장법 제37조(비용의 징수) 국민기초생활보장법 제49조(벌칙)&quot;"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

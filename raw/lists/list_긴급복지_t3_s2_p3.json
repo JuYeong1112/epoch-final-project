@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260722181812",
+   "title": "긴급복지 지원제도 문의",
+   "faqNo": "6913073"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20260722095722",
+   "title": "서울형 긴급지원 신청 문의",
+   "faqNo": "6912900"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5870000",
+   "ancName": "전남광주통합특별시 해남군",
+   "regDate": "20260721173046",
+   "title": "우리동네 복지기동대를 지원받으려면 어떻게 해야 하나요?",
+   "faqNo": "6912756"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260721134222",
+   "title": "긴급복지지원 기준과 금액 궁금해요.",
+   "faqNo": "6912637"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5130000",
+   "ancName": "경상북도 경산시",
+   "regDate": "20260721101001",
+   "title": "긴급복지지원 제도에 관한 설명",
+   "faqNo": "6912545"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260720143830",
+   "title": "에너지바우처",
+   "faqNo": "6912381"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260720140227",
+   "title": "암환자 의료비 지원 대상",
+   "faqNo": "6912193"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260720135244",
+   "title": "안양시 누구나돌봄 서비스 이용 방법 문의",
+   "faqNo": "6912354"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5820000",
+   "ancName": "전남광주통합특별시 북구",
+   "regDate": "20260720114949",
+   "title": "긴급복지지원의 위기상황 및 선정기준, 지원내용 등 안내",
+   "faqNo": "6911963"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260715111418",
+   "title": "복지서비스 요청",
+   "faqNo": "6911593"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

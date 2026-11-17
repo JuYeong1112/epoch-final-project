@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6915488",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "장성군 화장장려금 지원액, 신청기한, 신청절차 문의",
+  "qstnCntnCl": "장성군 화장장려금 지원액, 신청기한, 신청절차가 궁금합니다.",
+  "ansCntnCl": "장성군 화장장려금 지원액, 신청기한, 신청절차 안내드립니다.&lt;br /&gt;\n&lt;br /&gt;\n1. 장려금 지원액&lt;br /&gt;\n&nbsp; ㅇ 사망자&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 기초연금수급자(80세 이상), 등록장애인 : 30만원&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 그 외 대상자 : 20만원&lt;br /&gt;\n&nbsp; ㅇ 개장&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 5만원&lt;br /&gt;\n&lt;br /&gt;\n2. 신청기한&lt;br /&gt;\n&nbsp; ㅇ 사망신고일로부터 6개월 이내&lt;br /&gt;\n&nbsp; ㅇ 개장은 안치일로부터 6개월이내&lt;br /&gt;\n&lt;br /&gt;\n3. 신청절차&lt;br /&gt;\n&nbsp; ㅇ 연고자 장사시설 또는 적법한 장소에 안치 &rArr; 신청서 제출(추모공원, 사망자 주소지 읍면행정복지센터) &rArr; 군청 가족행복과 접수 &rArr; 월 2회 지급\n&lt;ul&gt;&lt;br /&gt;\n\t&nbsp;\n&lt;/ul&gt;\n",
+  "ancName": "전남광주통합특별시 장성군",
+  "deptName": "전남광주통합특별시 장성군 관광복지국 가족행복과",
+  "regDate": "20260731",
+  "ancCode": "5895000",
+  "deptCode": "5895011",
+  "lawList": [
+   {
+    "fullName": "장성군 화장 장려금 지원 조례 / 제4조(지원금액)",
+    "lwrdNm": "장성군 화장 장려금 지원 조례",
+    "lwrdUrl": "http://law.go.kr/법령/장성군 화장 장려금 지원 조례"
+   },
+   {
+    "fullName": "장성군 화장 장려금 지원 조례 / 제5조(장려금 신청)",
+    "lwrdNm": "장성군 화장 장려금 지원 조례",
+    "lwrdUrl": "http://law.go.kr/법령/장성군 화장 장려금 지원 조례"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

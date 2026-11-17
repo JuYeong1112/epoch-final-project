@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6913605",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "어르신 일자리 신청 자격은?",
+  "qstnCntnCl": "어르신 일자리 신청 자격이 궁금합니다. ",
+  "ansCntnCl": "&lt;span style=\"font-family:맑은 고딕\"&gt;[어르신 사회활동지원 사업 신청자격]&lt;br /&gt;\n-노인공익활동사업&lt;/span&gt;:&lt;span style=\"font-family:맑은 고딕\"&gt;중랑구에거주하는&lt;/span&gt;65&lt;span style=\"font-family:맑은 고딕\"&gt;세이상기초연금수급자&lt;/span&gt;,&lt;span style=\"font-family:맑은 고딕\"&gt;직역연금수급자&lt;/span&gt;(&lt;span style=\"font-family:맑은 고딕\"&gt;배우자포함&lt;/span&gt;)&lt;span style=\"font-family:맑은 고딕\"&gt;중보건복지부장관이정하는기준을충족한자는참여가능&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;※&lt;/span&gt;60~64&lt;span style=\"font-family:맑은 고딕\"&gt;세차상위계층은기초연금수급대기자없을경우참여가능&lt;/span&gt;&lt;br /&gt;\n-&lt;span style=\"font-family:맑은 고딕\"&gt;노인역량활용사업&lt;/span&gt;:65&lt;span style=\"font-family:맑은 고딕\"&gt;세이상&lt;/span&gt;(&lt;span style=\"font-family:맑은 고딕\"&gt;일부사업은&lt;/span&gt;60&lt;span style=\"font-family:맑은 고딕\"&gt;세이상&lt;/span&gt;)&lt;br /&gt;\n-&lt;span style=\"font-family:맑은 고딕\"&gt;공동체사업단&lt;/span&gt;,&lt;span style=\"font-family:맑은 고딕\"&gt;취업지원&lt;/span&gt;:60&lt;span style=\"font-family:맑은 고딕\"&gt;세이상&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&lt;span style=\"font-family:맑은 고딕\"&gt;▣&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;신청제외자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;○&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;국민기초생활보장법에의한생계급여수급자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;○&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;정부부처및지자체에서추진중인일자리사업&lt;/span&gt;2&lt;span style=\"font-family:맑은 고딕\"&gt;개이상참여자&lt;/span&gt;&lt;br /&gt;\n(&lt;span style=\"font-family:맑은 고딕\"&gt;노인일자리및사회활동지원사업내중복참여불가&lt;/span&gt;)&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;○&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;국민건강보험직장가입자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;○&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;장기요양보험등급판정자&lt;/span&gt;(1~5&lt;span style=\"font-family:맑은 고딕\"&gt;등급&lt;/span&gt;,&lt;span style=\"font-family:맑은 고딕\"&gt;인지지원등급&lt;/span&gt;)&lt;span style=\"font-family:맑은 고딕\"&gt;진단서첨부시참여가능&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:맑은 고딕\"&gt;○&lt;/span&gt;&lt;span style=\"font-family:맑은 고딕\"&gt;전년도어르신일자리사업부적격참여자&lt;/span&gt;(5&lt;span style=\"font-family:맑은 고딕\"&gt;년내까지참여제한자포함&lt;/span&gt;)&lt;br /&gt;\n&nbsp;",
+  "ancName": "서울특별시 중랑구",
+  "deptName": "서울특별시 중랑구 생활복지국 어르신복지과",
+  "regDate": "20260724",
+  "ancCode": "3060000",
+  "deptCode": "3060165",
+  "lawList": [
+   {
+    "fullName": "노인 일자리 및 사회활동 지원에 관한 법률 시행령 / 제2조(노인 일자리 및 사회활동 지원 대상 노인의 연령 및 기준)",
+    "lwrdNm": "노인 일자리 및 사회활동 지원에 관한 법률 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/노인 일자리 및 사회활동 지원에 관한 법률 시행령"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

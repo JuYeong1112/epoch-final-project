@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909230",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청방법 및 신청기간은 어떻게 되나요?",
+  "qstnCntnCl": "기초연금 신청방법 및 신청기간은 어떻게 되나요?",
+  "ansCntnCl": "&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&lt;신청방법&gt;&nbsp;&lt;br /&gt;\n1. 방문 신청&lt;br /&gt;\n전국 읍면동 주민센터 또는 행정복지센터, 국민연금공단 지사&lt;br /&gt;\n2. 온라인 신청&lt;/span&gt;&lt;/span&gt;\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;사이트) 복지로(&lt;a href=\"http://bokjiro.go.kr/\"&gt;http://bokjiro.go.kr&lt;/a&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&nbsp;&gt; 서비스 신청 &gt; 복지서비스 신청 &gt; 복지급여 신청 &gt; 기초연금&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 온라인 신청 시에는 본인인증(금융인증서공동인증서(구 공인인증서), 간편인증 중 택1)이 필요함&lt;/span&gt;&lt;/span&gt;\n\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;신청권자) 수급희망자(본인) 또는 그 배우자, 주민등록 주소가 같은 자녀&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ※ 주민등록 주소가 다른 대리인(자녀, 친족, 사회복지시설장 등)은 온라인을 통한 대리신청이 불가&lt;/span&gt;&lt;/span&gt;\n\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;지급계좌) 수급희망자(본인) 명의의 계좌만 등록이 가능&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&lt;신청기간&gt;&lt;/span&gt;&lt;/span&gt;\n\n&lt;div class=\"hwp_editor_board_content\"&gt;\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;만 65세 생일이 속하는 달의 1개월 전 초일부터 신청･접수 가능&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:11px\"&gt;&lt;span style=\"line-height:95%\"&gt;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/span&gt;※&lt;span style=\"line-height:95%\"&gt;&nbsp;수급자로 결정된 경우 신청일이 속한 달부터 기초연금 지급 (사전신청자는 생일이 도래한 월부터 지급)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;\n\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n&lt;/div&gt;\n",
+  "ancName": "경상북도 영주시",
+  "deptName": "경상북도 영주시 문화복지국 노인장애인과",
+  "regDate": "20260622",
+  "ancCode": "5090000",
+  "deptCode": "5090205",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제10조(기초연금 지급의 신청)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

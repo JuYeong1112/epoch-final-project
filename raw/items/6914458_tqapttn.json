@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914458",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "구립 갈월종합사회복지관 주요 사업",
+  "qstnCntnCl": "구립 갈월종합사회복지관 주요 사업은 어떻게 되나요?",
+  "ansCntnCl": "○ 지원대상 : 용산구 지역주민&lt;br /&gt;\n○ 지원내용&lt;br /&gt;\n&nbsp; - 사례관리사업 : 사례관리 당사자 발굴 및 상담, 필요한 자원 연계, 긴급위기지원, 고립가구 전담기구사업&lt;br /&gt;\n&nbsp; - 서비스제공사업&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; : 교육문화사업(노인여가문화, 성인문해, 디지털문해), 장애성인평생교육사업, 지역사회보호사업(치매 예방, 나들이,&nbsp;&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 노인맞춤돌봄지원사업, 난방비 지원사업, 도시락/밑반찬 지원사업, 이동목욕사업), 1인가구 커뮤니티사업,&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 다문화가정 지원사업, 노인일자리 및 사회활동지원사업&lt;br /&gt;\n&nbsp; - 지역조직화사업 : 주민조직화사업, 시설개방사업, 후원사업, 후원자/자원봉사자 관리, 출판홍보사업&lt;br /&gt;\n&nbsp; - 실비사업 : 사회교육사업(미술, 피아노, 드럼, 우쿨렐레 등), 건강복지사업(수영, 아쿠아로빅, 헬스, PT, 요가, 필라테스,&nbsp;&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;아동발레, 줌바댄스, 검도 등)&lt;br /&gt;\n○ 신청기관 : 갈월종합사회복지관(02-752-7887)&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "서울특별시 용산구",
+  "deptName": "서울특별시 용산구 생활지원국 복지정책과",
+  "regDate": "20260728",
+  "ancCode": "3020000",
+  "deptCode": "3020208",
+  "lawList": [
+   {
+    "fullName": "기타",
+    "lwrdNm": "기타",
+    "lwrdUrl": "http://law.go.kr/법령/기타"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

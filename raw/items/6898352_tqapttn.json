@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6898352",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "의료급여 수급자는 정부양곡 지원받을 수 있나요?",
+  "qstnCntnCl": "의료급여 수급자는 정부양곡 지원받을 수 있나요?",
+  "ansCntnCl": "&lt;span style=\"line-height:130%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;정부양곡 대상자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;: &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:130%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;국민기초생활보장 수급자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;(&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;생계&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;의료&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;주거&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;교육급여 수급자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:130%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;차상위계층&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;(&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;차상위 장애인&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;, &lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;자활근로자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;, &lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;본인부담 경감대상자 등&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"line-height:130%\"&gt;&nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:130%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;기초생활보장 의료급여 수급자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;와 &lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;의료급여 수급자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=\"line-height:130%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;두 용어는 비슷하지만 법적 근거와 지원범위가 다릅니다.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;따라서 &lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;기초생활보장 수급자&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;로 등록된 의료급여 수급자만 정부양곡을 지원받을 수 있습니다&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"line-height:130%\"&gt;&nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "부산광역시 북구",
+  "deptName": "부산광역시 북구 금곡동",
+  "regDate": "20251114",
+  "ancCode": "3320000",
+  "deptCode": "3320026",
+  "lawList": [
+   {
+    "fullName": "양곡관리법 시행규칙 / 제1조의3(정부관리양곡의 용도별 매입자격기준)",
+    "lwrdNm": "양곡관리법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/양곡관리법 시행규칙"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

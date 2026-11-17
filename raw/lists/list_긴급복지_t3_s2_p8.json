@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409190257",
+   "title": "갑작스러운 질병이나 사고 등으로 긴급 돌봄이 필요하면?",
+   "faqNo": "6901829"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5470000",
+   "ancName": "경상남도 거창군",
+   "regDate": "20260401150407",
+   "title": "긴급복지 지원 제도가 무엇인지? 어떤 지원을 받을 수 있는지 궁금합니다.",
+   "faqNo": "6901582"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5470000",
+   "ancName": "경상남도 거창군",
+   "regDate": "20260401150355",
+   "title": "긴급복지 지원 대상이 아니라는 답변을 받았는데, 다른 복지 지원은 없나요?",
+   "faqNo": "6901583"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6270000",
+   "ancName": "대구광역시",
+   "regDate": "20260401093230",
+   "title": "대구시 &apos;이웃살핌 확인조사&apos;란 무슨 사업이고 왜 하는 것인가요?",
+   "faqNo": "6901497"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260327145528",
+   "title": "상병수당 시범사업",
+   "faqNo": "6900963"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3070000",
+   "ancName": "서울특별시 성북구",
+   "regDate": "20260204100832",
+   "title": "결식아동 급식사업에 대해 알고 싶습니다",
+   "faqNo": "6900036"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20251203152304",
+   "title": "에너지바우처의 지원대상 및 신청방법은 어떻게 되나요?",
+   "faqNo": "6898874"
+  },
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "3100000",
+   "ancName": "서울특별시 노원구",
+   "regDate": "20250731164453",
+   "title": "노원형 돌봄SOS 서비스",
+   "faqNo": "70028"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20250729200339",
+   "title": "양천형 밤샘 긴급돌봄 어린이집",
+   "faqNo": "6895624"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20250729152525",
+   "title": "긴급복지지원 금액 인상",
+   "faqNo": "6895510"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

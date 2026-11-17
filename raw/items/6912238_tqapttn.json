@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6912238",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "농식품 바우처는 어떤 사람들이 신청가능한가요?",
+  "qstnCntnCl": "농식품 바우처 신청 조건과 신청 방법\n",
+  "ansCntnCl": "농식품 바우처는 취약계층의 식품 접근성 강화 및 지속가능한 농식품 소비체계 구축을 위한 사업으로 아래의 요건을 충족한 가구라면 신청할 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;strong&gt;&lt;span style=&quot;font-size:14px&quot;&gt;1. 소득기준&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;\n&nbsp;국민기초생활 보장법 상 생계급여 수급가구&lt;br /&gt;\n&nbsp;(단, 생계급여 수급가구 가구원 중 국민기초생활 보장법 상 보장시설 수급자는 가구원 수 산출에서 제외)&lt;br /&gt;\n&lt;strong&gt;&lt;span style=&quot;font-size:14px&quot;&gt;2. 특성기준&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;\n&nbsp;생계급여 수급자인 가구원이 다음 어느 하나에 해당&lt;br /&gt;\n&nbsp; - 임산부, 영유아, 초등학생~고등학생 취학연령 아동, 청년(92.1.1 이후 출생자)&lt;br /&gt;\n&lt;br /&gt;\n위의 조건을 충족한 가구는 신청 대상자이며 신청 방법으로는 아래와 같이 있으며,&lt;br /&gt;\n&nbsp;1.&nbsp;농식품 바우처 홈페이지(&lt;a href=&quot;https://www.foodvoucher.go.k&quot;&gt;https://www.foodvoucher.go.k)&lt;/a&gt;&lt;br /&gt;\n&nbsp;2. ARS(1551-0857)&lt;br /&gt;\n&nbsp;3. 동 행정복지센터(주민등록소재지)&lt;br /&gt;\n해당 방법 중 하나를 선택하여&nbsp;신청하실 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n농식품 바우처 지원사업에 대한 소개 및 신청 방법에 대해 리플릿을&nbsp;첨부드리며, 추가적인 설명이 필요하거나 문의사항이 있으신 경우 농식품바우처 고객센터(1551-0857) 또는 목포시청 농업정책과 농식품 바우처 담당자(061-270-8087)로 연락주시면 안내하여 드리겠습니다.",
+  "ancName": "전남광주통합특별시 목포시",
+  "deptName": "전남광주통합특별시 목포시 미래전략산업국 농업정책과",
+  "regDate": "20260716",
+  "ancCode": "5780000",
+  "deptCode": "5780066",
+  "lawList": [
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의2(취약계층 등에 대한 식품 지원)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의3(농식품이용권의 지급 등)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의4(전담기관의 지정 등)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의5(과징금 처분)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

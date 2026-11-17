@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6913761",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "희망저축계좌1 지급 기준",
+  "qstnCntnCl": "매월 희망저축1 계좌 지급기준 문의합니다.",
+  "ansCntnCl": "&lt;span style=&quot;font-size:12px&quot;&gt;&lt;span style=&quot;font-family:Gulim&quot;&gt;1.&nbsp;&lt;span style=&quot;line-height:130%&quot;&gt;안녕하십니까? 귀하께서 국민신문고를 통해 신청하신 민원에 대한 검토 결과를 다음과 같이 알려드립니다.&lt;br /&gt;\n2.&nbsp;&lt;/span&gt;귀하의 민원 내용은 &quot;희망저축1 계좌의 지급기준&quot;에 관한 것으로 이해됩니다. 질의사항에 대해 검토한 의견은 다음과 같습니다.&lt;br /&gt;\n&nbsp; 가.&nbsp;(만기지급) 3년간 근로활동 지속 및 근로,사업소득 유지기준 충족, 본인적립금 납입, 탈수급시&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- (근로,사업소득) 통장가입기간 3년 동안 가구의 근로,사업소득이 소득하한선(월 10만원) 이상 유지&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- (적립유지) 통장가입기간 동안 본인적립금 저거립&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- (탈수급) 소득,가구원 변동 등으로 생계,의료수급에서 모두 벗어난 상태&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;단, 지급을 받기 위해 임의로 생계,의료급여 수급을 포기하는 경우 탈수급 인정 불가&lt;br /&gt;\n&nbsp; 나. (중도지급) 사회보장급여 확인조사를 통해 근로,사업소득이 소득상한 초과 시&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- 3개월 평균 근로,사업소득이 소득상한을 초과하더라도 탈수급 요건을 충족하지 않은 경우 통장 유지 및 장려금 적립&nbsp;가능&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- 탈수급 후 최근 3월 평균 소득상항 초과 시 전월까지 적립된 금액이 모두 지급되고 사업종료&lt;br /&gt;\n3.&nbsp;&lt;span style=&quot;line-height:130%&quot;&gt;답변 내용에 대한 추가 설명이 필요한 경우 양주시 복지지원과 담당 주무관(☏031-8082-5764)에게 연락주시면 친절히 안내해 드리도록 하겠습니다. 감사합니다. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n&nbsp;",
+  "ancName": "경기도 양주시",
+  "deptName": "경기도 양주시 복지교육국 복지지원과",
+  "regDate": "20260727",
+  "ancCode": "5590000",
+  "deptCode": "5590318",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제26조(급여의 결정 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6911993",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "농식품바우처사업 신청자격 및 지원내용",
+  "qstnCntnCl": "농식품바우처사업 신청자격은 무엇이며, 무엇을 지원받나요?",
+  "ansCntnCl": "□ 지원대상 : 생계급여(기준 중위소득 32%이하) 수급 가구 중 임산부,영유아,아동,청년(1992.1.1. 이후 출생자) 포함가구&lt;br /&gt;\n□ 지원내용 : 국산식품 8종(과일류, 채소류, 흰우유, 신선알류, 육류, 잡곡류, 두부류, 임산물)을 구입할 수 있는 농식품바우처카드 지원 및 식생활교육 병행&lt;br /&gt;\n□ 지원금액 : 가구원 수에 따라 가구단위로 월 지원금액 차등 지원 (1인-4만원/4인-10만원)&lt;br /&gt;\n□ 신청방법&lt;br /&gt;\n&nbsp; - (온라인) 농식품바우처지원사업 홈페이지 &lt;a href=&quot;http://www.foodvoucher.go.kr&quot;&gt;www.foodvoucher.go.kr&lt;/a&gt;&lt;br /&gt;\n&nbsp; - (ARS) 1551-0857&lt;br /&gt;\n&nbsp; - (방문) 주민등록 주소지 관할 주민센터",
+  "ancName": "서울특별시 중랑구",
+  "deptName": "서울특별시 중랑구 보건소 건강증진과",
+  "regDate": "20260716",
+  "ancCode": "3060000",
+  "deptCode": "3060163",
+  "lawList": [
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의2(취약계층 등에 대한 식품 지원)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의3(농식품이용권의 지급 등)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의4(전담기관의 지정 등)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   },
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의5(과징금 처분)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

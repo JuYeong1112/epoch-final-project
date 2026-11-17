@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909810",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "그냥드림 사업 안내",
+  "qstnCntnCl": "그냥드림 사업 이용대상과 절차에 대해 알려주세요.",
+  "ansCntnCl": "갑작스러운 위기상황으로 생계에 어려움을 겪고 있지만 기존 복지제도를 이용하기까지 시간이 필요한 시민들을 위해 보건복지부에서는 2025년 12월부터 &apos;그냥드림&apos; 사업을 운영하고 있습니다.&lt;br /&gt;\n&apos;그냥드림&apos; 사업은 소득심사나 사전신청 없이 긴급한 생계위기에 놓인 시민들에게 먹거리 키트를 신속하게 지원하여 기존 푸드마켓(푸드뱅크) 제도의 한계를 보완하고, 그냥드림 제공과정에서 위기가구에 대한 상담 및 복지서비스 연계를 통해 복지 사각지대를 해소하고자 합니다.&lt;br /&gt;\n&lt;br /&gt;\n□ 이용대상&lt;br /&gt;\n&nbsp; &nbsp; - 생계에 어려움을 겪는 모든 국민&lt;br /&gt;\n&nbsp; &nbsp; - 소득심사나 사전신청 없이 이용 가능&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;(예외) 미등록 이주민, 범죄피해자 등 긴급지원 필요 시 주소지 관계없이 우선 지원 가능&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;(제외) 시설단체, 기존 푸드마켓뱅크 이용자&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□ 지원품목 및 수량&lt;br /&gt;\n&nbsp; &nbsp; - 주식곡류, 면빵류 등 기본 먹거리&lt;br /&gt;\n&nbsp; &nbsp; - 1인당 3~5개 품목 패키지(2만원 한도)&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□ 운영장소: 대전광역시 푸드마켓 5개소&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 1호점 / 서구 계룡로219번길 17(월평동)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 3호점 / 대덕구 계족로608번길 15(법동)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 4호점 / 유성구 봉산로36번길 1(봉산동)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 5호점 / 중구 보문로 142(대사동)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 7호점 / 동구 동구청로203번길 1(판암동)&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□ 이용 절차&lt;br /&gt;\n&nbsp; &nbsp; - 거주지에 소재한&nbsp;그냥드림 사업장(푸드마켓푸드뱅크) 이용 원칙&lt;br /&gt;\n&nbsp; &nbsp; - (최초 방문) 서비스 이용을 원하는 주민은 소재지 내 그냥드림 사업장을 방문&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp;* 자가점검 체크리스트 작성 후 이용 대상에 해당되는 경우 물품 지원 가능&lt;br /&gt;\n&nbsp; &nbsp; - (2회차 방문) 기본 상담 진행 후 추가 지원이&nbsp;필요하다고 판단되는 경우 읍면동으로 복지서비스 연계&lt;br /&gt;\n&nbsp; &nbsp; - (3회차 방문) 거주지 관할 읍면동에 방문하여 상담 기록서를 발급 &rarr;&nbsp;그냥드림 사업장에 방문하여 물품 이용&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□ 이용 한도: 1인 월 1회&lt;br /&gt;\n&lt;br /&gt;\n□ 문의할 곳&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 1호점 (☎042-488-1370)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 3호점 (☎042-637-1377)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 4호점 (☎042-935-1377)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 5호점 (☎042-256-1377)&lt;br /&gt;\n&nbsp; &nbsp; - 푸드마켓 7호점 (☎042-286-1377)&lt;br /&gt;\n&nbsp;",
+  "ancName": "대전광역시",
+  "deptName": "대전광역시 복지국 복지정책과",
+  "regDate": "20260629",
+  "ancCode": "6300000",
+  "deptCode": "6301004",
+  "lawList": [
+   {
+    "fullName": "기타",
+    "lwrdNm": "기타",
+    "lwrdUrl": "http://law.go.kr/법령/기타"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

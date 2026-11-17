@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6911171",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초생활수급자 신청 관련 방법 문의",
+  "qstnCntnCl": "국민기초생활보장제도 신청 방법 및 선정 기준이 궁금합니다. ",
+  "ansCntnCl": "○ 지원대상: 근로능력여부연령 등에 관계없이 국가의 보장을 필요로 하는 급여종류별 최저보장수준 이하의 모든 가구&lt;br /&gt;\n&lt;strong&gt;○ 급여종류: 기초생계/의료/주거/교육급여&lt;/strong&gt;&lt;br /&gt;\n○ 신청방법&lt;br /&gt;\n&nbsp;- 신청권자: 수급권자, 친족, 기타 관계인&lt;br /&gt;\n&nbsp;&lt;strong&gt;- 신청장소: 읍면사무소 및 동 주민센터&lt;br /&gt;\n&nbsp;- 신청서식: 사회보장급여 신청(변경)서, 금융정보 등 제공 동의서 등&lt;/strong&gt;&lt;br /&gt;\n&nbsp;- 구비서류(해당자에 한함): 임대차계약서, 가족관계기록사항에 관한 증명서, 외국인등록사실증명서 등&lt;br /&gt;\n&nbsp;- 처리기한: 30일(신청일로부터 60일까지 연장가능)&lt;br /&gt;\n○ 지원내용&lt;br /&gt;\n&nbsp;- 생계급여: 기준 중위소득 32%에 해당하는 금액과 가구의 소득인정액과의 차액을 지급&lt;br /&gt;\n&nbsp;- 의료급여: 근로능력 유무에 따라 1종, 2종으로 구분하여&nbsp;의료비 지원&lt;br /&gt;\n&nbsp;- 주거급여: 국토교통부 장관이 정하는 기준에 따라 지급&lt;br /&gt;\n&nbsp;- 교육급여: 교육부 장관이 정하는 기준에 따라 입학금, 수업료, 교육활동지원비 지급&lt;br /&gt;\n○&nbsp;조사내용 및 선정기준&lt;br /&gt;\n&nbsp;가. 조사내용&lt;br /&gt;\n&nbsp;&nbsp;1) 수급권자, 부양의무자의 소득 및 재산&lt;br /&gt;\n&nbsp;&nbsp;2) 부양의무자 유무, 부양능력, 실제 부양여부&lt;br /&gt;\n&nbsp;&nbsp;3) 수급권자의 근로능력, 취업상태, 자활욕구 주택조사(LH시행) 등&lt;br /&gt;\n&nbsp;나.&nbsp;선정기준&lt;br /&gt;\n&nbsp;&nbsp;1) 보장가구의 소득인정액이 다음의 급여종류별 선정기준 이하인 경우&nbsp;: &lt;span style=&quot;background-color:#ffffff; color:#424242; font-family:-apple-system,BlinkMacSystemFont,&quot;&gt;생계 32%, 의료 40%, 주거 48%, 교육 50%&lt;br /&gt;\n&nbsp;&nbsp;2) 부양의무자 기준 범위&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;- 생계급여: 2021. 10. 1. 이후 부양의무자 기준 폐지&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 단, 부양의무자가 연 소득 1.3억원(월 소득 1,084만원) 또는 일반재산 12억원을 초과하는 경우 제외&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;-&lt;/span&gt;&lt;span style=&quot;color:#424242&quot;&gt;&lt;span style=&quot;font-size:medium&quot;&gt; &lt;/span&gt;&lt;/span&gt;의료급여&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 범위: 수급권자의 1촌 직계혈족 및 그 배우자(단, 사망한 1촌 직계혈족의 배우자는 제외)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; * 부양능력 판정소득액=실제소득-가구특성별 지출비용",
+  "ancName": "전남광주통합특별시 여수시",
+  "deptName": "전남광주통합특별시 여수시 복지교육국 사회복지과",
+  "regDate": "20260713",
+  "ancCode": "5785000",
+  "deptCode": "5785095",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제2조(정의)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 시행규칙 / 제34조(급여의 신청)",
+    "lwrdNm": "국민기초생활 보장법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법 시행규칙"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5060000",
+   "ancName": "경상북도 김천시",
+   "regDate": "20260609151334",
+   "title": "경북 김천시 수도요금 감면(다자녀, 기초수급, 출산감면 등) 신청은 어떻게 하나요?",
+   "faqNo": "6906471"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4191000",
+   "ancName": "강원특별자치도 원주시",
+   "regDate": "20260609104445",
+   "title": "국민기초생활보장 수급자는 어떻게 신청하나요?",
+   "faqNo": "6906209"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260607100725",
+   "title": "농식품 바우처 지원사업은 어떻게 신청하나요?",
+   "faqNo": "6906134"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5670000",
+   "ancName": "경상남도 창원시",
+   "regDate": "20260605092201",
+   "title": "스포츠강좌이용권은 신청 자격과 방법이 어떻게 되나요?",
+   "faqNo": "6906026"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5060000",
+   "ancName": "경상북도 김천시",
+   "regDate": "20260602091549",
+   "title": "일반스포츠강좌이용권 신청 방법",
+   "faqNo": "6905813"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260601153818",
+   "title": "노인복지시설(노인양로시설 및 노인요양시설) 입소 및 이용 신청",
+   "faqNo": "6905486"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20260601132232",
+   "title": "2026년도 기초생계급여 어떻게 바뀌었나요?",
+   "faqNo": "6905665"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5150000",
+   "ancName": "경상북도 의성군",
+   "regDate": "20260529091603",
+   "title": "긴급복지지원 종류",
+   "faqNo": "6905490"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260528175051",
+   "title": "공공근로사업 참여대상 및 일정",
+   "faqNo": "6905484"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260528142346",
+   "title": "긴급지원사업 지원 대상 및 신청방법",
+   "faqNo": "6905309"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

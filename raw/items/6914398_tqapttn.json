@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914398",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초생활보장급여 부양의무자 기준 안내",
+  "qstnCntnCl": "국민기초생활보장사업 의료급여의 부양의무자 기준",
+  "ansCntnCl": "1. 안녕하십니까? 귀하께서 국민신문고에 신청하신 민원에 대한 검토결과를 다음과 같이 알려드립니다.&lt;br /&gt;\n2. 귀하께서 제출하신 민원의 내용은 &quot;국민기초생활보장사업 의료급여의 부양의무자 기준&quot;에 관한 것으로&lt;br /&gt;\n&nbsp;&nbsp; 이해됩니다.&lt;br /&gt;\n3. 귀하의 민원에 대한 검토결과는 다음과 같습니다.&lt;br /&gt;\n&nbsp; 가. 의료급여 부양의무자 조사 대상&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 1) 수급(권)자의 1촌 직계혈족과 그 배우자 (단, 사망한 1촌의 직계혈족의 배우자는 제외)&nbsp; ※연령 무관&lt;br /&gt;\n&nbsp; 나. 의료급여 부양의무자의 소득 및 재산 기준&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 1) 소득조사 : 실제소득 - 가구특성별지출&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 실제소득 : 근로소득, 사업소득, 재산소득, 공적이전소득(일부)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 2) 재산조사 : (재산가액 - 기본재산액 - 부채) * 재산별 소득환산액&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 재산 : 일반재산, 금융재산, 자동차, 기타 산정되는 재산&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 기본재산액 : 서울(36,400만원), 경기(29,400만원), 광역세종창원(28,300만원), 기타(19,500만원)&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 3) 부양의무자의 소득 및 재산율 부양능력 판정기준표에 따라 부양능력 판정&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 부양능력 판정기준표 : 수급(권)자부양의무자의 가구원수, 부양의무자의 거주지별 상이&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; ※ 보건복지부 홈페이지의 2026년 국민기초생활보장사업안내 P. 212~216 부양능력 판정기준표 참고&lt;br /&gt;\n&nbsp; 다. 의료급여 부양의무자 기준 폐지&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 1) 수급(권)자가 30세 미만의 한부모가구, 자립준비청년(보호종료아동)인 경우&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 2) 부양의무자 가구에 중증장애인이 포함된 경우&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 3) 부양의무자 가구에 기초연금 노인이 포함된 경우&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; 4) 수급(권)자 가구에 중증장애인이 포함된 경우 (단, 연소득 1.3억원 또는 일반재산 12억원을 초과하는&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 부양의무자가 있을 경우 수급자 선정 제외)&lt;br /&gt;\n4. 답변 내용에 대한 추가 설명이 필요한 경우 양주시 복지지원과 담당주무관(031-8082-5774)에게&lt;br /&gt;\n&nbsp;&nbsp; 연락주시면 친절히 안내해 드리도록 하겠습니다. 감사합니다.&nbsp; 끝.",
+  "ancName": "경기도 양주시",
+  "deptName": "경기도 양주시 복지교육국 복지지원과",
+  "regDate": "20260729",
+  "ancCode": "5590000",
+  "deptCode": "5590318",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제8조의2(부양능력 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제12조의3(의료급여)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6906209",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "국민기초생활보장 수급자는 어떻게 신청하나요?",
+  "qstnCntnCl": "국민기초생활보장 수급자는 어떻게 신청하나요?",
+  "ansCntnCl": "&lt;strong&gt;국민기초생활보장사업 신청방법에 대하여 아래와 같이 안내드립니다.&lt;/strong&gt;&lt;br /&gt;\n&lt;br /&gt;\n1. 급여 신청&lt;br /&gt;\n&nbsp;- 수급권자 가구의 가구원 및 그 친족, 그 밖의 관계인이 신청할 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n2. 신청 장소&lt;br /&gt;\n&nbsp;- 신청인의 주민등록상 주소지 관할 읍면동 행정복지센터에 방문하여 신청할 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n3. 신청 서류&lt;br /&gt;\n&nbsp;- 사회보장급여 제공(변경) 신청서&lt;br /&gt;\n&nbsp;- 금융정보 등 제공동의서&lt;br /&gt;\n&nbsp;- 그 밖에 필요에 따라 가족관계증명서, 임대차계약서, 통장사본 등의 서류를 추가로 제출하여야 할 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n4. 처리기한&lt;br /&gt;\n&nbsp;- 신청일로부터 30일 이내에 처리됩니다.&lt;br /&gt;\n&nbsp;- 다만, 소득재산 조사 등에 시일이 소요되는 경우에는 처리기한이 60일 이내로 연장될 수 있습니다.&lt;br /&gt;\n&nbsp;- 서류 미비로 인한 보완 요청 시 보완에 소요되는 기간은 민원 처리기간에 산입되지 않습니다.&lt;br /&gt;\n&lt;br /&gt;\n5. 지원 내용&lt;br /&gt;\n&nbsp;- 선정기준을 충족하는 경우 생계급여, 의료급여, 주거급여, 교육급여 등 가구의 상황에 맞는 급여를 지원받을 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n6. 문의 사항&lt;br /&gt;\n- 보다 자세한 사항은 주소지 관할 읍면동 행정복지센터 또는 보건복지상담센터(☎129)로 문의하여 주시기 바랍니다.",
+  "ancName": "강원특별자치도 원주시",
+  "deptName": "강원특별자치도 원주시 복지국 생활보장과",
+  "regDate": "20260609",
+  "ancCode": "4191000",
+  "deptCode": "4191027",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제1조(목적)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

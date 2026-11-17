@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4701000",
+   "ancName": "전북특별자치도 남원시",
+   "regDate": "20261029145333",
+   "title": "농식품바우처 지원대상",
+   "faqNo": "6917217"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20261020151457",
+   "title": "시설생계급여 대상자의 주소지",
+   "faqNo": "6901516"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1210000",
+   "ancName": "국세청",
+   "regDate": "20261012145031",
+   "title": "근로장려금 지급 관련",
+   "faqNo": "6916891"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5440000",
+   "ancName": "경상남도 하동군",
+   "regDate": "20260909133807",
+   "title": "문화체육과 스포츠 강좌 이용권 문의",
+   "faqNo": "6916537"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3040000",
+   "ancName": "서울특별시 광진구",
+   "regDate": "20260831093210",
+   "title": "에너지바우처 지원사업",
+   "faqNo": "6916372"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3370000",
+   "ancName": "부산광역시 연제구",
+   "regDate": "20260813213950",
+   "title": "장제급여 신청자격 및 기준은 어떻게 되나요",
+   "faqNo": "6916090"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1210000",
+   "ancName": "국세청",
+   "regDate": "20260806151108",
+   "title": "근로장려금이 왜 단독가구를 기준으로 결정된건지 알고싶습니다",
+   "faqNo": "6915953"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4540000",
+   "ancName": "충청남도 논산시",
+   "regDate": "20260804151109",
+   "title": "에너지바우처 지원 대상 및 신청",
+   "faqNo": "6910720"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260731172004",
+   "title": "지방세 체납 얼마부터 부동산과 차량에 압류가 가능한지",
+   "faqNo": "6915758"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3190000",
+   "ancName": "서울특별시 동작구",
+   "regDate": "20260730195601",
+   "title": "푸드마켓 이용 대상 및 신청 방법",
+   "faqNo": "6915034"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

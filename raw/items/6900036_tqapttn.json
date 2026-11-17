@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900036",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "결식아동 급식사업에 대해 알고 싶습니다",
+  "qstnCntnCl": "결식아동 급식사업에 대해 알고 싶습니다",
+  "ansCntnCl": "결식아동 급식사업에 대해 안내해 드리겠습니다.&lt;br /&gt;\n&lt;br /&gt;\nㅇ 지원대상&lt;br /&gt;\n&nbsp; - 지원연령: 18세 미만의 취학 및 미취학 결식우려 아동&lt;br /&gt;\n&nbsp;&nbsp; ※ 18세 이상인 경우에도「초중등교육법」제2조에 따른 학교에 재학 중인 아동 포함&lt;br /&gt;\n&nbsp;&nbsp; ※ 결식우려의 정의: 보호자가 근로, 질병장애 등의 사유로 주식과 부식을 준비하기 어렵거나,주부식을 준비하는 경우에도 아동 스스로 식사를 해결하기 어려운 경우&lt;br /&gt;\n&nbsp; - 선정대상:&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (1) 아래의 어느 하나에 해당하는 아동으로서 결식우려가 있는 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  「국민기초생활보장법」 제2조2호에 따른 수급자 가구의 아동, 차상위계층 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  「한부모가족지원법」 제5조 및 제5조의2에 따른 지원대상자가 양육하는 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  「긴급복지지원법」에 따른 긴급복지 지원대상 가구의 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  보호자가 사망, 가출, 행방불명, 구금시설에 수용되는 등의 사유로 보호가 필요한 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  보호자의 사고, 급성질환, 만성질환 등의 사유로 보호자의 양육능력이 미약한 가구의 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  기준중위소득 60% 이하인 가구의 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;  위 각호에는 해당되지 않으나 담임교사, 통‧반장, 사회복지사, 담당 공무원 등이 추천하는 아동으로서 아동급식위원회에서 급식지원이 필요하다고 결정한 아동&lt;br /&gt;\n&nbsp;&nbsp; ※ 위 대상자 중「아동복지법」제15조에 따라 생활시설 및 가정위탁으로 보호조치된 아동 제외&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (2) 지역아동센터 등의 아동프로그램 이용 아동&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (3) 외국 국적 아동 중 위의 기준에 해당하는 아동&lt;br /&gt;\n&lt;br /&gt;\nㅇ 지원유형: 연중 조석식, 토공휴일 및 방학중 중식&lt;br /&gt;\n&lt;br /&gt;\nㅇ 지원단가: 1식 10,000원&lt;br /&gt;\n&lt;br /&gt;\nㅇ 지원방법: 대상 아동 특성과 여건 따라 급식 형태 선택 지원&lt;br /&gt;\n&nbsp; - 단체급식소: 지역아동센터 이용 아동 센터 내 급식 제공&lt;br /&gt;\n&nbsp; - 꿈나무카드: 꿈나무카드 가맹점(일반음식점, 편의점 등) 이용 식사 및 구매&lt;br /&gt;\n&nbsp; - 도시락배달: 꿈나무카드 석식대상자 중 초등학생 이하(필수), 중고등학생(선택) 가정으로 주 2회(월 8회) 배달&lt;br /&gt;\n&lt;br /&gt;\nㅇ 신청방법&lt;br /&gt;\n&nbsp; - 동주민센터 방문 또는 복지로(&lt;a href=&quot;http://www.bokjiro.go.kr&quot;&gt;www.bokjiro.go.kr&lt;/a&gt;) 사이트에서 신청",
+  "ancName": "서울특별시 성북구",
+  "deptName": "서울특별시 성북구 복지교육국 아동청소년과",
+  "regDate": "20260204",
+  "ancCode": "3070000",
+  "deptCode": "3070295",
+  "lawList": [
+   {
+    "fullName": "아동복지법 / 제35조(건강한 심신의 보존)",
+    "lwrdNm": "아동복지법",
+    "lwrdUrl": "http://law.go.kr/법령/아동복지법"
+   },
+   {
+    "fullName": "아동복지법 시행령 / 제35조(건강한 심신의 보존)",
+    "lwrdNm": "아동복지법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/아동복지법 시행령"
+   },
+   {
+    "fullName": "아동복지법 시행령 / 제36조(급식지원)",
+    "lwrdNm": "아동복지법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/아동복지법 시행령"
+   },
+   {
+    "fullName": "서울특별시 성북구 아동급식 지원 조례 / 제2조(급식지원의 대상)",
+    "lwrdNm": "서울특별시 성북구 아동급식 지원 조례",
+    "lwrdUrl": "http://law.go.kr/법령/서울특별시 성북구 아동급식 지원 조례"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730164340",
+   "title": "푸드뱅크마켓센터는 무엇인가요?",
+   "faqNo": "6914750"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3460000",
+   "ancName": "대구광역시 수성구",
+   "regDate": "20260730142901",
+   "title": "기초생활수급자의 복지급여 문의",
+   "faqNo": "6915232"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3670000",
+   "ancName": "대전광역시 유성구",
+   "regDate": "20260730103357",
+   "title": "장애인생활안정지원(장애인연금, 장애수당) 신청 안내",
+   "faqNo": "6915058"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3360000",
+   "ancName": "부산광역시 강서구",
+   "regDate": "20260730101036",
+   "title": "지역공동체일자리가 무엇인지 궁금합니다.",
+   "faqNo": "6914619"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3940000",
+   "ancName": "경기도 고양시",
+   "regDate": "20260730090018",
+   "title": "긴급생계비와 생계급여 간 공제 이유 및 계산 방식",
+   "faqNo": "6914936"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260729160229",
+   "title": "국가형 긴급복지 지원(3개월)을 받았는데, 생계급여에서 차감, 환수되었다고 하며  이번달",
+   "faqNo": "6914802"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5580000",
+   "ancName": "충청남도 계룡시",
+   "regDate": "20260729133445",
+   "title": "생계급여 신청방법 문의",
+   "faqNo": "6914622"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3090000",
+   "ancName": "서울특별시 도봉구",
+   "regDate": "20260729101130",
+   "title": "자활근로 참여대상 문의",
+   "faqNo": "6914617"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3090000",
+   "ancName": "서울특별시 도봉구",
+   "regDate": "20260729101041",
+   "title": "임대주택 문의",
+   "faqNo": "6914616"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3090000",
+   "ancName": "서울특별시 도봉구",
+   "regDate": "20260729100953",
+   "title": "부정수급 신고",
+   "faqNo": "6914613"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

@@ -1,0 +1,50 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6902186",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "동주민센터 민원창구에서 처리할 수 있는 민원의 종류는 어떤 것들이 있을까요? ",
+  "qstnCntnCl": "동주민센터 민원창구에서 처리 가능한 민원 종류는 어떤 것들이 있나요? ",
+  "ansCntnCl": "1. 가족관계/ 출생 또는 사망 관련&lt;br /&gt;\n&nbsp;- 출생신고, 사망신고, 혼인신고, 이혼신고, 입양신고, 파양신고&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;가족관계증명서 발급, 혼인관계증명서 발급, 기본정명서 발급, 입양관계증명서 발급, 친양자입양관계증명서 발급 등&lt;br /&gt;\n&lt;br /&gt;\n2. 주민등록 관련&lt;br /&gt;\n&nbsp;- 전입신고, 주민등록증 발급 및 재발급, 주민등록증 분실신고, 주민등록 말소 및 회복신청,&lt;br /&gt;\n&nbsp;&nbsp; 주민등록표 등본 및 초본 발급, 거주불명 등록 신청, 세대분리 및 합가신청 등&lt;br /&gt;\n&lt;br /&gt;\n3. 인감, 본인서명사실 확인 관련&lt;br /&gt;\n&nbsp;- 인감도장 등록변경말소, 인감증명서 발급, 본인서명사실확인서 발급 등&lt;br /&gt;\n&lt;br /&gt;\n4. 복지 관련&lt;br /&gt;\n&nbsp;- 기초생활수급자(생계&nbsp;의료&nbsp;주거&nbsp;교육급여), 차상위계층, 긴급복지, 장애인 등록 및 변경, 장애인 활동지원,&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;기초연금, 한부모가족, 아동수당, 영유아보육료, 에너지바우처, 문화누리카드 신청 등&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;5. 증명서 발급&lt;br /&gt;\n&nbsp; - 건강보험료 납부확인서, 지방세 납세 증명서, 토지(임야)대장 등본, 건축물대장 등본, 병적증명서, 챠량등록원부 등&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;6. 선거기간 중&nbsp;&lt;br /&gt;\n&nbsp;&nbsp; - 국외부재자 신고, 선거인명부 열람&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;등 이 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;이&nbsp;외&nbsp;기타 에코마일리지&nbsp;가입, 공구대여, 우유팩 휴지교환,&nbsp;&lt;br /&gt;\n&nbsp;재활용 쓰레기 분리배출을 위한 마대자루 지급,&nbsp;소가전 수거 등이 가능하며&nbsp;&lt;br /&gt;\n&nbsp;방문 전&nbsp;전화 문의 주실경우 자세한 상담 받으실 수 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "서울특별시 강동구",
+  "deptName": "서울특별시 강동구 명일1동",
+  "regDate": "20260414",
+  "ancCode": "3240000",
+  "deptCode": "3240041",
+  "lawList": [
+   {
+    "fullName": "주민등록법 / 제1조(목적)",
+    "lwrdNm": "주민등록법",
+    "lwrdUrl": "http://law.go.kr/법령/주민등록법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제1조(목적)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "가족관계의 등록 등에 관한 법률 / 제1조(목적)",
+    "lwrdNm": "가족관계의 등록 등에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/가족관계의 등록 등에 관한 법률"
+   },
+   {
+    "fullName": "인감증명법 / 제1조(목적)",
+    "lwrdNm": "인감증명법",
+    "lwrdUrl": "http://law.go.kr/법령/인감증명법"
+   },
+   {
+    "fullName": "노인복지법 / 제1조(목적)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   },
+   {
+    "fullName": "장애인복지법 / 제1조(목적)",
+    "lwrdNm": "장애인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/장애인복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

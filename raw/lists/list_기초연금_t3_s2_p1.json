@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4420000",
+   "ancName": "충청북도 보은군",
+   "regDate": "20261027111922",
+   "title": "치매공공후견인 제도에 대해 알고싶어요.",
+   "faqNo": "6917070"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5895000",
+   "ancName": "전남광주통합특별시 장성군",
+   "regDate": "20260731160555",
+   "title": "장성군 화장장려금 지원액, 신청기한, 신청절차 문의",
+   "faqNo": "6915488"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260731094329",
+   "title": "주택공시가격은 언제 결정되고, 어디서 확인할 수 있나요?",
+   "faqNo": "6915196"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1721000",
+   "ancName": "과학기술정보통신부",
+   "regDate": "20260731071559",
+   "title": "취약계층 통신요금감면 관련 안내사항",
+   "faqNo": "6914671"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5600000",
+   "ancName": "경기도 포천시",
+   "regDate": "20260730173541",
+   "title": "시각 장애인 안마 서비스",
+   "faqNo": "6915441"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730142645",
+   "title": "평생교육이용권(구. 평생교육바우처)",
+   "faqNo": "6915247"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3670000",
+   "ancName": "대전광역시 유성구",
+   "regDate": "20260730103357",
+   "title": "장애인생활안정지원(장애인연금, 장애수당) 신청 안내",
+   "faqNo": "6915058"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730095052",
+   "title": "기초연금 소급 지급 여부 문의",
+   "faqNo": "6915009"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5580000",
+   "ancName": "충청남도 계룡시",
+   "regDate": "20260729133326",
+   "title": "계룡시 노인목욕비 및 이미용비 관련 문의",
+   "faqNo": "6914072"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5890000",
+   "ancName": "전남광주통합특별시 영광군",
+   "regDate": "20260729132406",
+   "title": "노인맞춤돌봄서비스 신청 자격",
+   "faqNo": "6914297"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

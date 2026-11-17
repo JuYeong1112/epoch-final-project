@@ -1,0 +1,72 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4010000",
+   "ancName": "경기도 시흥시",
+   "regDate": "20250626133038",
+   "title": "영유아 발달장애 정밀검사비 지원",
+   "faqNo": "6889647"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250620095530",
+   "title": "2025년 에너지바우처 지원대상과 신청방법은 어떻게 되나요?",
+   "faqNo": "6885495"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3010000",
+   "ancName": "서울특별시 중구",
+   "regDate": "20250612112031",
+   "title": "동행일자리 사업에 참여하고 싶은데 자격요건이 어떻게 될까요?",
+   "faqNo": "6884727"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4191000",
+   "ancName": "강원특별자치도 원주시",
+   "regDate": "20250610160033",
+   "title": "스포츠강좌이용권 대상자 기준 안내",
+   "faqNo": "6886145"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4181000",
+   "ancName": "강원특별자치도 춘천시",
+   "regDate": "20250604182540",
+   "title": "기초생활수급 신청 시 부양의무자 조사 여부",
+   "faqNo": "6881852"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1210000",
+   "ancName": "국세청",
+   "regDate": "20250520134852",
+   "title": "부양가족 공제",
+   "faqNo": "6882889"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5070000",
+   "ancName": "경상북도 안동시",
+   "regDate": "20250429170437",
+   "title": "노인일자리 및 사회활동 지원사업 신청자격이 궁금합니다.",
+   "faqNo": "6882079"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5070000",
+   "ancName": "경상북도 안동시",
+   "regDate": "20250225163317",
+   "title": "기초생활수급자 상수도사용료 감면",
+   "faqNo": "6879814"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

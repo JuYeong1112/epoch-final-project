@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6885495",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "2025년 에너지바우처 지원대상과 신청방법은 어떻게 되나요?",
+  "qstnCntnCl": "2025년 에너지바우처 지원대상과 신청방법과  어떻게 되나요?",
+  "ansCntnCl": "&lt;span style=&quot;font-size:14px&quot;&gt;2025년 에너지바우처 지원대상과 신청방법은 다음과 같습니다.&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;가. (대상자) 소득 기준*과 세대원 특성 기준**을 모두 충족하는 자&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:161%&quot;&gt;&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;* 소득기준 : 「국민기초생활보장법」 상 생계의료주거교육급여 수급자&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:161%&quot;&gt;&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;** 세대원 특성 기준 : 대상자 본인 또는 세대원이 노인, 영유아, 장애인, 임산부, 중증희귀중증난치질환자, 한부모가족소년소녀가정 중 어느 하나에 해당 &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;나. (신청기간) 2025. 6. 9.(월) ~ 2025. 12. 31.(수)&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;다. (신청방법) ① 주민등록상 거주지의 읍면동 행정복지센터에서 신청 &lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-family:맑은 고딕&quot;&gt;② 복지로(www.bokjiro.go.kr)에서 온라인 신청 &lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 수지구 상현1동",
+  "regDate": "20250620",
+  "ancCode": "4050000",
+  "deptCode": "5640014",
+  "lawList": [
+   {
+    "fullName": "에너지법 / 제16조의2(에너지복지 사업의 실시 등)",
+    "lwrdNm": "에너지법",
+    "lwrdUrl": "http://law.go.kr/법령/에너지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

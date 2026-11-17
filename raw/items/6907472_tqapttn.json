@@ -1,0 +1,60 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6907472",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "생계급여 금액은 매달 똑같이 나오나요? 어떻게 계산되나요?",
+  "qstnCntnCl": "Q) 생계급여 금액은 매달 똑같이 나오나요? 어떻게 계산되나요?",
+  "ansCntnCl": "&lt;strong&gt;A.&lt;/strong&gt; 생계급여액은 매월 고정된 금액이 아니라, 가구별 &lt;strong&gt;생계급여 최저보장수준(대상자 선정기준)에서 해당 가구의 &apos;소득인정액&apos;을&lt;br /&gt;\n차감한 금액&lt;/strong&gt;으로 산정됩니다.\n&lt;ul&gt;\n\t&lt;li&gt;&lt;em&gt;산식: 생계급여액 = 생계급여 선정개준액&nbsp;- 가구별 소득인정액&lt;/em&gt;&lt;/li&gt;\n\t&lt;li&gt;따라서 가구원의 소득이나 재산 등의 변동으로 인해 소득인정액이 바뀌면 생계급여액도 변동될 수 있습니다.&lt;/li&gt;\n\t&lt;li&gt;급여는 십원 단위(원단위 올림)로 지급됩니다.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;strong&gt;■ 2026년 생계급여 가구원수별 기준 (1~4인 가구)&lt;/strong&gt;\n\n&lt;table&gt;\n\t&lt;thead&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;가구 규모&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;2026년 기준 중위소득 (월)&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;2026년 생계급여 선정기준액 (월 최대 지급액)&lt;/strong&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/thead&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;1인 가구&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;2,564,238원&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;820,556원&lt;/strong&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;2인 가구&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;4,199,292원&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;1,343,773원&lt;/strong&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;3인 가구&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;5,359,036원&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;1,714,892원&lt;/strong&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;4인 가구&lt;/strong&gt;&lt;/td&gt;\n\t\t\t&lt;td&gt;6,494,738원&lt;/td&gt;\n\t\t\t&lt;td&gt;&lt;strong&gt;2,078,316원&lt;/strong&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n",
+  "ancName": "경상북도 영주시",
+  "deptName": "경상북도 영주시 문화복지국 복지정책과",
+  "regDate": "20260617",
+  "ancCode": "5090000",
+  "deptCode": "5090189",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제4조(급여의 기준 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제3조(급여의 기본원칙)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제6조(최저보장수준의 결정 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제6조의2(기준 중위소득의 산정)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제6조의3(소득인정액의 산정)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제7조(급여의 종류)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제8조(생계급여의 내용 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제9조(생계급여의 방법)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20251126105655",
+   "title": "정부양곡지원 정책",
+   "faqNo": "6898751"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20251114101819",
+   "title": "의료급여 수급자는 정부양곡 지원받을 수 있나요?",
+   "faqNo": "6898352"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5700000",
+   "ancName": "경기도 여주시",
+   "regDate": "20250730100212",
+   "title": "기초생활수급수당 지급 시간",
+   "faqNo": "6895722"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20250729152509",
+   "title": "기초생계급여란 무엇인가요?",
+   "faqNo": "6895506"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250727153811",
+   "title": "노인일자리 자격",
+   "faqNo": "6893595"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20250724180430",
+   "title": "공공근로사업 참여대상 및 일정",
+   "faqNo": "6894280"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20250722202322",
+   "title": "긴급복지지원 신청 문의",
+   "faqNo": "6893380"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20250722161938",
+   "title": "저소득 취약계층 대상 농식품 바우처 지원",
+   "faqNo": "6893837"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4580000",
+   "ancName": "충청남도 서천군",
+   "regDate": "20250627171259",
+   "title": "기초생활수급자 소득인정액에 산정되는 소득은 어떤 종류가 있나요?",
+   "faqNo": "6890423"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250627145234",
+   "title": "기초생활수급자 선정 기준",
+   "faqNo": "6889731"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

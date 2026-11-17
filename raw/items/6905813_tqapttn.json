@@ -1,0 +1,35 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6905813",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "일반스포츠강좌이용권 신청 방법",
+  "qstnCntnCl": "일반스포츠강좌이용권의 신청 자격과 방법이 어떻게 되나요?",
+  "ansCntnCl": "&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;ㅇ일반스포츠강좌이용권 사업은 아래 내용과 같습니다.&lt;br /&gt;\n&lt;br /&gt;\nㅇ 지원대상: 만5~18세 유청소년 중&lt;br /&gt;\n-「국민기초생활보장법」에 따른 수급가구(생계의료주거교육급여), 차상위 계층&lt;br /&gt;\n- 학교가정성폭력 등 범죄피해 가구(경찰청 추천)&lt;br /&gt;\nㅇ 지원내용: 매월 10만 5천원 범위내 스포츠강좌 수강료 지원(12개월)&lt;br /&gt;\nㅇ 신청기간: 매년 11월 중&lt;br /&gt;\nㅇ 신청방법&lt;br /&gt;\n- (온라인) 스포츠강좌이용권 누리집(svoucher.kspo.or.kr) 신청&lt;br /&gt;\n- (오프라인) 거주 지자체행정복지센터 방문 서면 신청&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;※ 장애인복지법에 따른 장애인(만5세~69세)은 장애인스포츠강좌이용권 신청&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n",
+  "ancName": "경상북도 김천시",
+  "deptName": "경상북도 김천시 행정안전국 스포츠산업과",
+  "regDate": "20260602",
+  "ancCode": "5060000",
+  "deptCode": "5060341",
+  "lawList": [
+   {
+    "fullName": "국민체육진흥법 / 제16조(여가 체육의 육성)",
+    "lwrdNm": "국민체육진흥법",
+    "lwrdUrl": "http://law.go.kr/법령/국민체육진흥법"
+   },
+   {
+    "fullName": "국민체육진흥법 / 제22조(기금의 사용 등)",
+    "lwrdNm": "국민체육진흥법",
+    "lwrdUrl": "http://law.go.kr/법령/국민체육진흥법"
+   },
+   {
+    "fullName": "스포츠기본법 / 제5조(국가와 지방자치단체의 책무)",
+    "lwrdNm": "스포츠기본법",
+    "lwrdUrl": "http://law.go.kr/법령/스포츠기본법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

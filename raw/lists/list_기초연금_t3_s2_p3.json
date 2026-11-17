@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4671000",
+   "ancName": "전북특별자치도 군산시",
+   "regDate": "20260723175242",
+   "title": "노인맞춤돌봄서비스 신청",
+   "faqNo": "6913310"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260722181442",
+   "title": "기초연금 문의",
+   "faqNo": "6913028"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5875000",
+   "ancName": "전남광주통합특별시 영암군",
+   "regDate": "20260721173228",
+   "title": "지방세 체납이 있으면 급여도 모두 압류 되나요?",
+   "faqNo": "6912690"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5330000",
+   "ancName": "경상남도 통영시",
+   "regDate": "20260714152930",
+   "title": "독거노인장애인 응급안전안심서비스 신청자격은 무엇인가요?",
+   "faqNo": "6910309"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3290000",
+   "ancName": "부산광역시 부산진구",
+   "regDate": "20260713140806",
+   "title": "기초연금제도란?",
+   "faqNo": "6911386"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093629",
+   "title": "기초연금 신청안내 우편, 문자를 받고 싶지 않은 경우",
+   "faqNo": "6911021"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093627",
+   "title": "기초연금 신청 구비서류",
+   "faqNo": "6911002"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093358",
+   "title": "정부양곡 신청 대상과 방법은 어떻게 되나요?",
+   "faqNo": "6910882"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713092915",
+   "title": "기초연금 수급희망 이력관리 간주신청 제도",
+   "faqNo": "6910475"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713092910",
+   "title": "치매공공후견사업 개요 및 지원내용 문의",
+   "faqNo": "6910453"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

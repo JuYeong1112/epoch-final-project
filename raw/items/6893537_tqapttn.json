@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6893537",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청",
+  "qstnCntnCl": "기초연금 신청 방법",
+  "ansCntnCl": "방문신청 : 주소지 읍면동 행정복지센터 또는 가까운 국민연금공단 지사 방문 신청&nbsp;&lt;br /&gt;\n온라인신청 : (사이트) 복지로(http/://online.bokjiro.go.kr",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 사회복지국 노인복지과",
+  "regDate": "20250727",
+  "ancCode": "4050000",
+  "deptCode": "4050615",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제10조(기초연금 지급의 신청)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

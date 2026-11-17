@@ -1,0 +1,50 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6903898",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 사업에 대해 궁금해요",
+  "qstnCntnCl": "기초연금 지원사업에 대한 내용",
+  "ansCntnCl": "Q1.&nbsp; 어디서 신청하고 무엇을 가져가야 하나요?&lt;br /&gt;\nA.&nbsp; 읍면사무소 또는 온라인 &apos;복지로&apos; 홈페이지에서도 신청가능하며,&nbsp;&nbsp;신분증, 통장사본(연금받을 계좌), 배우자 동의서(동사무소 비치)가 필요합니다.&lt;br /&gt;\n&lt;br /&gt;\nQ2. 올해(2026년)는 몇 년생부터 신청할 수 있나요?&lt;br /&gt;\nA.&nbsp; 만 65세가 되는 1961년생 신청가능.(생일이속한 달의 한달전 1일부터 신청가능)&lt;br /&gt;\n&lt;br /&gt;\nQ3. 신청이 늦어지면 소급해서 주나요?&lt;br /&gt;\nA. 신청한 달부터 지급 됩니다.&lt;br /&gt;\n&lt;br /&gt;\nQ4. 소득기준은 어떻게 되나요? (2026년 기준)&lt;br /&gt;\nA. 단독가구 :&nbsp; 247만원 이하&lt;br /&gt;\n&nbsp; &nbsp; 부부가구 : 395만 2000원 이하&lt;br /&gt;\n&lt;br /&gt;\nQ5. 일을 해서 월급이 나오는데 신청 가능할까요?&lt;br /&gt;\nA. 근로소득의 경우 기본공제(2026년 기준 116만원)를 하고, 남은 금액의 30% 를 추가로 더 공제하므로, 일단 신청해 보시는 것이 좋습니다.",
+  "ancName": "경상남도 함양군",
+  "deptName": "경상남도 함양군 경제복지국 노인복지과",
+  "regDate": "20260511",
+  "ancCode": "5460000",
+  "deptCode": "5460128",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제3조(기초연금 수급권자의 범위 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제14조(기초연금의 지급 및 지급 시기)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 시행규칙 / 제7조(기초연금 지급 신청서 등의 서식)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행령 / 제4조(선정기준액의 기준 등)",
+    "lwrdNm": "기초연금법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행령"
+   },
+   {
+    "fullName": "기초연금법 시행령 / 제13조(기초연금 지급의 신청방법ㆍ절차)",
+    "lwrdNm": "기초연금법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행령"
+   },
+   {
+    "fullName": "기초연금법 시행령 / 제14조(금융정보등의 범위)",
+    "lwrdNm": "기초연금법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행령"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

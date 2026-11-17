@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3190000",
+   "ancName": "서울특별시 동작구",
+   "regDate": "20260730195600",
+   "title": "긴급복지지원사업",
+   "faqNo": "6915031"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730164250",
+   "title": "긴급복지지원제도",
+   "faqNo": "6914762"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260730091543",
+   "title": "긴급복지 지원제도란 무엇인가요",
+   "faqNo": "6914599"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260729160229",
+   "title": "국가형 긴급복지 지원(3개월)을 받았는데, 생계급여에서 차감, 환수되었다고 하며  이번달",
+   "faqNo": "6914802"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3670000",
+   "ancName": "대전광역시 유성구",
+   "regDate": "20260727171410",
+   "title": "긴급복지지원제도 대상과 지원기준",
+   "faqNo": "6914017"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5835000",
+   "ancName": "전남광주통합특별시 곡성군",
+   "regDate": "20260727161524",
+   "title": "긴급복지 신청 방법",
+   "faqNo": "6913743"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260727130910",
+   "title": "긴급복지 지원제도란 무엇인가요?",
+   "faqNo": "6913760"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20260724143906",
+   "title": "긴급복지 신청 문의",
+   "faqNo": "6911419"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260722181812",
+   "title": "긴급복지 지원제도 문의",
+   "faqNo": "6913073"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260721134222",
+   "title": "긴급복지지원 기준과 금액 궁금해요.",
+   "faqNo": "6912637"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

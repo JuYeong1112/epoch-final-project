@@ -1,0 +1,35 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6907257",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "장애인연금 및 장애수당 안내",
+  "qstnCntnCl": "장애인연금 및 장애수당 신청기준 및 방법이 궁금합니다.\n\n",
+  "ansCntnCl": "장애인연금 및 장애수당 선정기준 및 신청방법은 아래와 같이 안내드립니다.&lt;br /&gt;\n&lt;br /&gt;\n■ 장애인연금&lt;br /&gt;\n&nbsp;- 지급대상: 만 18세 이상 중증장애인 중 본인과 배우자의 월 소득인정액(소득과 재산 합산액)이 선정기준액 이하인 자&lt;br /&gt;\n&nbsp;&nbsp; *선정기준액: 단독가구 140만원, 부부가구 224만원&lt;br /&gt;\n&nbsp;- 지급액:&nbsp;50,000원~439,700원 (연령 및 기준 자격에 따라 지급액 상이)&lt;br /&gt;\n&nbsp;- 지급일: 매월 20일 지급&lt;br /&gt;\n&nbsp;- 신청방법: 주소지 행정복지센터 방문&lt;br /&gt;\n&lt;br /&gt;\n■ 장애수당&lt;br /&gt;\n- 지급대상: 만 18세 이상 등록장애인 중 장애인연금법상 중증장애인에 해당되지 않는 자이며, 국민기초생활보장법에 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 의한 수급자 또는 차상위계층(기준중위소득 50% 이하)&lt;br /&gt;\n- 지급액: 60,000원~220,000원 (연령 및 기준 자격에 따라 지급액 상이)&lt;br /&gt;\n- 지급일: 매월 20일 지급&lt;br /&gt;\n- 신청방법: 주소지 행정복지센터 방문&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "강원특별자치도 원주시",
+  "deptName": "강원특별자치도 원주시 복지국 장애인복지과",
+  "regDate": "20260616",
+  "ancCode": "4191000",
+  "deptCode": "4191120",
+  "lawList": [
+   {
+    "fullName": "장애인연금법 / 제4조(수급권자의 범위 등)",
+    "lwrdNm": "장애인연금법",
+    "lwrdUrl": "http://law.go.kr/법령/장애인연금법"
+   },
+   {
+    "fullName": "장애인연금법 / 제5조(장애인연금의 종류 및 내용)",
+    "lwrdNm": "장애인연금법",
+    "lwrdUrl": "http://law.go.kr/법령/장애인연금법"
+   },
+   {
+    "fullName": "장애인연금법 / 제1조(목적)",
+    "lwrdNm": "장애인연금법",
+    "lwrdUrl": "http://law.go.kr/법령/장애인연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

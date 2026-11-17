@@ -1,0 +1,35 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900276",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "2026년 기초연금 대상 및 지원 기준, 신청방법",
+  "qstnCntnCl": "2026년 기준 기초연금 대상자와 지원 기준, 신청 방법에 대해 알려주세요",
+  "ansCntnCl": "&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 지원대상 :&nbsp; 만 65세 이상 노인 중 가구의 소득인정액이 선정기준액 이하인 자&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※2026년도 기준 1961년생&lt;br /&gt;\n○ 신청기간 : 만 65세 생일이 속한 달의 1개월 전 초일부터 신청가능&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:16px\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 신청장소&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (방문신청)전국 읍면동 주민센터 또는 행정복지센터, 국민연금공단 지사&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;&nbsp;&nbsp;&nbsp; (온라인신청) 복지로&lt;span style=\"font-size:16px\"&gt;(&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:16px\"&gt;&lt;a href=\"http://online.bokjiro.go.kr\"&gt;http://online.bokjiro.go.kr&lt;/a&gt;&lt;/span&gt;)&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 지원기준&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (선정기준액) 단독가구 247만원, 부부가구 395.2만원&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (소득인정액) 소득평가액 + 재산의 소득환산액&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 지원내용 : 단독가구 및 부부가구 소득인정액 구간별 차등적으로 급여 지원&lt;br /&gt;\n○ 지원금액&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (단독가구 및 부부1인 수급가구) 월 최대 349,700원&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; (부부2인 수급가구) 월 최대559,520원(1인당 최대 279,760원)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 지원시기 : 매월 25일&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:16px\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○ 처리절차&nbsp;: 신청 및 접수 &rarr; 소득 및 재산 조사 &rarr; 결정 및 통지 &rarr; 기초연금 지급&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;○&nbsp;문의처 :김해시 통합돌봄과 노인정책팀&nbsp;☎ 055-&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:12pt\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;330- 3295&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;",
+  "ancName": "경상남도 김해시",
+  "deptName": "경상남도 김해시 복지국 통합돌봄과",
+  "regDate": "20260219",
+  "ancCode": "5350000",
+  "deptCode": "5350402",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제1조(목적)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제3조(기초연금 수급권자의 범위 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제5조(기초연금액의 산정)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

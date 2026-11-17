@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20250722202322",
+   "title": "긴급복지지원 신청 문의",
+   "faqNo": "6893380"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20250704100725",
+   "title": "통장은 어떤업무를 하나요 ??",
+   "faqNo": "6889665"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4191000",
+   "ancName": "강원특별자치도 원주시",
+   "regDate": "20250627095730",
+   "title": "불법주정차위반 단속 의견제출 방법 문의",
+   "faqNo": "6889575"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3280000",
+   "ancName": "부산광역시 영도구",
+   "regDate": "20250528154001",
+   "title": "치매치료관리비 신청방법",
+   "faqNo": "6884594"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

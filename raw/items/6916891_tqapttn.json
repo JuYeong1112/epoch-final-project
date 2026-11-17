@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6916891",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "근로장려금 지급 관련",
+  "qstnCntnCl": "\n단독 가구인 경우에도 직계존속 재산을 합산하는지 여부에 해하여 문의 드립니다",
+  "ansCntnCl": "안녕하십니까?&lt;br /&gt;\n항상 국세행정에 대한 관심에 감사드립니다.&lt;br /&gt;\n&lt;br /&gt;\n귀하께서 문의 하신 근로장녀금 지급시 단독 가구인 경우에도 직계존속 재산을 합산하는지에 관한 민원내용에&nbsp;&lt;br /&gt;\n다음과 같이 알려드립니다.&lt;br /&gt;\n&lt;br /&gt;\n1. 조세특례제한법 제100조의 3(근로장려금의 신청자격)&lt;br /&gt;\n2. (1)~(4)생략&lt;br /&gt;\n&nbsp; &nbsp;(5) 이절과 제10절의 4에 \"단독가구\", \"홑벌이 가구\" 및 \"맞벌이가구\"의 뜻은 다음 각호와 같다&lt;br /&gt;\n&nbsp; &nbsp; 가. 단독가구 : 배우자, 부양자녀 및 제2호나목에 따른 직계존속이 없는 가구&lt;br /&gt;\n&nbsp; &nbsp; 나. 홑벌이 가구 : 다음 각 목의 어느 하나에 해당하는 가구&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp;1) 배우자의 제3호에 따른 총급여액 등이 3백만원 미만인 가구&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp;2) 배우자 없이 부양자녀 있는 가구 또는 배우자 없이 다음의 요건을 모두 갖춘 직계존속이 있는 가구&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 직계존속 각각의 연간 소득금액의 합계액이 100만원 이하일 것&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 해당소득세 과세기간 종료일 현재 주민등록표상의 동거가족으로서 해당 거주자의 주소나 거소에서 현실적&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;으로 생계를 같이 할 것. 다만, 해당 소득세 과세기간 종료일 전에 사망한 직계존속에 대해서는 사망일 전일&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;을 기준으로한다.&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 70세 이상일 것, 다만 대통령령으로 정하는 장애인의 경우에는 연령의 제한을 받지 아니한다.&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;br /&gt;\n앞으로도 국세행정에 대한 지속적인 관심과 협조를 보내주시기 바라며, 기타 국세업무와 관련하여 궁금한 사항이&nbsp;&lt;br /&gt;\n있으면 국세청 국세상담센터(국번없이 126번) 또는 국세청 홈페이지(http://www.nts.go.kr)홈페이지의 인터넷상담&lt;br /&gt;\n바로가기를 클릭하여 상담 할 수 있음을 알려드립니다.&nbsp; 감사합니다.&lt;br /&gt;\n&nbsp;&nbsp;&lt;br /&gt;\n&nbsp;",
+  "ancName": "국세청",
+  "deptName": "국세청 서울지방국세청 남대문세무서 납세자보호담당관",
+  "regDate": "20261012",
+  "ancCode": "1210000",
+  "deptCode": "1212773",
+  "lawList": [
+   {
+    "fullName": "조세특례제한법 시행령 / 제100조의5(부양자녀의 판단)",
+    "lwrdNm": "조세특례제한법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/조세특례제한법 시행령"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

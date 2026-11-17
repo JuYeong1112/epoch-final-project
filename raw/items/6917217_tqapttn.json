@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6917217",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "농식품바우처 지원대상",
+  "qstnCntnCl": "농식품바우처는 어떤 사람이 지원 받을 수 있나요?",
+  "ansCntnCl": "2026년 농식품 바우처 지원 대상은 생계급여 수급가구 중 임산부, 영유아, 아동, 청년이 포함된 가구입니다,&lt;br /&gt;\n신청을 원하신다면 주소지 관할 행정복지센터 또는 농식품바우처 고객지원센터(1551-0857)를 통해 신청가능하십니다 감사합니다.",
+  "ancName": "전북특별자치도 남원시",
+  "deptName": "전북특별자치도 남원시 농업기술센터 원예농산유통과",
+  "regDate": "20261029",
+  "ancCode": "4701000",
+  "deptCode": "4701096",
+  "lawList": [
+   {
+    "fullName": "기타",
+    "lwrdNm": "기타",
+    "lwrdUrl": "http://law.go.kr/법령/기타"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

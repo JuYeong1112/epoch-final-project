@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5820000",
+   "ancName": "전남광주통합특별시 북구",
+   "regDate": "20260720114949",
+   "title": "긴급복지지원의 위기상황 및 선정기준, 지원내용 등 안내",
+   "faqNo": "6911963"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5780000",
+   "ancName": "전남광주통합특별시 목포시",
+   "regDate": "20260716180343",
+   "title": "농식품 바우처는 어떤 사람들이 신청가능한가요?",
+   "faqNo": "6912238"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260716141208",
+   "title": "차상위계층 신청 결과에 대한 답변 회신 문의",
+   "faqNo": "6912045"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3060000",
+   "ancName": "서울특별시 중랑구",
+   "regDate": "20260716131822",
+   "title": "농식품바우처사업 신청자격 및 지원내용",
+   "faqNo": "6911993"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5330000",
+   "ancName": "경상남도 통영시",
+   "regDate": "20260714155926",
+   "title": "자산형성지원사업 통장별 사업 가입대상 기준",
+   "faqNo": "6910010"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20260713101450",
+   "title": "다자녀 세대인데 에너지바우처를 받을 수 있나요?",
+   "faqNo": "6909930"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093651",
+   "title": "압류금지 재산의 종류",
+   "faqNo": "6911198"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093321",
+   "title": "디딤씨앗통장 지원대상",
+   "faqNo": "6910531"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713092852",
+   "title": "조건부수급자 건강사유로 자활 미참여 시 생계급여 받을 수 있는 방법?",
+   "faqNo": "6910435"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5785000",
+   "ancName": "전남광주통합특별시 여수시",
+   "regDate": "20260713085243",
+   "title": "국민기초생활보장 신청 방법 및 조사절차에 대한 문의",
+   "faqNo": "6911161"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5130000",
+   "ancName": "경상북도 경산시",
+   "regDate": "20260721101001",
+   "title": "긴급복지지원 제도에 관한 설명",
+   "faqNo": "6912545"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5820000",
+   "ancName": "전남광주통합특별시 북구",
+   "regDate": "20260720114949",
+   "title": "긴급복지지원의 위기상황 및 선정기준, 지원내용 등 안내",
+   "faqNo": "6911963"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5330000",
+   "ancName": "경상남도 통영시",
+   "regDate": "20260714160907",
+   "title": "긴급복지지원제도 위기사유",
+   "faqNo": "6911670"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260713164447",
+   "title": "주소득자의 구금시설 수용_긴급복지지원 가능 여부",
+   "faqNo": "6911516"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093623",
+   "title": "긴급복지 생계비를 신청 할 수 있는 위기사유는 무엇인가요?",
+   "faqNo": "6910880"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093358",
+   "title": "긴급복지지원법의 의료지원과 저소득주민 생활안정사업의 차이점",
+   "faqNo": "6910871"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5810000",
+   "ancName": "전남광주통합특별시 서구",
+   "regDate": "20260710104312",
+   "title": "긴급복지지원사업 재지원 기간",
+   "faqNo": "6911196"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260625145436",
+   "title": "긴급복지 지원사업에 대해 알려주세요.",
+   "faqNo": "6909715"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260624173122",
+   "title": "긴급복지지원 사유",
+   "faqNo": "6909569"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260617131131",
+   "title": "긴급복지지원 지원제도 개요",
+   "faqNo": "6907933"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

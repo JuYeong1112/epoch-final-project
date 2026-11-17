@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909812",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "대전형 지역사회 통합돌봄 사업 안내",
+  "qstnCntnCl": "대전시의 통합돌봄 사업에 대해서 알려주세요.",
+  "ansCntnCl": "&lt;span style=&quot;color:null&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;일상생활에 어려움을 겪는 사람이 병원이나 시설이 아닌 살던 곳에서 계속해서 건강하고 인간다운 삶을 유지할 수 있도록 정부는 &apos;의료요양 통합돌봄 사업&apos;을 추진하고 있습니다. &apos;의료요양 통합돌봄 사업&apos;은 보건의료건강관리일상생활 지원 등 여러 서비스를 각각 알아보아야 하는 불편함을 줄이고, 시민의 상황에 맞는 서비스를 통합연계하여 제공하는 제도입니다. 필요한 서비스를 접수하고, 종합판정조사를 실시한 뒤, 개인별 지원계획을 수립하여 적합한 돌봄서비스를 연결하는 원스톱 통합지원 체계로 운영됩니다.&lt;br /&gt;\n또한 대전시는 정부의 통합돌봄 사업만으로는 지원하기 어려운 돌봄 공백과 사각지대를 해소하고자&nbsp;대전형 통합돌봄 사업을 추진하고 있습니다. 정부 사업과 대전형 통합돌봄 사업을 연계하여 돌봄이 필요한 시민에게 촘촘한 돌봄서비스를 제공하고, 지역사회 중심의 통합돌봄 체계를 구축해 나가고 있습니다.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□&nbsp;지원대상&lt;br /&gt;\nㅇ (의료요양 통합돌봄) 노쇠, 장애, 질병, 사고 등으로 일상생활 유지에 어려움이 있는 65세 이상 노인, 장애인 등&lt;br /&gt;\nㅇ (대전형 지역사회통합돌봄) 대전시에 주민등록이 되어있는 돌봄이 필요한 시민&lt;br /&gt;\n&nbsp; &nbsp; - 돌봄필요도 평가기준을 충족한 자&lt;br /&gt;\n&lt;br /&gt;\n□ 선정원칙&lt;br /&gt;\nㅇ정부형 의료요양 통합돌봄 및 기존 공적돌봄(장기요양, 노인맞춤형돌봄, 가사간병 등) 우선 적용&lt;br /&gt;\nㅇ그외 대상자*의 경우 대전형 지역사회 통합돌봄 신청 적용&lt;br /&gt;\n&nbsp; &nbsp;* (65세 이상) 정부형 통합돌봄 신청 후 공백기간 동안 긴급한 돌봄이 필요한 경우&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;(64세 이하) 돌봄필요도 평가 60점 이상인 자&lt;br /&gt;\nㅇ정부형 공통서비스(방문의료지원, 일상생활돌봄 등)와 대전형 중복지원 불가&lt;br /&gt;\n&lt;br /&gt;\n□ 주요 지원내용: 6대 분야, 63개 돌봄서비스(연계서비스 포함)&lt;br /&gt;\nㅇ 보건의료 서비스&lt;br /&gt;\nㅇ 건강관리 서비스&lt;br /&gt;\nㅇ 장기요양 서비스&lt;br /&gt;\nㅇ 일상생활 지원 서비스&lt;br /&gt;\nㅇ 주거이동 지원 등&lt;br /&gt;\nㅇ 스마트돌봄&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n□ 문의할 곳: 거주지 동 행정복지센터&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&nbsp;&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "대전광역시",
+  "deptName": "대전광역시 복지국 복지정책과",
+  "regDate": "20260629",
+  "ancCode": "6300000",
+  "deptCode": "6301004",
+  "lawList": [
+   {
+    "fullName": "의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률 / 제4조(국가와 지방자치단체의 책무)",
+    "lwrdNm": "의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

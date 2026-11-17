@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6893837",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "저소득 취약계층 대상 농식품 바우처 지원",
+  "qstnCntnCl": "농식품 바우처 지원 사업이란 무엇인가요?",
+  "ansCntnCl": "농식품 바우처 지원 사업은 저소득 취약계층에게 신선한 농산물을 구입 가능한 바우처를 지원하는 사업입니다.&lt;br /&gt;\n&nbsp;○ 사업내용&lt;br /&gt;\n&nbsp;&nbsp; - 사업대상 : 국민기초생활 보장법상 생계급여 수급가구 중 보장가구원이 임산부이거나 18세 미만인 경우&lt;br /&gt;\n&nbsp;&nbsp; - 지원기간 : 10개월&lt;br /&gt;\n&nbsp;&nbsp; - 지원금액 : 가구원 수에 따라 차등 지급&lt;br /&gt;\n&nbsp;&nbsp; - 지원방법 : 바우처 카드로 농산물 구입(매월 금액 충전)&lt;br /&gt;\n&nbsp;&nbsp; - 구입가능품목 : 국내산 채소, 과일, 흰 우유, 신선계란, 육류, 잡곡 등&lt;br /&gt;\n&nbsp;&nbsp; - 사용처 : 농협 하나로마트 등&lt;br /&gt;\n&nbsp;○ 문의 : 세종시 우리농산물유통과 6차산업팀 ☎ 044-300-2515",
+  "ancName": "세종특별자치시",
+  "deptName": "세종특별자치시 도농상생국 우리농산물유통과",
+  "regDate": "20250722",
+  "ancCode": "5690000",
+  "deptCode": "5690441",
+  "lawList": [
+   {
+    "fullName": "농업ㆍ농촌 및 식품산업 기본법 / 제23조의2(취약계층 등에 대한 식품 지원)",
+    "lwrdNm": "농업ㆍ농촌 및 식품산업 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/농업ㆍ농촌 및 식품산업 기본법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

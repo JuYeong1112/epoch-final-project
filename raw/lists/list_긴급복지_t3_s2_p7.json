@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260520160317",
+   "title": "긴급복지 지원사업 안내",
+   "faqNo": "6904571"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5150000",
+   "ancName": "경상북도 의성군",
+   "regDate": "20260514101429",
+   "title": "결식아동 급식카드 지원대상 및 지원방법",
+   "faqNo": "6904174"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4181000",
+   "ancName": "강원특별자치도 춘천시",
+   "regDate": "20260512131758",
+   "title": "춘천시에 기부하고 싶은데 어떻게 해야 될까요?",
+   "faqNo": "6903573"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4181000",
+   "ancName": "강원특별자치도 춘천시",
+   "regDate": "20260512131753",
+   "title": "긴급돌봄 사업안내 및 지원방법",
+   "faqNo": "6903302"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3010000",
+   "ancName": "서울특별시 중구",
+   "regDate": "20260427171423",
+   "title": "맞춤형 나눔 프로그램과 따뜻한 겨울나기 사업에 대해 궁금합니다",
+   "faqNo": "6903097"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6480000",
+   "ancName": "경상남도",
+   "regDate": "20260422164540",
+   "title": "경상남도장학회 장학사업 문의",
+   "faqNo": "6902850"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20260421143119",
+   "title": "아동학대 의심신고",
+   "faqNo": "6902433"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414090509",
+   "title": "동주민센터 민원창구에서 처리할 수 있는 민원의 종류는 어떤 것들이 있을까요?",
+   "faqNo": "6902186"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4470000",
+   "ancName": "충청북도 음성군",
+   "regDate": "20260410162435",
+   "title": "긴급복지 지원 대상은 어떻게 되나요?",
+   "faqNo": "6902034"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7530000",
+   "ancName": "경기도교육청",
+   "regDate": "20260410091531",
+   "title": "긴급복지지원 신고의무 교육",
+   "faqNo": "6901924"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

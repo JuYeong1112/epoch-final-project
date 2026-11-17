@@ -1,0 +1,16 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20250722202322",
+   "title": "긴급복지지원 신청 문의",
+   "faqNo": "6893380"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914616",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "임대주택 문의",
+  "qstnCntnCl": "임대주택은 어떻게 들어가나요?\n",
+  "ansCntnCl": "&lt;table cellspacing=&quot;0&quot; style=&quot;border-collapse:collapse; border:undefined; width:308pt&quot;&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;border-color:currentcolor windowtext windowtext; height:148.5pt; vertical-align:middle; white-space:normal; width:308pt&quot;&gt;&lt;span style=&quot;font-size:10pt&quot;&gt;&lt;span style=&quot;font-family:&quot;맑은 고딕&quot;,monospace&quot;&gt;취약계층대상자의 영구&middot;매입&middot;전세임대주택은 상시 접수가 아니며, LH 청약플러스나 SH 홈페이지의 모집 공고(또는 각 공사 콜센터 문자 알림 서비스 신청)를 통해 공고를 확인한 뒤 정해진 기간에 주소지 관할 동 주민센터에서 신청해야 합니다.&lt;br /&gt;\n\t\t\t모든 공고는 &#39;모집공고일 현재&#39; 해당 자치구에 거주하는 무주택세대구성원이어야 하며, 생계&middot;의료급여 수급자, 국가유공자, 위안부 피해자, 지원대상 한부모가족, 차상위 고령자, 전년도 도시근로자 월평균 소득 50% 이하에 해당하는 분들이 신청하실 수 있습니다.&lt;br /&gt;\n\t\t\t공고가 뜨면 신분증을 지참하여 주민센터에 방문하시되, 청약통장 납입증명서 등 가점 서류가 필요할 수 있으니 방문 전 LH(1600-1004)나 SH(1600-3456) 콜센터를 통해 필수 서류를 꼭 확인하시기 바랍니다.&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n",
+  "ancName": "서울특별시 도봉구",
+  "deptName": "서울특별시 도봉구 복지가족국 생활보장과",
+  "regDate": "20260729",
+  "ancCode": "3090000",
+  "deptCode": "3090194",
+  "lawList": [
+   {
+    "fullName": "공공주택특별법 시행령 제2조 / ",
+    "lwrdNm": "공공주택특별법 시행령 제2조",
+    "lwrdUrl": "http://law.go.kr/법령/공공주택특별법 시행령 제2조"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

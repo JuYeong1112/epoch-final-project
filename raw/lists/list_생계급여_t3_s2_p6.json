@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5785000",
+   "ancName": "전남광주통합특별시 여수시",
+   "regDate": "20260713085234",
+   "title": "기초생활수급자 신청 관련 방법 문의",
+   "faqNo": "6911171"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5785000",
+   "ancName": "전남광주통합특별시 여수시",
+   "regDate": "20260713085221",
+   "title": "사회보장급여(기초생활수급자 등) 대상자 사후 변동관리 문의",
+   "faqNo": "6911136"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4201000",
+   "ancName": "강원특별자치도 강릉시",
+   "regDate": "20260709111455",
+   "title": "에너지바우처 지원 대상이 어떻게 되나요?",
+   "faqNo": "6911059"
+  },
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "1571000",
+   "ancName": "방송미디어통신위원회",
+   "regDate": "20260709104440",
+   "title": "[부산분소]부과받은 과태료 징수유예 등(분할납부, 납부기일의 연기)을 신청 방법",
+   "faqNo": "70836"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6520000",
+   "ancName": "제주특별자치도 서귀포시",
+   "regDate": "20260707103255",
+   "title": "서귀포시 위기가구 신고포상금 제도 신청 안내",
+   "faqNo": "6910750"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182829",
+   "title": "에너지바우처 사업 안내",
+   "faqNo": "6909923"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182756",
+   "title": "하남시 푸드뱅크 이용방법",
+   "faqNo": "6909914"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260706143249",
+   "title": "취약계층 아토피피부염천식 의료비 지원 어떻게 받나요?",
+   "faqNo": "6909277"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1492000",
+   "ancName": "고용노동부",
+   "regDate": "20260630163021",
+   "title": "휴업급여 지급 요건이 궁금합니다.",
+   "faqNo": "6910291"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1760000",
+   "ancName": "인사혁신처",
+   "regDate": "20260626081736",
+   "title": "국가공무원 9급 공채시험 저소득층 구분모집 응시자격 문의",
+   "faqNo": "6909814"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

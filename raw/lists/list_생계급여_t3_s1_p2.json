@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "14(건) 조회되었습니다.",
+ "resultCount": "14",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260527170612",
+   "title": "수급자가 의료기관에 입원하고 있는 동안의 생계급여 지급기준",
+   "faqNo": "6905302"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4231000",
+   "ancName": "강원특별자치도 속초시",
+   "regDate": "20260522094635",
+   "title": "기초생계급여수급자 부정수급 신고합니다.",
+   "faqNo": "6904795"
+  },
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "4610000",
+   "ancName": "충청남도 예산군",
+   "regDate": "20260521092535",
+   "title": "국민기초생활보장(생계급여) 부양의무자 기준",
+   "faqNo": "70329"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20250729152509",
+   "title": "기초생계급여란 무엇인가요?",
+   "faqNo": "6895506"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

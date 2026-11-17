@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260715111404",
+   "title": "복지서비스 지원요청",
+   "faqNo": "6911588"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5330000",
+   "ancName": "경상남도 통영시",
+   "regDate": "20260714160907",
+   "title": "긴급복지지원제도 위기사유",
+   "faqNo": "6911670"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5330000",
+   "ancName": "경상남도 통영시",
+   "regDate": "20260714150029",
+   "title": "통영시 시청사 부설주차장 현황 및 주차요금",
+   "faqNo": "6910614"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3990000",
+   "ancName": "경기도 남양주시",
+   "regDate": "20260713164447",
+   "title": "주소득자의 구금시설 수용_긴급복지지원 가능 여부",
+   "faqNo": "6911516"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093630",
+   "title": "불법주정차 단속",
+   "faqNo": "6911040"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093623",
+   "title": "긴급복지 생계비를 신청 할 수 있는 위기사유는 무엇인가요?",
+   "faqNo": "6910880"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093358",
+   "title": "긴급복지지원법의 의료지원과 저소득주민 생활안정사업의 차이점",
+   "faqNo": "6910871"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093339",
+   "title": "통장님이 이사를 가도 계속 통장을 할 수 있나요?",
+   "faqNo": "6910697"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713092856",
+   "title": "만성질환으로 돌봄이 필요한 어르신을 위한 맞춤형 지역케어 서비스 안내",
+   "faqNo": "6910447"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3290000",
+   "ancName": "부산광역시 부산진구",
+   "regDate": "20260710095328",
+   "title": "불법주정차 과태료 의견진술 처리기준",
+   "faqNo": "6911154"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

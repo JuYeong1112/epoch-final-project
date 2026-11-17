@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414103710",
+   "title": "기존 기초생활수급자인데, 소득이나 재산이 변동되면 어떻게 해야 하나요?",
+   "faqNo": "6902173"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414103645",
+   "title": "자활사업은 누가 참여할 수 있고, 어떻게 신청하나요?",
+   "faqNo": "6902131"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414103629",
+   "title": "기초생활수급 신청은 어디서 어떻게 하나요? 신청하면 바로 수급이 되나요?",
+   "faqNo": "6902123"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414090509",
+   "title": "동주민센터 민원창구에서 처리할 수 있는 민원의 종류는 어떤 것들이 있을까요?",
+   "faqNo": "6902186"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409110807",
+   "title": "문화누리카드(통합문화이용권) 자주묻는 질의 응답",
+   "faqNo": "6901658"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6530000",
+   "ancName": "강원특별자치도",
+   "regDate": "20260403131328",
+   "title": "2026년 기초생활보장제도 기준은 어떻게 되나요?",
+   "faqNo": "6901659"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6530000",
+   "ancName": "강원특별자치도",
+   "regDate": "20260402105946",
+   "title": "여성청소년 생리용품 바우처 지원 신청은 어떻게 해야 되나요?",
+   "faqNo": "6901188"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20260401161907",
+   "title": "노인일자리 신청 문의",
+   "faqNo": "6901485"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260327145529",
+   "title": "국민취업제도란?",
+   "faqNo": "6900958"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260327145528",
+   "title": "상병수당 시범사업",
+   "faqNo": "6900963"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

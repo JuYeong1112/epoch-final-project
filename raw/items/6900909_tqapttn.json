@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900909",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "노인맞춤 돌봄서비스 신청방법?",
+  "qstnCntnCl": "노인맞춤돌봄서비스 신청방법 및 지원?",
+  "ansCntnCl": "&lt;span style=\"font-size:12px\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;근거 : 노인복지법 제27조의 2(홀로사는 노인에 대한 지원)&lt;/span&gt;&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-size:11px\"&gt;&lt;span style=\"font-size:12px\"&gt;&lt;span style=\"font-family:함초롬돋움\"&gt;대상 : 65세 이상 기초수급자, 차상위, 기초연금 수급자중 돌봄이 필요한 노인에게&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;개인별 맞춤 서비스&lt;/span&gt; &lt;span style=\"font-family:함초롬돋움\"&gt;지원&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n\n&lt;div class=\"hwp_editor_board_content\"&gt;제외대상 : 유사중복사업 자격해당자(노인장기요양보험 등급자, 가사간병 방문지원사업 이용자 등)&lt;br /&gt;\n신청방법 : 주소지&nbsp;관할 읍.면.동에서신청&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 사회복지국 노인복지과",
+  "regDate": "20260310",
+  "ancCode": "4050000",
+  "deptCode": "4050615",
+  "lawList": [
+   {
+    "fullName": "노인복지법 / 제27조의3(독거노인종합지원센터)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   },
+   {
+    "fullName": "노인복지법 / 제27조의2(홀로 사는 노인에 대한 지원)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

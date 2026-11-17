@@ -1,0 +1,16 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20250702195350",
+   "title": "부부가 기초연금을 함께 받을 시 지급 금액이 감소되나요?",
+   "faqNo": "6889973"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

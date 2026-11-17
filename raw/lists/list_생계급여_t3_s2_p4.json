@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260723095118",
+   "title": "에너지바우처 지원 대상이 궁금합니다",
+   "faqNo": "6913217"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3290000",
+   "ancName": "부산광역시 부산진구",
+   "regDate": "20260722114739",
+   "title": "어린이, 임신부, 어르신 외에 무료접종 지원 대상이 있나요?",
+   "faqNo": "6912462"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3501000",
+   "ancName": "인천광역시 제물포구",
+   "regDate": "20260721194337",
+   "title": "인천광역시 제물포구 저소득층 청소년 생리대 바우처 지원 조건과 신청 방법",
+   "faqNo": "6912635"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5875000",
+   "ancName": "전남광주통합특별시 영암군",
+   "regDate": "20260721173228",
+   "title": "지방세 체납이 있으면 급여도 모두 압류 되나요?",
+   "faqNo": "6912690"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20260721170120",
+   "title": "농식품바우처사업 지원 대상 자격 조건",
+   "faqNo": "6912699"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7801000",
+   "ancName": "강원특별자치도교육청",
+   "regDate": "20260721151519",
+   "title": "교육비 및 교육급여 지원",
+   "faqNo": "6911062"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260721134222",
+   "title": "긴급복지지원 기준과 금액 궁금해요.",
+   "faqNo": "6912637"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5130000",
+   "ancName": "경상북도 경산시",
+   "regDate": "20260721101001",
+   "title": "긴급복지지원 제도에 관한 설명",
+   "faqNo": "6912545"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1492000",
+   "ancName": "고용노동부",
+   "regDate": "20260720152123",
+   "title": "국민내일배움카드 기초생활급여수급자 지원대상 여부",
+   "faqNo": "6912352"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260720143830",
+   "title": "에너지바우처",
+   "faqNo": "6912381"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

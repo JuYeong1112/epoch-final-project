@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6912690",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "지방세 체납이 있으면 급여도 모두 압류 되나요? ",
+  "qstnCntnCl": "급여 압류 문의 ",
+  "ansCntnCl": "&lt;span style=&quot;font-size:16px&quot;&gt;지방세 체납으로 급여가 압류된 경우 압류 조건은 다음과 같습니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;strong&gt;&nbsp;압류요건(1 또는 2)&lt;/strong&gt;&lt;br /&gt;\n1. 납세자가 독촉장(납부최고서를 포함한다, 이하 같다)을 받고 지정된 기한까지 지방자치단체의 징수금을 완납하지 아니할 때&lt;br /&gt;\n2.&nbsp; 납기전 징수 사유로 납부 고지를 받고 지정된 기한까지 완납하지 아니할 때&lt;br /&gt;\n&lt;br /&gt;\n급여, 연금, 임금, 봉급, 상여금, 세비, 퇴직연금, 그 밖에 이와 비슷한 성질을 가진 급여채권에 대해서는 그 &lt;strong&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;u&gt;&lt;span style=&quot;background-color:#ffffff&quot;&gt;총액의 2분의 1은 압류할 수 없습니다&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;/strong&gt;. 다만, 그 금액이 표준적인 가구의&lt;u&gt; [국민기초생활 보장법]에 따른 최저생계비를 고려하여&lt;span style=&quot;color:null&quot;&gt; &lt;strong&gt;대통령령으로 정하는 금액에 미치지 못하는 경우&lt;/strong&gt;&lt;/span&gt;&lt;/u&gt; 또는 &lt;strong&gt;표준적인 가구의 생계비를 고려하여 대통령령으로 정하는 금액을 초과하는 경우&lt;/strong&gt;에는 &lt;strong&gt;각각 대통령령으로 정하는 금액을 압류할 수 없습니다.&lt;/strong&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;font-size:16px&quot;&gt;지방세징수법 시행령(제47조)에 의하면 총액은 지급받을 수 있는 급여금 전액에서 그 근로소득에 대한 소득세 및 개인지방소득세를 뺀 금액으로 합니다. 또한&lt;strong&gt; &lt;u&gt;&quot;[국민기초생활보장법]에 따른 최저생계비를 고려하여 대통령령으로 정하는 금액&quot;이란 월 250만원을 말합니다.&nbsp;&nbsp;&lt;/u&gt;&nbsp;&quot;표준적인 가구의 생계비를 고려하여 대통령령으로 정하는 금액&apos;이란 제1호와 제2호의 금액을 더한 금액을 말합니다.&lt;br /&gt;\n&nbsp;1. 월 300만원&lt;br /&gt;\n&nbsp;2. [압류금지금액(월액)-월300만원]X1/2&lt;br /&gt;\n&lt;br /&gt;\n&lt;참고&gt;&lt;/strong&gt;&lt;br /&gt;\n- 급여채권의 압류금지 및 압류가능액 예시&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-size:12px&quot;&gt;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(단위: 만원)&lt;/span&gt;\n&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width:500px&quot;&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;급여액&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;300&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;370&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;500&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;600&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;800&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;압류금지금액&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;300&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;350&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;압류가능금액&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;0&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;50&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;120&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;250&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;300&lt;/td&gt;\n\t\t\t&lt;td style=&quot;text-align:center&quot;&gt;450&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "전남광주통합특별시 영암군",
+  "deptName": "전남광주통합특별시 영암군 자치행정국 세무회계과",
+  "regDate": "20260721",
+  "ancCode": "5875000",
+  "deptCode": "5875071",
+  "lawList": [
+   {
+    "fullName": "지방세징수법 시행령 / 제47조(급여의 압류 범위)",
+    "lwrdNm": "지방세징수법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/지방세징수법 시행령"
+   },
+   {
+    "fullName": "지방세징수법 / 제42조(급여채권의 압류 제한)",
+    "lwrdNm": "지방세징수법",
+    "lwrdUrl": "http://law.go.kr/법령/지방세징수법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

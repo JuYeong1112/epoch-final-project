@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6884573",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 신청문의",
+  "qstnCntnCl": "기초연금은 언제 신청 가능한가요?",
+  "ansCntnCl": "기초연금은 만65세 이상 생일 도래전달에 신청 가능합니다.&lt;br /&gt;\n국민연금 공단에서 만65세 이상한테 소득재산 상관없이 모든 국민에게 보내집니다.&lt;br /&gt;\n신분증 가지고 신청해서 소득재산 조사를 통해서 조사결과에 따라서 달라지는점 유의하시기 바랍니다.",
+  "ancName": "경기도 오산시",
+  "deptName": "경기도 오산시 중앙동",
+  "regDate": "20250804",
+  "ancCode": "4000000",
+  "deptCode": "4000026",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제3조(기초연금 수급권자의 범위 등)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

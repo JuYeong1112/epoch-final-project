@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914344",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금을 받고 있는데 소득이나 재산이 바뀌면 신고해야 하나요?",
+  "qstnCntnCl": "기초연금을 받고 있습니다. \n부동산을 취득하거나 금융재산이 늘었고, 소득이 변경되었습니다.별도로 신고해야 하나요?",
+  "ansCntnCl": "&lt;div class=&quot;hwp_editor_board_content&quot;&gt;기초연금 수급자는 소득재산가구원 변동 등 수급자격에 영향을 줄 수 있는 사항이 발생한 경우에는 주소지 행정복지센터에 신고하여야 합니다. 신고된 내용은 소득인정액 재조사 등을 거쳐 기초연금 지급 여부 및 지급액에 반영될 수 있습니다. 변동사항을 신고하지 않아 과다 지급된 경우에는 환수될 수 있으므로 변동사항이 발생하면 신속히 신고하시기 바랍니다.&lt;br /&gt;\n&nbsp;&lt;/div&gt;\n",
+  "ancName": "부산광역시 강서구",
+  "deptName": "부산광역시 강서구 복지교육국 생활지원과",
+  "regDate": "20260728",
+  "ancCode": "3360000",
+  "deptCode": "3360186",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제18조(신고)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

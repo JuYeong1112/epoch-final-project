@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6910453",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "치매공공후견사업 개요 및 지원내용 문의",
+  "qstnCntnCl": "치매공공후견사업의 개요 및 지원내용에 대해서 알고 싶습니다.",
+  "ansCntnCl": "치매공공후견사업이란 「치매관리법」제12조의3(성년후견제 이용지원)에 근거하여 치매로 인한 의사결정 능력이&lt;br /&gt;\n저하된 치매환자에게 후견인을 선임하여 의사결정 지원 및 인간의 존엄성을 보장하기 위한 사업입니다.&lt;br /&gt;\n지원기준 및 지원내용은 아래와 같습니다.&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;❍ 지원기준&lt;br /&gt;\n&nbsp;&nbsp; ▷ 소 득: 기초생활수급자, 차상위자, 기초연금수급자 우선지원&lt;br /&gt;\n&nbsp;&nbsp; ▷ 가 족: 가족이 없거나, 가족이 있어도 실질적 지원이 없는 경우&lt;br /&gt;\n&nbsp;&nbsp; ▷ 내 용: 후견인의 도움을 원하거나, 의사결정 지원이 필요한 자&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;❍ 지원내용&lt;br /&gt;\n&nbsp;&nbsp; ▷ 건 강: 병원 진료, 약 처방 등 의료서비스 이용 지원&lt;br /&gt;\n&nbsp;&nbsp; ▷ 복 지: 복지서비스 신청 대리, 관공서 등 서류 발급&lt;br /&gt;\n&nbsp;&nbsp; ▷ 주 거: 요양원 등 거소 관련 계약 체결 업무&lt;br /&gt;\n&nbsp;&nbsp; ▷ 생 활: 물건 구입 등 일상생활비 관리, 일상생활에 필요한 의사결정 지원",
+  "ancName": "부산광역시 수영구",
+  "deptName": "부산광역시 수영구 보건소 건강증진과",
+  "regDate": "20260713",
+  "ancCode": "3380000",
+  "deptCode": "3380088",
+  "lawList": [
+   {
+    "fullName": "치매관리법 / 제12조의3(성년후견제 이용지원)",
+    "lwrdNm": "치매관리법",
+    "lwrdUrl": "http://law.go.kr/법령/치매관리법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

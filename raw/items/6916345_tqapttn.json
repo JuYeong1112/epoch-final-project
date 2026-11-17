@@ -1,0 +1,40 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6916345",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "한부모가족지원사업",
+  "qstnCntnCl": "한부모가족이 입소할 수 있는 복지시설에는 어떤 종류가 있나요?",
+  "ansCntnCl": "한부모가족이 입소할 수 있는 한부모가족복지시설은 다음 4가지 유형이 있습니다.&lt;br /&gt;\n&lt;br /&gt;\n○&nbsp; 출산지원시설&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- 대상: 임신한 한부모와 출산 후 3세 미만 자녀를 양육하는 한부모(또는 출산 후 해당 아동을 양육하지 않는 미혼모)&nbsp;&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;-&nbsp;입소기간: 1년 6개월(자녀 미양육자는 2년), 연장 시 최대 1년 추가&lt;br /&gt;\n&nbsp;○ 양육지원시설&lt;br /&gt;\n&nbsp; &nbsp; - 대상:&nbsp;6세 미만 자녀를 동반한 한부모 및 만 18세 미만 아동을 양육하는 무주택 저소득 조손가족&lt;br /&gt;\n&nbsp; &nbsp; -&nbsp;입소기간: 3년, 최대 1년 연장&lt;br /&gt;\n&nbsp;○ 생활지원시설&lt;br /&gt;\n&nbsp; &nbsp; - 대상: 만 18세 미만(취학 시 22세 미만) 자녀를 양육하는 무주택 저소득 한부모가족조손가족&nbsp;&lt;br /&gt;\n&nbsp; &nbsp; - 입소기간: 5년, 최대 2년 연장&lt;br /&gt;\n○&nbsp;일시지원시설&lt;br /&gt;\n&nbsp; &nbsp;- 배우자의 학대 등으로 긴급 보호가 필요한 한부모가족(자녀 동반 없이 단독 입소도 가능)&lt;br /&gt;\n&nbsp; &nbsp;-&nbsp;입소기간:&nbsp; 6개월, 최대 1년 연장",
+  "ancName": "성평등가족부",
+  "deptName": "성평등가족부 청소년가족정책실 가족정책관 가족지원과",
+  "regDate": "20260827",
+  "ancCode": "1384000",
+  "deptCode": "1384031",
+  "lawList": [
+   {
+    "fullName": "한부모가족지원법 / 제2조(국가 등의 책임)",
+    "lwrdNm": "한부모가족지원법",
+    "lwrdUrl": "http://law.go.kr/법령/한부모가족지원법"
+   },
+   {
+    "fullName": "한부모가족지원법 / 제17조(가족지원서비스)",
+    "lwrdNm": "한부모가족지원법",
+    "lwrdUrl": "http://law.go.kr/법령/한부모가족지원법"
+   },
+   {
+    "fullName": "한부모가족지원법 / 제17조의6(미혼모 등의 건강관리 등 지원)",
+    "lwrdNm": "한부모가족지원법",
+    "lwrdUrl": "http://law.go.kr/법령/한부모가족지원법"
+   },
+   {
+    "fullName": "한부모가족지원법 / 제19조(한부모가족복지시설)",
+    "lwrdNm": "한부모가족지원법",
+    "lwrdUrl": "http://law.go.kr/법령/한부모가족지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

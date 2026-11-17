@@ -1,0 +1,16 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5070000",
+   "ancName": "경상북도 안동시",
+   "regDate": "20250429170437",
+   "title": "노인일자리 및 사회활동 지원사업 신청자격이 궁금합니다.",
+   "faqNo": "6882079"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

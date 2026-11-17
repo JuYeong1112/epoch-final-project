@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6904440",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "자산형성지원사업이 무엇인가요?  ",
+  "qstnCntnCl": "정부에서 자산형성을 지원하는 통장사업이 있다고 들었는데 가입대상자 및 신청방법과 지원내용에 대해서\n알려주세요",
+  "ansCntnCl": "&nbsp;&lt;span style=\"font-size:14px\"&gt;&lt;span style=\"font-family:Gulim\"&gt;자산형성지원사업에 관심을 가져주셔서 감사합니다. 질문하신 내용에 대해 안내해 드립니다.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;strong&gt;1. 자산형성지원사업이란?&nbsp;&lt;/strong&gt;&lt;br /&gt;\n근로하는 기초생활수급자 및 차상위계층, 저소득 청년이 자립과 자활에 필요한 목돈(종잣돈)을 마련할 수 있도록 지원하는 복지 사업입니다. 가입자가 3년 동안 매월 일정 금액(예: 10만 원)을 저축하고 꾸준히 근로활동을 유지하면, 정부가 매월 일정 금액(10만원~30만원)을 근로소득장려금(정부지원금)으로 매칭하여&lt;br /&gt;\n추가로 적립해&nbsp;주는 통장입니다.&nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=\"font-size:14px\"&gt;&lt;span style=\"font-family:Gulim\"&gt;&lt;strong&gt;2. 가입대상자의 조건&lt;/strong&gt;&lt;br /&gt;\n가입대상자의 연령과 소득 기준에 따라 크게 세 가지 통장으로 나뉘어 운영됩니다.&lt;br /&gt;\n&lt;strong&gt;- 희망저축계좌 Ⅰ: &lt;/strong&gt;근로활동을 하는 생계급여 또는 의료급여 수급 가구&lt;br /&gt;\n&lt;strong&gt;- 희망저축계좌 Ⅱ: &lt;/strong&gt;근로활동을 하는 주거급여 또는 교육급여 수급 가구 및 차상위계층 가구&lt;br /&gt;\n&lt;strong&gt;- 청년내일저축계좌:&lt;/strong&gt; 근로활동을 하는 만 15세 이상 ~ 만 39세 이하 청년 중 가구 소득이&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기준중위소득 50% 이하인 자 &lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;※ 근로 소득 기준 및 재산 기준 등 상세 요건은 연도별로 달라질 수 있습니다.&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:Gulim\"&gt;&nbsp;&lt;br /&gt;\n&lt;strong&gt;3. 신청방법&lt;/strong&gt;&lt;br /&gt;\n&nbsp;자산형성지원사업은 매년 지정된 모집 기간에 신청하실 수 있으며, 방법은 다음과 같습니다.&lt;br /&gt;\n&lt;strong&gt;- 방문 신청:&lt;/strong&gt; 주민등록상 주소지 관할 동 주민센터에 신분증 및 증빙 서류를 지참하여 직접 방문 신청&lt;br /&gt;\n&lt;strong&gt;- 온라인 신청:&lt;/strong&gt; 복지로 누리집(&lt;a href=\"http://www.bokjiro.go.kr)/\"&gt;&lt;u&gt;&lt;span style=\"color:#0000ff\"&gt;www.bokjiro.go.kr)&lt;/span&gt;&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;strong&gt;4. 유의사항 &lt;/strong&gt;&lt;br /&gt;\n지원금을 전액 수령하기 위해서는 3년간 지속적인 근로 유지, 본인부담금 매월 적립, 유지기준&nbsp;등이&lt;br /&gt;\n충족되어야 하며, 이외에도 소정의 자립역량교육 이수 및 만기 시 자금사용계획서 제출 등의&lt;br /&gt;\n필수 조건을 모두 충족해야 합니다.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 의왕시",
+  "deptName": "경기도 의왕시 복지문화국 복지정책과",
+  "regDate": "20260520",
+  "ancCode": "4030000",
+  "deptCode": "4030207",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제18조의8(자산형성지원)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "민원 처리에 관한 법률 / 제5조(민원인의 권리와 의무)",
+    "lwrdNm": "민원 처리에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/민원 처리에 관한 법률"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

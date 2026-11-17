@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260729090633",
+   "title": "기초생활보장급여 부양의무자 기준 안내",
+   "faqNo": "6914398"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3360000",
+   "ancName": "부산광역시 강서구",
+   "regDate": "20260728205354",
+   "title": "기초연금을 받고 있는데 소득이나 재산이 바뀌면 신고해야 하나요?",
+   "faqNo": "6914344"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5835000",
+   "ancName": "전남광주통합특별시 곡성군",
+   "regDate": "20260728133222",
+   "title": "노인맞춤돌봄서비스 사업 및 신청방법 문의",
+   "faqNo": "6914284"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5835000",
+   "ancName": "전남광주통합특별시 곡성군",
+   "regDate": "20260727161230",
+   "title": "노인맞춤돌봄서비스 사업 및 신청방법 문의",
+   "faqNo": "6914003"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5890000",
+   "ancName": "전남광주통합특별시 영광군",
+   "regDate": "20260727102645",
+   "title": "노인일자리사업 사업유형",
+   "faqNo": "6913779"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5810000",
+   "ancName": "전남광주통합특별시 서구",
+   "regDate": "20260726135119",
+   "title": "장애인연금 및 장애수당",
+   "faqNo": "6912256"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724164705",
+   "title": "기초연금을 본인이 꼭 가서 신청해야하나요?",
+   "faqNo": "6913296"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724164542",
+   "title": "기초연금을 타인 명의의 계좌로 수령할 수 있는지 문의합니다.",
+   "faqNo": "6913281"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3060000",
+   "ancName": "서울특별시 중랑구",
+   "regDate": "20260724131843",
+   "title": "어르신 일자리 신청 자격은?",
+   "faqNo": "6913605"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3020000",
+   "ancName": "서울특별시 용산구",
+   "regDate": "20260724091241",
+   "title": "어르신일자리 및 사회활동지원 사업 안내",
+   "faqNo": "6912758"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

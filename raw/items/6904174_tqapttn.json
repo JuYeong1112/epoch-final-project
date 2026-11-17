@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6904174",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "결식아동 급식카드 지원대상 및 지원방법",
+  "qstnCntnCl": "결식아동 급식카드 지원대상 및 지원방법은?",
+  "ansCntnCl": "1. 지원연령: 18세 미만의 취학 및 미취학 아동&lt;br /&gt;\n&nbsp; - 다만, 18세 이상인 경우에도 「초중등교육법」제2조에 따른 학교에 재학 중인 아동을 포함하며, 학교를 다니지 않는 18세 미만의 아동의 경우에도 지원&lt;br /&gt;\n&lt;br /&gt;\n2. 지원대상&lt;br /&gt;\n&nbsp; ①&nbsp;「국민기초생활보장법」제2조제2호에 따른 수급자 가구의 아동, 차상위계층 아동&lt;br /&gt;\n&nbsp; ②&nbsp;「한부모가족지원법」제5조 및 제5조의2에 따른 지원대상자가 양육하는 아동&lt;br /&gt;\n&nbsp; ③&nbsp;「긴급복지지원법」에 따른 긴급복지 지원대상 가구의 아동&lt;br /&gt;\n&nbsp; ④ 보호자가 사망, 가출, 행방불명, 구금시설에 수용되는 등의 사유로 보호가 필요한 아동&lt;br /&gt;\n&nbsp; ⑤ 보호자의 사고, 급성질환, 만성질환 등의 사유로 보호자의 양육능력이 미약한 가구의 아동&lt;br /&gt;\n&nbsp; ⑥ 기준 중위소득 52% 이하인 가구의 아동&lt;br /&gt;\n&lt;br /&gt;\n3. 신청서류&lt;br /&gt;\n&nbsp; - 급식신청서, 기타 지차제장이 대상자 선정을 위해 요구하는 증빙자료&lt;br /&gt;\n&lt;br /&gt;\n4. 신청방법&lt;br /&gt;\n&nbsp; - 읍면 사무소 직접방문, 전자우편, 온라인(복지로 누리집), 우편 등 다양한 방법으로 신청 가능&lt;br /&gt;\n&lt;br /&gt;\n5. 신청기간&lt;br /&gt;\n&nbsp; - 연중 상시&lt;br /&gt;\n&nbsp;",
+  "ancName": "경상북도 의성군",
+  "deptName": "경상북도 의성군 관광복지국 통합돌봄과",
+  "regDate": "20260514",
+  "ancCode": "5150000",
+  "deptCode": "5150219",
+  "lawList": [
+   {
+    "fullName": "아동복지법 / 제35조(건강한 심신의 보존)",
+    "lwrdNm": "아동복지법",
+    "lwrdUrl": "http://law.go.kr/법령/아동복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

@@ -1,0 +1,35 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6913296",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금을 본인이 꼭 가서 신청해야하나요?",
+  "qstnCntnCl": "기초연금을 대리인이 신청할 수 있습니까?",
+  "ansCntnCl": "&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;1. 귀하의 민원 내용은 &lt;/span&gt;&#39;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금을 대리인이 신청할 수 있는지&lt;/span&gt;&#39;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;에 관한 것으로 이해됩니다&lt;/span&gt;.&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;2. 귀하의 질의사항에 대해 검토한 의견은 다음과 같습니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp; 가.&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;「&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금법&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;」 &lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;제&lt;/span&gt;10&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;조제&lt;/span&gt;1&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;항에 따라 보건복지부령으로 정하는 대리인은 기초연금의 지급을 대리 신청할 수 있습니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;-&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;기초연금 지급의 신청을 대리할 수 있는 사람은 배우자&lt;/span&gt;(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;만 &lt;/span&gt;65&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;세 미만 포함&lt;/span&gt;), &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;자녀&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;형제자매&lt;/span&gt;,&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;친족&lt;/span&gt;(8&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;촌 이내의 혈족&lt;/span&gt;, 4&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;촌 이내의 인척&lt;/span&gt;), &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;사회복지시설장&lt;/span&gt;(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;개인 및 법인운영 신고시설의 장&lt;/span&gt;),&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;사회복지 전담공무원 등 관계 공무원이 있습니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp; 나.&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;대리 신청 시 필요 서류가&lt;/span&gt;(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;신청 희망자 및 대리인의 신분증&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;위임장 등&lt;/span&gt;) &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;있을 수 있으니 자세한 사항은 주민등록 주소지 관할 행정복지센터에 문의하시기 바랍니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp;3.&nbsp;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;귀하의 질문에 만족스러운 답변이 되었기를 바라며&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;답변 내용에 대한 추가 설명이 필요한 경우&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;은현면행정복지센터 맞춤형복지팀&lt;/span&gt;(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;☎&lt;/span&gt;031-8082-7550~3)&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;에게 연락 주시면 친절히 안내해드리도록 하겠습니다&lt;/span&gt;. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;감사합니다&lt;/span&gt;.&nbsp; 끝.",
+  "ancName": "경기도 양주시",
+  "deptName": "경기도 양주시 은현면",
+  "regDate": "20260724",
+  "ancCode": "5590000",
+  "deptCode": "5590026",
+  "lawList": [
+   {
+    "fullName": "기초연금법 시행규칙 / 제6조(대리인)",
+    "lwrdNm": "기초연금법 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행규칙"
+   },
+   {
+    "fullName": "기초연금법 시행령 / 제13조(기초연금 지급의 신청방법ㆍ절차)",
+    "lwrdNm": "기초연금법 시행령",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법 시행령"
+   },
+   {
+    "fullName": "기초연금법 / 제10조(기초연금 지급의 신청)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

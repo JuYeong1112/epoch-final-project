@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914617",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "자활근로 참여대상 문의",
+  "qstnCntnCl": "자활사업 참여대상자는 누구인가요?\n",
+  "ansCntnCl": "&lt;table cellspacing=&quot;0&quot; style=&quot;border-collapse:collapse; border:undefined; width:308pt&quot;&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;border-color:currentcolor windowtext windowtext; height:153.0pt; text-align:left; vertical-align:middle; white-space:normal; width:308pt&quot;&gt;&lt;span style=&quot;font-size:10pt&quot;&gt;&lt;span style=&quot;font-family:&quot;맑은 고딕&quot;,monospace&quot;&gt;자활근로사업이란, 국민기초생활보장법에 따라 18세 이상 64세 이하 근로능력이 있는 저소득층의 자립을 지원하기 위한 사업입니다.&lt;br /&gt;\n\t\t\t자활근로사업의 참여 대상은 다음과 같습니다.&lt;br /&gt;\n\t\t\t1. 조건부 수급자&lt;br /&gt;\n\t\t\t2. 자활특례자&lt;br /&gt;\n\t\t\t3. 일반수급자&lt;br /&gt;\n\t\t\t4. 차상위자&lt;br /&gt;\n\t\t\t5. 근로능력이 있는 시설수급자&lt;br /&gt;\n\t\t\t근로능력있는 생계급여 조건부 수급자는 생계급여 수급을 위해 자활사업 참여를 의무화하고 있으며 이외 기초생활수급자 및 차상위자 등은 자활사업 희망시, 참여 가능합니다.&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n",
+  "ancName": "서울특별시 도봉구",
+  "deptName": "서울특별시 도봉구 복지가족국 생활보장과",
+  "regDate": "20260729",
+  "ancCode": "3090000",
+  "deptCode": "3090194",
+  "lawList": [
+   {
+    "fullName": "국민기초생활보장법 제9조5항 / ",
+    "lwrdNm": "국민기초생활보장법 제9조5항",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활보장법 제9조5항"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

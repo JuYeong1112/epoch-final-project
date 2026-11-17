@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "70028",
+  "dutySctnNm": "tqaplcy",
+  "qnaTitl": "노원형 돌봄SOS 서비스",
+  "qstnCntnCl": "1인 가구입니다. 제가 사고로 인하여, 긴급하게 돌봄서비스를 받고 싶은데, 가능한가요?",
+  "ansCntnCl": "&lt;span style=\"font-family:함초롬바탕\"&gt;노원구에서는 노원형 돌봄&lt;/span&gt;SOS &lt;span style=\"font-family:함초롬바탕\"&gt;서비스를 다음과 같이 운영하고 있습니다&lt;/span&gt;.&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;○ &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;이용대상 &lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;긴급&lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;일시적인 위기 사유로 돌봄이 필요하나 수발자가 없는 모든 주민&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;○ &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;지원기준&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;수급자&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;차상위&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;중위소득 &lt;/span&gt;100%&lt;span style=\"font-family:함초롬바탕\"&gt;이하 전액 지원&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;그 외 전액 본인부담&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;○ &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;지원기간&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;연내 예산 소진시까지&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;○ &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;지원내용&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;- &lt;span style=\"font-family:함초롬바탕\"&gt;서울시 공통 &lt;/span&gt;5&lt;span style=\"font-family:함초롬바탕\"&gt;대 돌봄&lt;/span&gt;SOS &lt;span style=\"font-family:함초롬바탕\"&gt;서비스 &lt;/span&gt;(&lt;span style=\"font-family:함초롬바탕\"&gt;일시재가&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;단기시설&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;동행지원&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;주거편의&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;식사지원&lt;/span&gt;) + &lt;span style=\"font-family:함초롬바탕\"&gt;노원형 &lt;/span&gt;3&lt;span style=\"font-family:함초롬바탕\"&gt;대 특화서비스 &lt;/span&gt;(&lt;span style=\"font-family:함초롬바탕\"&gt;방문목욕&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;방문이미용&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;방문맞춤운동&lt;/span&gt;)&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;○ &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;신청방법&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;관할 동주민센터 문의 및 신청&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:180%\"&gt;(&lt;span style=\"font-family:함초롬바탕\"&gt;노원구 복지정책과 &lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;☎ &lt;/span&gt;02-2116-3674)&lt;/span&gt;",
+  "ancName": "서울특별시 노원구",
+  "deptName": "서울특별시 노원구 상계10동",
+  "regDate": "20250731",
+  "ancCode": "3100000",
+  "deptCode": "3100063",
+  "lawList": [],
+  "subjList": [
+   {
+    "subjectNo": "7687",
+    "subjectName": "홍보",
+    "subjectCont": "홍보"
+   }
+  ]
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

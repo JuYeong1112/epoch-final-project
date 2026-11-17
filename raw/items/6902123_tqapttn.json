@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6902123",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초생활수급 신청은 어디서 어떻게 하나요? 신청하면 바로 수급이 되나요?",
+  "qstnCntnCl": "국민기초생활보장 수급자는 무엇이며, 어디서 신청하나요?\n",
+  "ansCntnCl": "&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;국민기초생활보장제도는 생활이 어려운 사람에게 필요한 급여를 실시하여 최저생활을 보장하고 자활을 돕는 것을 목적으로 하는 사회복지제도로 급여의 종류는 생계급여, 주거급여, 의료급여, 교육급여, 해산급여, 장제급여, 자활급여 등이 있습니다.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n주소지 관할 동 주민센터에 방문하여 상담 후 신청하실 수 있으며, 신청서류는 사회보장급여 신청서 및 금융정보제공동의서(주민센터에 비치)와 필요시 임대차계약서, 소득재산관련 서류, 외국인등록증명 등 신청가구에 따라 차이가 있을 수 있으므로 동 주민센터 상담 후 준비해 주시면 됩니다.&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&lt;br /&gt;\n&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;궁금하신 점은 거주지 동 주민센터 복지팀으로 연락주시면 상담받으실 수 있습니다.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n",
+  "ancName": "서울특별시 강동구",
+  "deptName": "서울특별시 강동구 복지가족국 생활보장과",
+  "regDate": "20260414",
+  "ancCode": "3240000",
+  "deptCode": "3240282",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제1조(목적)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제7조(급여의 종류)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

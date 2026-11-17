@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6911196",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급복지지원사업 재지원 기간 ",
+  "qstnCntnCl": "이전에 긴급생계지원을 받았는데 다시 받을 수 있나요?\n",
+  "ansCntnCl": "이전과 동일한 위기사유로 생활이 어려운 경우 기존 긴급생계지원 종료일로부터 2년 경과 후 신청 및 지원 가능하며&nbsp;&lt;br /&gt;\n다른 위기사유로 생할이 어려운 경우 종료일로부터 1년 경과 후 신청 및 지원가능합니다.&nbsp;",
+  "ancName": "전남광주통합특별시 서구",
+  "deptName": "전남광주통합특별시 서구 복지일자리국 복지급여과",
+  "regDate": "20260710",
+  "ancCode": "5810000",
+  "deptCode": "5810061",
+  "lawList": [
+   {
+    "fullName": "긴급복지지원법 / 제10조(긴급지원의 기간 등)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

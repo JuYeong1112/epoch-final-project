@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6898751",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "정부양곡지원 정책 ",
+  "qstnCntnCl": "정부양곡 지원대상 및 지원내용",
+  "ansCntnCl": "&lt;br /&gt;\n&nbsp;정부양곡 지원 내용&lt;br /&gt;\n&nbsp; - 지원대상자: 국민기초생활수급자(생계,의료,주거,교육) 및 차상위계층, 한부모가정&lt;br /&gt;\n&nbsp; - 지원포수: 매달 복지보장가구원 수 당 10kg 1포(ex: 생계급여수급 보장가구원 수 3명은 매달10kg 3포 신청 가능)&lt;br /&gt;\n&nbsp; - 양곡가격: 매년 책정된 가격(ex 2025년기준 생계의료 수급자 10kg 1포 2,500원, 차상위계층 10kg 8,000원)&lt;br /&gt;\n&nbsp; -&nbsp;신청기간: 매달(1~10일사이 신청) *매달 20일 이후&nbsp;배달&lt;br /&gt;\n&nbsp; -&nbsp;신청방법&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;생계급여 수급자:&nbsp;동 담당자에게&nbsp;신청(급여공제)/유선 및&nbsp;내방&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 의료, 차상위계층: 양곡 전용계좌 입금&nbsp;&lt;br /&gt;\n&nbsp;",
+  "ancName": "경기도 하남시",
+  "deptName": "경기도 하남시 미사2동",
+  "regDate": "20251126",
+  "ancCode": "4040000",
+  "deptCode": "4040170",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제2조(정의)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

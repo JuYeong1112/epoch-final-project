@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900320",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "2026년 기초연금 선정기준",
+  "qstnCntnCl": "2026년 기초연금 선정기준",
+  "ansCntnCl": "&lt;table border=\"1\" cellspacing=\"0\" style=\"border-collapse:collapse; border-image:none; border:0.28pt solid #000000; table-layout:fixed\"&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td colspan=\"4\" style=\"border-color:currentColor currentColor #000000; height:16.36pt; text-align:right; vertical-align:middle; width:422.06pt\"&gt;(&lt;span style=\"font-family:함초롬바탕\"&gt;단위&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;원&lt;/span&gt;)&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:70.34pt\"&gt;&nbsp;&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;단독&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;부부&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;인&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;부부&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;인&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:70.34pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;선정기준액&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;2,470,000&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;3,952,000&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;3,952,000&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:70.34pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;&lt;strong&gt;최대지급금&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;349,700&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;349,700&lt;/td&gt;\n\t\t\t&lt;td style=\"border-color:#000000; height:32.03pt; vertical-align:middle; width:117.24pt\"&gt;559,520&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n&nbsp;&lt;br /&gt;\n&lt;span style=\"font-family:함초롬바탕\"&gt;◎&lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;소득인정액&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;소득평가액 &lt;/span&gt;+ &lt;span style=\"font-family:함초롬바탕\"&gt;재산의 소득환산액&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:함초롬바탕\"&gt;①&lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;소득평가액&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;실제소득 &lt;/span&gt;- &lt;span style=\"font-family:함초롬바탕\"&gt;근로소득 공제금액&lt;/span&gt;&lt;br /&gt;\n*&lt;span style=\"font-family:함초롬바탕\"&gt;실제소득&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;근로소득&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;사업소득&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;재산소득&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;공적이전소득&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;무료임차소득&lt;/span&gt;&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;span style=\"font-family:함초롬바탕\"&gt;②&lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;재산의 소득환산액&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;[일반재산 &lt;/span&gt;+ &lt;span style=\"font-family:함초롬바탕\"&gt;금융재산 &lt;/span&gt;- &lt;span style=\"font-family:함초롬바탕\"&gt;부채&lt;/span&gt;]  &lt;span style=\"font-family:함초롬바탕\"&gt;재산의 소득환산비율&lt;/span&gt;(&lt;span style=\"font-family:함초롬바탕\"&gt;기본공제액 적용&lt;/span&gt;)&lt;br /&gt;\n*&lt;span style=\"font-family:함초롬바탕\"&gt;일반재산&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;건축물&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;토지&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;주택&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;임차보증금&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;분양권&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;회원권&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;자동차 등&lt;/span&gt;&lt;br /&gt;\n*&lt;span style=\"font-family:함초롬바탕\"&gt;금융재산&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;예금&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;적금&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;주식&lt;/span&gt;, &lt;span style=\"font-family:함초롬바탕\"&gt;보험 등&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=\"font-family:함초롬바탕\"&gt;※&lt;/span&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;관련법령&lt;/span&gt;: &lt;span style=\"font-family:함초롬바탕\"&gt;기초연금법 제&lt;/span&gt;2&lt;span style=\"font-family:함초롬바탕\"&gt;조 및 제&lt;/span&gt;5&lt;span style=\"font-family:함초롬바탕\"&gt;조&lt;/span&gt;",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 처인구 사회복지과",
+  "regDate": "20260223",
+  "ancCode": "4050000",
+  "deptCode": "5620022",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제2조(정의)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   },
+   {
+    "fullName": "기초연금법 / 제5조(기초연금액의 산정)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

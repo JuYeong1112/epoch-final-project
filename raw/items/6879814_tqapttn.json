@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6879814",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초생활수급자 상수도사용료 감면",
+  "qstnCntnCl": "기초생활수급자 상수도요금 감면 방법은 어떻게 되나요?",
+  "ansCntnCl": "기초생활수급자 상수도사용료 감면 내용은 다음과 같습니다.&lt;br /&gt;\n1. 감면대상: 「국민기초생활보장법」에 따른 생계의료 급여 수급자&lt;br /&gt;\n2. 감면기간: 수급기간 중&lt;br /&gt;\n3. 감면내용: 가정용 상수도 15㎥까지의 요금 1/2감면&lt;br /&gt;\n4. 감면신청방법: 주소지 행정복지센터에서 다음의 서류를 구비하여 신고&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 상수도사용료 감면신청서 1부&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 수급자(생계의료 급여) 증명서 1부&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; - 신고인(부 또는 모) 및 제출인 신분증명서&lt;br /&gt;\n&lt;br /&gt;\n※ 수급자다자녀가정출산가정가정용상수도 감면에 둘 이상 해당하는 경우 중복적용 되지 않습니다.&lt;br /&gt;\n&nbsp;",
+  "ancName": "경상북도 안동시",
+  "deptName": "경상북도 안동시 맑은물사업국 맑은물정책과",
+  "regDate": "20250225",
+  "ancCode": "5070000",
+  "deptCode": "5070309",
+  "lawList": [
+   {
+    "fullName": "안동시 수도급수 조례 / 제41조(요금의 감면)",
+    "lwrdNm": "안동시 수도급수 조례",
+    "lwrdUrl": "http://law.go.kr/법령/안동시 수도급수 조례"
+   },
+   {
+    "fullName": "안동시 수도급수 조례 시행규칙 / 제31조(수도요금의 감면)",
+    "lwrdNm": "안동시 수도급수 조례 시행규칙",
+    "lwrdUrl": "http://law.go.kr/법령/안동시 수도급수 조례 시행규칙"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

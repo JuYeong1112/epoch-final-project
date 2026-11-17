@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4140000",
+   "ancName": "경기도 연천군",
+   "regDate": "20260609173750",
+   "title": "긴급복지 지원사업",
+   "faqNo": "6906592"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5150000",
+   "ancName": "경상북도 의성군",
+   "regDate": "20260529091603",
+   "title": "긴급복지지원 종류",
+   "faqNo": "6905490"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20260528170438",
+   "title": "긴급복지지원 금액 인상",
+   "faqNo": "6905494"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260520160317",
+   "title": "긴급복지 지원사업 안내",
+   "faqNo": "6904571"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4470000",
+   "ancName": "충청북도 음성군",
+   "regDate": "20260410162435",
+   "title": "긴급복지 지원 대상은 어떻게 되나요?",
+   "faqNo": "6902034"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7530000",
+   "ancName": "경기도교육청",
+   "regDate": "20260410091531",
+   "title": "긴급복지지원 신고의무 교육",
+   "faqNo": "6901924"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409190008",
+   "title": "긴급복지 지원 요청 시, 위기상황 발생은 어떤 경우인가요?",
+   "faqNo": "6901726"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5470000",
+   "ancName": "경상남도 거창군",
+   "regDate": "20260401150407",
+   "title": "긴급복지 지원 제도가 무엇인지? 어떤 지원을 받을 수 있는지 궁금합니다.",
+   "faqNo": "6901582"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5470000",
+   "ancName": "경상남도 거창군",
+   "regDate": "20260401150355",
+   "title": "긴급복지 지원 대상이 아니라는 답변을 받았는데, 다른 복지 지원은 없나요?",
+   "faqNo": "6901583"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20250729152525",
+   "title": "긴급복지지원 금액 인상",
+   "faqNo": "6895510"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

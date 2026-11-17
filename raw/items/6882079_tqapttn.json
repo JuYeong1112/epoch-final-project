@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6882079",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "노인일자리 및 사회활동 지원사업 신청자격이 궁금합니다. ",
+  "qstnCntnCl": "노인일자리 및 사회활동 지원사업 신청자격이 궁금합니다. ",
+  "ansCntnCl": "1. 신청자격&lt;br /&gt;\n&nbsp;&nbsp;가. 노인공익활동: 만65세 이상 기초연금수급자, 직역연금수급자(배우자 포함)&lt;br /&gt;\n&nbsp; 나.&nbsp;노인역량활용: 만65세이상(단, 일부유형은 만60세이상 가능)&lt;br /&gt;\n&nbsp; 다.&nbsp;공동체사업단: 만60세이상&lt;br /&gt;\n2. 신청제외자&lt;br /&gt;\n&nbsp; 가. 국민기초생활보장법에 의한 생계급여수급자&lt;br /&gt;\n&nbsp; 나. 국민건강보험 직장가입자(취업알선형 제외)&lt;br /&gt;\n&nbsp; 다. 장기요양보험 등급 판정자 1~5등급, 인지원등급&lt;br /&gt;\n&nbsp; 라. 정부부처 및 지자체에서 추진하는 일자리사업에 2개 이상 참여하고 있는자&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&nbsp; *&nbsp;상기내용에 대한 구체적인 사항은 해당 지자체(읍면동행정복지센터) 문의",
+  "ancName": "경상북도 안동시",
+  "deptName": "경상북도 안동시 평생복지국 노인장애인과",
+  "regDate": "20250429",
+  "ancCode": "5070000",
+  "deptCode": "5070292",
+  "lawList": [
+   {
+    "fullName": "노인복지법 / 제23조(노인사회참여 지원)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4020000",
+   "ancName": "경기도 군포시",
+   "regDate": "20260708132513",
+   "title": "기초생활수급자인데 주민세(개인분) 고지서를 받았습니다.",
+   "faqNo": "6910920"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182829",
+   "title": "에너지바우처 사업 안내",
+   "faqNo": "6909923"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182756",
+   "title": "하남시 푸드뱅크 이용방법",
+   "faqNo": "6909914"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6300000",
+   "ancName": "대전광역시",
+   "regDate": "20260629134148",
+   "title": "대전형 지역사회 통합돌봄 사업 안내",
+   "faqNo": "6909812"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6300000",
+   "ancName": "대전광역시",
+   "regDate": "20260629134144",
+   "title": "그냥드림 사업 안내",
+   "faqNo": "6909810"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5670000",
+   "ancName": "경상남도 창원시",
+   "regDate": "20260623105110",
+   "title": "주소지와 실거주지가 다른 경우 긴급지원은 어디서 신청하나요?",
+   "faqNo": "6909337"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3820000",
+   "ancName": "경기도 의정부시",
+   "regDate": "20260619100824",
+   "title": "주변에 어려운 이웃이 있으면 어떻게 해야 하나요?",
+   "faqNo": "6908495"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7010000",
+   "ancName": "서울특별시교육청",
+   "regDate": "20260617140352",
+   "title": "지구사랑 빈그릇운동이란 무엇인가요?",
+   "faqNo": "6907332"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260617131131",
+   "title": "긴급복지지원 지원제도 개요",
+   "faqNo": "6907933"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260610102638",
+   "title": "기초생활수급자 신청 및 선정기준 문의",
+   "faqNo": "6906575"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

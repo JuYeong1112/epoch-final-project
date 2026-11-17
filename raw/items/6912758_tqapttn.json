@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6912758",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "어르신일자리 및 사회활동지원 사업 안내",
+  "qstnCntnCl": "어르신일자리 및 사회활동지원사업에 참여하려면 어떻게 해야하나요?",
+  "ansCntnCl": "&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:14px\"&gt;어르신일자리 및 사회활동지원사업은 노인의 능력과 적성에 맞는 사회적 일자리를 창출ㆍ제공함으로써&lt;br /&gt;\n사회ㆍ경제적 문제를 해소하고 활기찬 노후생활을 지원하기 위한 사업입니다.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;strong&gt;&lt;span style=\"background-color:#f1c40f\"&gt;사업 개요&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;\n&lt;strong&gt;기&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 간 : &lt;/strong&gt;연중 &nbsp;10~12개월 근무(사업별 기간 상이)&lt;br /&gt;\n&lt;strong&gt;참여대상 :&lt;/strong&gt; 만65세 이상 신체노동 가능한 어르신 중 기초연금수급자&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 일부 사업의 경우 만60세 이상 어르신 참여 가능&lt;br /&gt;\n&lt;strong&gt;추진방법 : &lt;/strong&gt;구 자체 운영 및 위탁 운영&lt;br /&gt;\n&lt;strong&gt;근무조건 : &lt;/strong&gt;월 30~60시간(사업별 근무형태 상이)&lt;br /&gt;\n&lt;strong&gt;급&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 여 :&lt;/strong&gt; 만근 시 월 29만원~63만4천원(사업별 급여 상이)&lt;br /&gt;\n&lt;strong&gt;선발제외&lt;/strong&gt;&lt;br /&gt;\n&nbsp; -&nbsp;생계급여 수급자 / 국민건강보험 직장가입자&lt;br /&gt;\n&nbsp; - 정부부처 및 지자체에서 추진중인 일자리사업 참여자&lt;br /&gt;\n&nbsp; - 장기요양보험 등급판정자 1~5등급, 인지지원등급&lt;br /&gt;\n&lt;br /&gt;\n서울특별시 용산구 주민인 경우 아래 일자리 관련 문의처로 문의하여 주시기 바랍니다.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=\"font-size:14px\"&gt;&lt;strong&gt;&lt;span style=\"background-color:#f1c40f\"&gt;일자리 관련 문의처&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;\n1. 용산시니어클럽 : 02-2231-0270&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:medium\"&gt;2. 대한노인회용산구지회 : 02-714-5901&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:14px\"&gt;3. 시립용산노인종합복지관 : 02-796-7665&lt;br /&gt;\n4. 갈월종합사회복지관 : 070-4658-1117&lt;br /&gt;\n5. 청파노인복지관 : 070-4340-2540&lt;br /&gt;\n6. 효창종합사회복지관 : 070-4713-0037&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "서울특별시 용산구",
+  "deptName": "서울특별시 용산구 생활지원국 어르신복지과",
+  "regDate": "20260724",
+  "ancCode": "3020000",
+  "deptCode": "3020216",
+  "lawList": [
+   {
+    "fullName": "노인복지법 / 제23조(노인사회참여 지원)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

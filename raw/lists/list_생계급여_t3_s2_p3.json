@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3020000",
+   "ancName": "서울특별시 용산구",
+   "regDate": "20260728153256",
+   "title": "온용산 이사비 지원 사업이란?",
+   "faqNo": "6913438"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3020000",
+   "ancName": "서울특별시 용산구",
+   "regDate": "20260727152303",
+   "title": "자산형성지원 통장사업(희망저축계좌ⅠⅡ, 청년내일저축계좌) 신청 절차",
+   "faqNo": "6913855"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260727151727",
+   "title": "희망저축계좌1 지급 기준",
+   "faqNo": "6913761"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5810000",
+   "ancName": "전남광주통합특별시 서구",
+   "regDate": "20260726135119",
+   "title": "장애인연금 및 장애수당",
+   "faqNo": "6912256"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260725164842",
+   "title": "생계, 의료급여 수급자는 부양의무자가 있으면 보장이 안되는 건가요?",
+   "faqNo": "6906247"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724172124",
+   "title": "긴급지원(생계비 원) 지원방법 및 절차가 어떻게 될까요?",
+   "faqNo": "6913650"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20260724143906",
+   "title": "긴급복지 신청 문의",
+   "faqNo": "6911419"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3060000",
+   "ancName": "서울특별시 중랑구",
+   "regDate": "20260724131843",
+   "title": "어르신 일자리 신청 자격은?",
+   "faqNo": "6913605"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3020000",
+   "ancName": "서울특별시 용산구",
+   "regDate": "20260724091241",
+   "title": "어르신일자리 및 사회활동지원 사업 안내",
+   "faqNo": "6912758"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3830000",
+   "ancName": "경기도 안양시",
+   "regDate": "20260723104602",
+   "title": "여성청소년 생리용품 바우처 지원사업",
+   "faqNo": "6913233"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914936",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급생계비와 생계급여 간 공제 이유 및 계산 방식 ",
+  "qstnCntnCl": "생계급여 신청 후 생활이 어려워 긴급생계비를 받았는데, 생계급여 지급 시 이 부분을 왜 공제하나요? 그리고 어떤 계산법으로 공제하는걸까요?",
+  "ansCntnCl": "&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;strong&gt;1. 생계급여 지급 시 동일기간 지급된 긴급생계비 공제 이유&lt;br /&gt;\n긴급생계비와 기초생활보장법상의 생계급여는 같은 목적(생계비 지원)의 급여이기 때문에 같은 기간에 중복해서 전액 지급하지 않는 것이 원칙&lt;/strong&gt;입니다. 그래서 기초생활수급자로 나중에 결정되더라도, 이미 받은 긴급생계지원금을 고려하여 생계급여를 조정(차액 지급)합니다.&lt;br /&gt;\n&lt;br /&gt;\n긴급복지 생계지원은 갑작스러운 위기상황에서 &lt;strong&gt;먼저 지급하는 &apos;선지원&apos; 제도&lt;/strong&gt;입니다. 이후 조사 결과 기초생활보장 생계급여 대상자로 결정되면, 같은 달에 같은 목적의 생계비를 이중으로 지원하지 않도록 정산합니다. 즉, &quot;받은 돈을 다시 빼앗는다&quot;기보다는 &lt;strong&gt;같은 기간의 생계비를 중복 지급하지 않기 위한 정산&lt;/strong&gt;이라고 이해하시면 됩니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;strong&gt;2. 긴급생계비 공제 계산법&lt;/strong&gt;&lt;br /&gt;\n보건복지부 지침에 따르면, &lt;strong&gt;해당 월의 긴급생계비와 기초생활보장법상 생계급여를 비교&lt;/strong&gt;합니다.&lt;/span&gt;&lt;/span&gt;\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;긴급생계비가 생계급여보다 &lt;strong&gt;많으면&lt;/strong&gt; &rarr; 긴급생계비만 인정되고 생계급여는 지급되지 않습니다.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;긴급생계비가 생계급여보다 &lt;strong&gt;적으면&lt;/strong&gt; &rarr; &lt;strong&gt;생계급여에서 긴급생계비를 뺀 차액&lt;/strong&gt;을 지급합니다.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;예를 들어,&lt;/span&gt;&lt;/span&gt;\n\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;그 달 생계급여가 70만 원이고&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;이미 긴급생계지원금으로 50만 원을 받았다면&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&rarr; 생계급여는 &lt;strong&gt;20만 원만 추가 지급&lt;/strong&gt;됩니다.&lt;br /&gt;\n반대로,&lt;/span&gt;&lt;/span&gt;\n\n&lt;ul&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;생계급여 60만 원&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n\t&lt;li&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;긴급생계지원금 80만 원&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;이라면 그 달에는 &lt;strong&gt;긴급생계비만 지급&lt;/strong&gt;되고 생계급여는 추가로 지급되지 않습니다.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;strong&gt;3. 주의점&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;font-family:Malgun Gothic&quot;&gt;&lt;u&gt;&lt;strong&gt;생계급여의 경우 월 단위&lt;/strong&gt;&lt;/u&gt;로 지급되지만 &lt;u&gt;&lt;strong&gt;긴급생계비의 경우 일 단위로 계산&lt;/strong&gt;&lt;/u&gt;됩니다.&lt;br /&gt;\n예를 들어, 마지막 긴급생계비를 5월 25일에 받은 경우 6월 24일까지 영향을 미치므로 6월 생계급여의 대부분이 공제될 수 있습니다.&nbsp;&lt;/span&gt;&lt;/span&gt;",
+  "ancName": "경기도 고양시",
+  "deptName": "경기도 고양시 덕양구 사회복지과",
+  "regDate": "20260730",
+  "ancCode": "3940000",
+  "deptCode": "3950063",
+  "lawList": [
+   {
+    "fullName": "기타",
+    "lwrdNm": "기타",
+    "lwrdUrl": "http://law.go.kr/법령/기타"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6903833",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "【교육급여바우처】학생의 보호자가 아닌 사람이 바우처 신청을 할 수 있는지? ",
+  "qstnCntnCl": "【교육급여바우처】학생의 보호자가 아닌 사람이 바우처 신청을 할 수 있는지? ",
+  "ansCntnCl": "부모의 사망, 이혼 등으로 학생 보호자가 특정되지 않는 경우에는 친인척, 보호시설의 장 등 학생을 실질적으로 보호하는 분이 주민등록 편입을 통해 생계 또는 주거를 함께하고 있음을 공적으로 증명할 수 있도록 조치한 이후, 바우처를 신청하시기 바랍니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;\n&lt;div style=&quot;text-align:right&quot;&gt;&lt;출처&gt;한국장학재단 교육급여바우처https://e-voucher.kosaf.go.kr/&lt;/div&gt;\n",
+  "ancName": "교육부",
+  "deptName": "교육부 학생지원국 학생지원총괄과",
+  "regDate": "20260508",
+  "ancCode": "1342000",
+  "deptCode": "1342389",
+  "lawList": [
+   {
+    "fullName": "기타",
+    "lwrdNm": "기타",
+    "lwrdUrl": "http://law.go.kr/법령/기타"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

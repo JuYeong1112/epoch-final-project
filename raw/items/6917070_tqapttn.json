@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6917070",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "치매공공후견인 제도에 대해 알고싶어요.",
+  "qstnCntnCl": "치매 공공 후견인 제도가 있다고 들었는데 치매공공 후견인 제도에 대해 알려주세요.",
+  "ansCntnCl": "&lt;span style=\"font-family:Malgun Gothic\"&gt;안녕하십니까?문의하신 치매공공후견인 제도에 대해 알려드리겠습니다.&lt;br /&gt;\n&lt;br /&gt;\n치매안심센터에서는 의사결정능력 저하로 어려움을 겪고 있는 치매환자에게 성년후견제도를 이용할 수 있도록 지원함으로써 인간으로서의 존엄성을 보장하고 있습니다.&lt;br /&gt;\n지원 대상 및 신청 진행절차는 아래와같습니다.&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;1.&lt; 지원대상&gt;&lt;br /&gt;\n&nbsp;-&nbsp;차상위 등 저소득자 및 기초연금수급자&lt;br /&gt;\n&nbsp;-&nbsp;대변해 줄 가족이 없는 경우&lt;br /&gt;\n&nbsp;-&nbsp;도움을 원하거나 의사결정 지원이 필요한 자&lt;br /&gt;\n※단, 위조건을 충족하지 못하여도 후견이 필요하다고 지자체장이 인정한 경우 지원 가능합니다.&lt;br /&gt;\n&lt;br /&gt;\n2.&lt;활동내용&gt;&lt;br /&gt;\n&nbsp;-&nbsp;예금 통장 및 재산관리 지원&lt;br /&gt;\n&nbsp;-&nbsp;신청 및 이용지원(노인장기요양보험, 기초생활수급비 조정, 돌봄 서비스 매칭 등 어르신에게 꼭 필요한 국가 복지&nbsp; &nbsp; 혜택을 대신 신청)&lt;br /&gt;\n&nbsp;-이용지원(어르신 병원에 동행하여 자료를 돕고, 거주지를 요양원이나 요양병원으로 옮겨야 할 필요성이 있을 때 어르신의 이익을 최우선으로 고려해 의사를 대변합니다.)&lt;br /&gt;\n-등 주거관련지원(의사결정 능력저하로 문서계약이 어려울 경우 후견인의 도움으로 주거계약 등을 진행)&lt;br /&gt;\n&lt;br /&gt;\n3.&lt;신청 및 진행절차&gt;&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Malgun Gothic\"&gt;-지정및 서류준비: 공공후견인의 도움이 필요한 치매 어르신을 발견하면 관할 치매센터에 문의하여 대상자를 확인 후&nbsp; 서류 준비&lt;br /&gt;\n-중앙치매센터 소속 변호사 등 전문가 집단이 가정법원에 성년후견(또는 한정특정후견)개시 심판을 청구&lt;br /&gt;\n-매칭 및 감독: 법원 판결로 후견인이 판정되면 3년간 활동 지원하며 후견인이 권한을 남용하지 않도록 법원과 후견감독인이 활동 보고서를 매달 점검하며 철저히 관리감독 진행&lt;br /&gt;\n&lt;br /&gt;\n문의사항에 만족한 답변이 되었기를 바라며 추가 문의사항이 있을시&nbsp; 보은군 치매안심센터(043-540-5642~7)로 연락주시길 바랍니다,&lt;br /&gt;\n감사합니다.&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n&lt;/div&gt;\n",
+  "ancName": "충청북도 보은군",
+  "deptName": "충청북도 보은군 보건소 건강증진과",
+  "regDate": "20261027",
+  "ancCode": "4420000",
+  "deptCode": "4420101",
+  "lawList": [
+   {
+    "fullName": "치매관리법 / 제12조의3(성년후견제 이용지원)",
+    "lwrdNm": "치매관리법",
+    "lwrdUrl": "http://law.go.kr/법령/치매관리법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

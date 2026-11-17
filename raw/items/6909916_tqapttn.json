@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909916",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "누구나 돌봄서비스 안내",
+  "qstnCntnCl": "누구나 돌봄서비스를 이용하고 싶은데 지원대상, 비용, 내용, 신청방법이 궁금해요.",
+  "ansCntnCl": "&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"font-size:14px\"&gt;1. 지원대상 기준&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"font-size:14px\"&gt;아래 세가지 조건을 모두 충족 시 신청할 수 있습니다.&lt;br /&gt;\n① 혼자 거동이 어렵거나 독립적인 일상생활 수행이 어려운 경우&lt;br /&gt;\n② 수발할 수 있는 가족 등이 부재하거나 수발할 수 없는 경우&lt;br /&gt;\n③ 공적 돌봄서비스를 이용하지 않거나 이용 중 불가피한 공백이 발생한 경우&lt;br /&gt;\n&lt;br /&gt;\n2. 서비스 비용&lt;br /&gt;\n- 기초연금 수급자, 유공자, 기초생활수급자 및 차상위 등 중위소득120% 이하는 무료&lt;br /&gt;\n- 중위소득 120초과 150%이하는 50% 본인 부담&lt;br /&gt;\n- 중위소득 150% 초과는 100% 본인부담&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n3. 지원서비스 종류&lt;br /&gt;\n생활돌봄(신체활동 및 가사지원), 동행돌봄(병원 등 동행), 주거안전(청소 및 부분수리), 식사지원(도시락 배달) 4가지 서비스를 받을 수 있습니다.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n4. 신청 방법&lt;br /&gt;\n주소지 관할 동 행정복지센터 또는 누구나돌봄 플랫폼(온라인) 신청&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 하남시",
+  "deptName": "경기도 하남시 덕풍3동",
+  "regDate": "20260706",
+  "ancCode": "4040000",
+  "deptCode": "4040033",
+  "lawList": [
+   {
+    "fullName": "의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률 / 제4조(국가와 지방자치단체의 책무)",
+    "lwrdNm": "의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/의료ㆍ요양 등 지역 돌봄의 통합지원에 관한 법률"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

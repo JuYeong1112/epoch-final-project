@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6893595",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "노인일자리 자격",
+  "qstnCntnCl": "노인일자리 자격은 어떻게 되나요?",
+  "ansCntnCl": "1. 연령기준&lt;br /&gt;\n&nbsp; * 공익활동 : 만65세 이상 기초연금수급자 또는 직역연금수급자&lt;br /&gt;\n&nbsp; * 역량/공동체&nbsp;사업단 : 만60세이상&lt;br /&gt;\n&nbsp; * 취업알선형 : 만60세 이상&lt;br /&gt;\n2. 소득기준&lt;br /&gt;\n&nbsp; * 생계급여수급자, 국민건강보험 직장가입자, 장기요양보험 등급판정자(1~5등급)는 제외&lt;br /&gt;\n3. 기타제외&lt;br /&gt;\n&nbsp; * 정부 부처. 지자체 일자리사업 2개 이상 참여자&lt;br /&gt;\n&nbsp; * 종교시설, 임의단체, 경로당 등 비영리기관은 수행기관으로 제한됨.",
+  "ancName": "경기도 용인시",
+  "deptName": "경기도 용인시 사회복지국 노인복지과",
+  "regDate": "20250727",
+  "ancCode": "4050000",
+  "deptCode": "4050615",
+  "lawList": [
+   {
+    "fullName": "노인복지법 / 제23조(노인사회참여 지원)",
+    "lwrdNm": "노인복지법",
+    "lwrdUrl": "http://law.go.kr/법령/노인복지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

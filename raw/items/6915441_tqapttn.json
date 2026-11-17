@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6915441",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "시각 장애인 안마 서비스",
+  "qstnCntnCl": "시각 장애인 안마 서비스 사업에 관한 문의",
+  "ansCntnCl": "&lt;span style=&quot;font-family:Gulim&quot;&gt;&lt;답변내용&gt;&lt;br /&gt;\n0 지원대상&lt;br /&gt;\n&nbsp;-소득기준: 기준중위소득 140%이하 또는 기초연금 수급자&lt;br /&gt;\n&nbsp;-연령기준: 만60세 이상, 단 지체 및 뇌병변 등록 장애인, &apos;국가유공자 예우에 관한 법률&apos; 에 의해 상이등급 판정을 받은&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 자는 연령기준 미적용&lt;br /&gt;\n&nbsp;-욕구기준: 1.근골격계, 신경계, 순환계 질환이 있는 자&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2. 지체 및 뇌병변 장애인&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3. &apos;국가유공자예우에관한법률&apos; 에 의해 상이등급 판정 받은 자 중 근골격계, 신경계, 순환계 질환이 있는 자&lt;br /&gt;\n0 신청기간: 3월 중(연 1회)&lt;br /&gt;\n0 지원내용: 전신 안마, 마사지 지압, 운동요법 등&lt;br /&gt;\n0 신청방법: 본인 또는 대리인이 관할 행정복지센터 방문&lt;br /&gt;\n0 제출서류: 신청서, 개인정보제공동의서 등&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 포천시",
+  "deptName": "경기도 포천시 문화복지국 복지정책과",
+  "regDate": "20260730",
+  "ancCode": "5600000",
+  "deptCode": "5600225",
+  "lawList": [
+   {
+    "fullName": "사회서비스 이용 및 이용권 관리에 관한 법률 / 제4조(국가 등의 책무)",
+    "lwrdNm": "사회서비스 이용 및 이용권 관리에 관한 법률",
+    "lwrdUrl": "http://law.go.kr/법령/사회서비스 이용 및 이용권 관리에 관한 법률"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

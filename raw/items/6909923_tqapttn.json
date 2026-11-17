@@ -1,0 +1,35 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909923",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "에너지바우처 사업 안내",
+  "qstnCntnCl": "에너지바우처 사업에 대해 알려 주세요.",
+  "ansCntnCl": "&lt;span style=\"font-size:14px\"&gt;&lt;span style=\"font-family:Gulim\"&gt;1. 에너지바우처는?&lt;br /&gt;\n국민 모두가 시원한 여름, 따뜻한 겨울을 보낼 수 있도록 에너지 취약계층을 위해 에너지바우처(이용권)을 지급하여 전기, 도시가스, 지역난방, 등유, LPG, 연탄을 구입할 수 있도록 지원하는 제도입니다.&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;2. 지원 대상&lt;br /&gt;\n소득기준과 세대원특성 기준을 모두 충족하는 세대&lt;br /&gt;\n&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"line-height:120%\"&gt;&bull; 소득기준 : 국민기초생활 보장법에 따른&nbsp;생계급여,의료급여,주거급여,교육급여 수급자&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&bull; 세대원특성 : &lt;/span&gt;노인, 영유아, 장애인, 임산부, 중증질환자, 희귀질환자, 중증난치질환자,한부모가족, 소년소녀가정, 다자녀세대&nbsp;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;3. 지원 내용&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&bull; 지원금액 : 1인세대 295,200원, 2인가구 407,500원, 3인가구 532,700원, 4인이상세대 701,300원&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&lt;span style=\"font-family:Gulim\"&gt;&bull; 지원방식 :&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"line-height:120%\"&gt;&nbsp;가상카드 또는 실물카드 지급&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"line-height:120%\"&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;4. 신청 방법&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&lt;span style=\"font-family:Gulim\"&gt;&bull;&nbsp;신청기간 : &lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"line-height:120%\"&gt;관할 동 행정복지센터 및 복지로(온라인) 상시 가능&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&bull; &lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"line-height:120%\"&gt;필요서류 : 신분증, 에너지고지서 및 하절기 바우처를 위한 전기요금고지서&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&nbsp;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;5. 유의사항&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"line-height:120%\"&gt;&lt;span style=\"font-family:Gulim\"&gt;&bull; 신청 불가 : 세대원 모두가 보장시설 수급자인 경우&lt;br /&gt;\n&bull; 중복 불가 : 긴급복지지원법에 따른 연료비 지원을 받은 수급자 및 연탄쿠폰 불가&lt;br /&gt;\n&bull; 이월 불가 : &lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-family:Gulim\"&gt;한도 초과분은 자부담, 미사용 금액은 다음 년도 되지 않음&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-size:15pt\"&gt;&lt;span style=\"font-family:함초롬바탕\"&gt;※&lt;/span&gt;&lt;/span&gt;&lt;span style=\"font-size:14px\"&gt;&lt;span style=\"font-family:Gulim\"&gt;&nbsp;주소 변경 또는 세대원 변경 시 재신청 필수&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=\"font-family:Gulim\"&gt;&lt;span style=\"font-size:14px\"&gt;&nbsp;&lt;/span&gt;&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "경기도 하남시",
+  "deptName": "경기도 하남시 덕풍3동",
+  "regDate": "20260706",
+  "ancCode": "4040000",
+  "deptCode": "4040033",
+  "lawList": [
+   {
+    "fullName": "에너지법 / 제16조의4(에너지이용권의 사용 등)",
+    "lwrdNm": "에너지법",
+    "lwrdUrl": "http://law.go.kr/법령/에너지법"
+   },
+   {
+    "fullName": "에너지법 / 제16조의2(에너지복지 사업의 실시 등)",
+    "lwrdNm": "에너지법",
+    "lwrdUrl": "http://law.go.kr/법령/에너지법"
+   },
+   {
+    "fullName": "에너지법 / 제16조의3(에너지이용권의 발급 등)",
+    "lwrdNm": "에너지법",
+    "lwrdUrl": "http://law.go.kr/법령/에너지법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

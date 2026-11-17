@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6913743",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급복지 신청 방법",
+  "qstnCntnCl": "긴급복지지원사업의 절차가 어떻게 되나요?",
+  "ansCntnCl": "&lt;span style=\"font-family:Gulim\"&gt;&lt; 지원대상 &gt;&lt;br /&gt;\n주소득자의 실직으로 소득상실, 중한 질병 등 위기사유로 생계유지 등이 어렵게 된 위기상황(화재, 자연재해, 휴폐업, 교정시설 출소 등)에 처한 가구&lt;br /&gt;\n&lt;br /&gt;\n&lt; 대상자(소득재산)기준 &gt;&lt;br /&gt;\n소득기준 : 기준 중위소득 75% 이하&lt;br /&gt;\n재산기준 : 1억 3천만원 이하(농어촌 기준)&nbsp;※금융재산 포함&lt;br /&gt;\n금융재산기준 : 가구원수별 일상생활유지를 위해 필요한 금액(생활준비금)에 600만원을 합산한 금액 이하&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&lt; 지원절차 &gt;&lt;br /&gt;\n지원요청 및 신고 : 보건복지콜센터(129), 읍면 긴급지원담당공무원&lt;br /&gt;\n▽&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Gulim\"&gt;현장확인 후 선지원&nbsp; : 군 긴급지원담당공무원&lt;br /&gt;\n▽&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Gulim\"&gt;사후조사 : 소득재산조사&lt;br /&gt;\n▽&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Gulim\"&gt;적정성 심사 : 긴급지원심의위원회 부적정 판정시 지원중단/비용반환&lt;br /&gt;\n▽&lt;/span&gt;\n&lt;div class=\"hwp_editor_board_content\"&gt;&lt;span style=\"font-family:Gulim\"&gt;사후연계 : 기초생활보장, 차상위계층지원, 통합사례관리 등&lt;/span&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n",
+  "ancName": "전남광주통합특별시 곡성군",
+  "deptName": "전남광주통합특별시 곡성군 군민활력과",
+  "regDate": "20260727",
+  "ancCode": "5835000",
+  "deptCode": "5835010",
+  "lawList": [
+   {
+    "fullName": "긴급복지지원법 / 제4조(국가 및 지방자치단체의 책무)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

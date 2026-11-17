@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6914619",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "지역공동체일자리가 무엇인지 궁금합니다.",
+  "qstnCntnCl": "지역공동체일자리가 무엇인지 궁금합니다.",
+  "ansCntnCl": "&lt;span style=&quot;line-height:300%&quot;&gt;&lt;strong&gt;1. 지역공동체일자리사업이란?&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:200%&quot;&gt;&lt;span style=&quot;line-height:100%&quot;&gt;□ 지역공동체일자리사업은 취업취약계층에게 한시적인 공공일자리를 제공하여 생계안정을 지원하고, 근로 경험을 통해 민간일자리로의 취업을 돕는 사업입니다.&lt;/span&gt;&lt;br /&gt;\n□ 상‧하반기 구분 시행 (연 2회)&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;line-height:300%&quot;&gt;&lt;strong&gt;2. 지역공동체일자리 참여 대상&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:200%&quot;&gt;□ 사업개시일 현재 만18세 이상인 근로능력자&lt;br /&gt;\n&lt;span style=&quot;line-height:100%&quot;&gt;□ 가구원의 소득합계가 기준중위소득 60% 이하이면서, 재산 4억원 이하인 가구의 구성원&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; ※ 외국인등록번호를 소지한 자 포함 / 청년층(만39세 이하)은 소득‧재산 기준 적용 안 함&lt;/span&gt;&lt;br /&gt;\n□ 행정기관 또는 행정기관이 인정한 기관에서 노숙자임을 증명한 자&lt;br /&gt;\n□ 기타 지역공동체일자리사업 선발 기준에 적합한 자&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;line-height:300%&quot;&gt;&lt;strong&gt;3. 참여 자격 배제 대상&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:200%&quot;&gt;□ 다른 직접일자리사업과 참여일이 겹칠 경우 중복참여 불가능&lt;br /&gt;\n□ 참여시작 예정일 기준으로 직전 3년 이내에 2년 이상 동일한 또는 다른 기관에서 수행하는 직접일자리사업에 참여한 이력이 있는 경우, 1년간 참여 제한&lt;br /&gt;\n□ 가구소득이 기준중위소득 70%를 초과하거나, 4억원 초과의 재산 보유 가구의 구성원&lt;br /&gt;\n&nbsp;- 모집 인원이 부족할 경우 신청자 중 재산기준이 부합하고 기준중위소득 60% 초과~70% 이하에 해당되는 자도&lt;br /&gt;\n&nbsp;&nbsp; 별도 감점없이 선발 가능&lt;br /&gt;\n□ 접수 시작일 이후 재정지원 전일제 일자리사업 참여자 또는 중도 포기한 자&lt;br /&gt;\n□ 대상사업 참여 후 실업급여를 수급한 뒤, 취업지원프로그램을 거치지 않은 자&lt;br /&gt;\n□ 1세대 2인 참여자&lt;br /&gt;\n□ 공무원(사립학교 교직원 포함)의 배우자 및 자녀&lt;br /&gt;\n□ 신청서, 개인정보 수집 동의서 등 신청 구비서류를 제출하지 않은 자&lt;br /&gt;\n□ 사업참여자 결정 후 건강검진 결과 근로능력 미약자로 판단되는 자 등&lt;/span&gt;&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;line-height:300%&quot;&gt;&lt;strong&gt;4. 대상자 선발방법&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;\n□ 일모아시스템을 통한 정보검색 및 기타사항 확인 후 참여 대상자로 확정합니다.&lt;br /&gt;\n※ 기타 고려요소별 가중치를 부여한 점수제 선발&lt;br /&gt;\n&lt;br /&gt;\n&lt;span style=&quot;line-height:300%&quot;&gt;&lt;strong&gt;5. 임금 및 근로조건&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;\n&lt;span style=&quot;line-height:200%&quot;&gt;□ 근로조건 : 주 15~40시간&lt;br /&gt;\n□ 임금단가 : 시급 10,320원 (매년 최저시급에 따름)&lt;br /&gt;\n□ 1일 5천원의 간식비 지급, 주 유급 휴일, 연차 유급휴일 인정&lt;br /&gt;\n□ 4대 보험 의무가입(건강‧장기요양보험, 국민연금, 고용보험, 산재보험)&lt;/span&gt;",
+  "ancName": "부산광역시 강서구",
+  "deptName": "부산광역시 강서구 경제국 경제진흥과",
+  "regDate": "20260730",
+  "ancCode": "3360000",
+  "deptCode": "3360187",
+  "lawList": [
+   {
+    "fullName": "고용정책 기본법 / 제6조(국가와 지방자치단체의 시책)",
+    "lwrdNm": "고용정책 기본법",
+    "lwrdUrl": "http://law.go.kr/법령/고용정책 기본법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

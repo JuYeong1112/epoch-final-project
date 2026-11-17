@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5460000",
+   "ancName": "경상남도 함양군",
+   "regDate": "20260511173435",
+   "title": "통합돌봄서비스를 받고 싶습니다.",
+   "faqNo": "6903942"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260508100508",
+   "title": "노인맞춤돌봄서비스 신청 및 지원서비스",
+   "faqNo": "6903759"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "6480000",
+   "ancName": "경상남도",
+   "regDate": "20260507163800",
+   "title": "장애인거주시설 입소대상자 및 절차 문의",
+   "faqNo": "6903702"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260505152336",
+   "title": "노인일자리 참여 자격조건 및 신청 방법",
+   "faqNo": "6903615"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3520000",
+   "ancName": "인천광역시 연수구",
+   "regDate": "20260429115539",
+   "title": "노인일자리 사업은 어떤 유형으로 운영되고, 참여 기준은 어떻게 되나요?",
+   "faqNo": "6903300"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260421102037",
+   "title": "기초연금 제도가 무엇이며 어떤 분들이 받나요?",
+   "faqNo": "6902671"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414105243",
+   "title": "기초연금 신청방법과 지원내용 문의",
+   "faqNo": "6902195"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260414090509",
+   "title": "동주민센터 민원창구에서 처리할 수 있는 민원의 종류는 어떤 것들이 있을까요?",
+   "faqNo": "6902186"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409190643",
+   "title": "기초연금 신청 방법",
+   "faqNo": "6901948"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409185041",
+   "title": "노인일자리 사업 신청방법 및 구비서류 문의",
+   "faqNo": "6901635"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

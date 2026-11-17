@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6889575",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "불법주정차위반 단속 의견제출 방법 문의",
+  "qstnCntnCl": "불법주정차위반 단속 의견제출 방법 ",
+  "ansCntnCl": "&lt;br /&gt;\n&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Gulim&quot;&gt;■&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Gulim&quot;&gt;&nbsp;제 출 처&nbsp;&lt;br /&gt;\n- 방문 : 원주시청 교통행정과 주차관리팀(737-3542~9,&nbsp; FAX 737-4821)&lt;br /&gt;\n- 우편 : 강원특별자치도 원주시 시청로1 (무실동) 우편번호 26384&lt;br /&gt;\n&lt;br /&gt;\n■&nbsp;제출서류&lt;br /&gt;\n- 주정차단속 의견진술서(&nbsp;http://its.wonju.go.kr)에서 제공되는 서식에 인적사항, 의견제출 내용 기재&nbsp;&lt;br /&gt;\n- 다운로드 방법:&nbsp;원주시 교통정보센터 홈&gt; 주정차위반안내&gt; 의견진술 절차 안내&gt; 하단서식 다운로드&lt;br /&gt;\n- 의견진술 내용을 증명할 수있는 객관적이고 공적인 증명서류가 있을 경우 첨부&lt;br /&gt;\n&lt;br /&gt;\n■ 의견진술이 인정되는 경우(도로교통법 시행규칙 제142조(부득이한 사유))&lt;br /&gt;\n&lt;span style=&quot;color:#0000ff&quot;&gt;&nbsp;-&nbsp;&lt;/span&gt;범죄의 예방ㆍ진압이나 그 밖에 긴급한 사건ㆍ사고의 조사를 위한 경우&lt;br /&gt;\n&lt;span style=&quot;color:#0000ff&quot;&gt;&nbsp;-&nbsp;&lt;/span&gt;도로공사 또는 교통지도단속을 위한 경우&lt;br /&gt;\n&lt;span style=&quot;color:#0000ff&quot;&gt;&nbsp;-&nbsp;&lt;/span&gt;응급환자의 수송 또는 치료를 위한 경우&lt;br /&gt;\n&lt;span style=&quot;color:#0000ff&quot;&gt;&nbsp;-&nbsp;&lt;/span&gt;화재ㆍ수해ㆍ재해 등의 구난작업을 위한 경우&lt;br /&gt;\n&nbsp;-「장애인 복지법」에 따른 장애인의 승ㆍ하차를 돕는 경우&lt;br /&gt;\n&nbsp;&nbsp;&lt;span style=&quot;color:#0000ff&quot;&gt;-&nbsp;&lt;/span&gt;그 밖에 부득이한 사유라고 인정할 만한 상당한 이유가 있는 경우&nbsp;&lt;/span&gt;&lt;/span&gt;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n&lt;span style=&quot;font-size:14px&quot;&gt;&lt;span style=&quot;font-family:Gulim&quot;&gt;※ 의견진술서는 별도의 서식없이 가능하나 반드시 회신을 받을&nbsp;「주소, 성명, 위반일시, 차량번호, 연락 전화번호」&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:Gulim; font-size:14px&quot;&gt;와 함께 진술내용을 입증할수 있는 서류를 첨부하여 의견진술기한내에 제출하셔야 하며, 그 의견진술 심의 결과는 별도 통보하여 드립니다.&lt;/span&gt;&lt;br /&gt;\n&nbsp;\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n&nbsp;\n\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "강원특별자치도 원주시",
+  "deptName": "강원특별자치도 원주시 안전교통국 교통행정과",
+  "regDate": "20250627",
+  "ancCode": "4191000",
+  "deptCode": "4191112",
+  "lawList": [
+   {
+    "fullName": "질서위반행위규제법 / 제16조(사전통지 및 의견 제출 등)",
+    "lwrdNm": "질서위반행위규제법",
+    "lwrdUrl": "http://law.go.kr/법령/질서위반행위규제법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

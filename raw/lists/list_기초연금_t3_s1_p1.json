@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730095052",
+   "title": "기초연금 소급 지급 여부 문의",
+   "faqNo": "6915009"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3360000",
+   "ancName": "부산광역시 강서구",
+   "regDate": "20260728205354",
+   "title": "기초연금을 받고 있는데 소득이나 재산이 바뀌면 신고해야 하나요?",
+   "faqNo": "6914344"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724164705",
+   "title": "기초연금을 본인이 꼭 가서 신청해야하나요?",
+   "faqNo": "6913296"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724164542",
+   "title": "기초연금을 타인 명의의 계좌로 수령할 수 있는지 문의합니다.",
+   "faqNo": "6913281"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260722181442",
+   "title": "기초연금 문의",
+   "faqNo": "6913028"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3290000",
+   "ancName": "부산광역시 부산진구",
+   "regDate": "20260713140806",
+   "title": "기초연금제도란?",
+   "faqNo": "6911386"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093629",
+   "title": "기초연금 신청안내 우편, 문자를 받고 싶지 않은 경우",
+   "faqNo": "6911021"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093627",
+   "title": "기초연금 신청 구비서류",
+   "faqNo": "6911002"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713093322",
+   "title": "기초연금 판정시 근로소득 반영",
+   "faqNo": "6910537"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20260713092915",
+   "title": "기초연금 수급희망 이력관리 간주신청 제도",
+   "faqNo": "6910475"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4691000",
+   "ancName": "전북특별자치도 정읍시",
+   "regDate": "20260527182819",
+   "title": "기초수급자 선정기준이 궁금합니다",
+   "faqNo": "6902863"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5340000",
+   "ancName": "경상남도 사천시",
+   "regDate": "20260527170612",
+   "title": "수급자가 의료기관에 입원하고 있는 동안의 생계급여 지급기준",
+   "faqNo": "6905302"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5690000",
+   "ancName": "세종특별자치시",
+   "regDate": "20260527151004",
+   "title": "농식품 바우처 대상기간 확대",
+   "faqNo": "6905232"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4231000",
+   "ancName": "강원특별자치도 속초시",
+   "regDate": "20260526103724",
+   "title": "노인일자리 신청 기준이 궁금해요",
+   "faqNo": "6904973"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4231000",
+   "ancName": "강원특별자치도 속초시",
+   "regDate": "20260522110415",
+   "title": "기초생활수급자 선정 기준을 알려주세요.",
+   "faqNo": "6904882"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3680000",
+   "ancName": "대전광역시 대덕구",
+   "regDate": "20260521110203",
+   "title": "기초생활보장제도 급여의 종류 및 대상 등",
+   "faqNo": "6904518"
+  },
+  {
+   "dutySctnNm": "tqaplcy",
+   "ancCode": "4610000",
+   "ancName": "충청남도 예산군",
+   "regDate": "20260521092535",
+   "title": "국민기초생활보장(생계급여) 부양의무자 기준",
+   "faqNo": "70329"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260520160317",
+   "title": "긴급복지 지원사업 안내",
+   "faqNo": "6904571"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4030000",
+   "ancName": "경기도 의왕시",
+   "regDate": "20260520160313",
+   "title": "자산형성지원사업이 무엇인가요?",
+   "faqNo": "6904440"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1342000",
+   "ancName": "교육부",
+   "regDate": "20260508165709",
+   "title": "【교육급여바우처】학생의 보호자가 아닌 사람이 바우처 신청을 할 수 있는지?",
+   "faqNo": "6903833"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

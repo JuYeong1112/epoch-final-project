@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6889973",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "부부가 기초연금을 함께 받을 시 지급 금액이 감소되나요?",
+  "qstnCntnCl": "부부가 기초연금을 함께 받을 시 지급 금액이 감소되나요?",
+  "ansCntnCl": "네 부부가 모두 기초연금 수급권자인 경우 각각의 기초연금액에서 20%를 감액해서 지급하게 됩니다.(개인단위로 적용)&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;&lt;strong&gt;제8조(기초연금액의 감액)&nbsp;&lt;/strong&gt;① 본인과 그 배우자가 모두&nbsp;기초연금&nbsp;수급권자인 경우에는 각각의&nbsp;기초연금액에서&nbsp;기초연금액의 100분의 20에 해당하는 금액을 감액한다.&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "부산광역시 북구",
+  "deptName": "부산광역시 북구 만덕1동",
+  "regDate": "20250702",
+  "ancCode": "3320000",
+  "deptCode": "3320031",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제8조(기초연금액의 감액)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

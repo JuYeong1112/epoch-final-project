@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6884594",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "치매치료관리비 신청방법",
+  "qstnCntnCl": "부산 영도구 치매치료비 신청방법이 궁금합니다.",
+  "ansCntnCl": "안녕하십니까?&lt;br /&gt;\n&lt;br /&gt;\n부산광역시 영도구 치매안심센터에서 답변드립니다.&lt;br /&gt;\n아래 내용에 따라 신청하실 수 있습니다.&lt;br /&gt;\n문의는 영도구 치매안심센터 051-419-4982로 부탁드립니다.\n&lt;ul style=\"margin-left:0px; margin-right:0px\"&gt;\n\t&lt;li&gt;&lt;strong&gt;기간 :&nbsp;&lt;/strong&gt;연중&lt;/li&gt;\n\t&lt;li&gt;&lt;strong&gt;대상 : &lt;/strong&gt;영도구 주민(주민등록 기준)으로 영도구치매안심센터에 치매환자로 등록되어 있으며, 다음의 대상자 선정기준을 모두 충족하는 신청자&lt;/li&gt;\n\t&lt;li&gt;&lt;strong&gt;대상자 선정기준&lt;/strong&gt;\n\t&lt;div class=\"dd\" style=\"float:left; padding:1px 0px 0px; width:829px\"&gt;\n\t&lt;ol style=\"margin-left:0px\"&gt;\n\t\t&lt;li&gt;&nbsp;진단 : 의료기관에서 치매(상병코드 F00~F03, G30 중 하나 이상)로 진단 받은 경우&lt;/li&gt;\n\t\t&lt;li&gt;&nbsp;치료 : 약 처방전을 기준으로 치매치료약 복용 여부 확인한 경우&lt;/li&gt;\n\t\t&lt;li&gt;&nbsp;소득 : 기준중위소득 120% 이하인 경우&lt;/li&gt;\n\t&lt;/ol&gt;\n\t&lt;/div&gt;\n\t&lt;/li&gt;\n\t&lt;li&gt;&lt;strong&gt;선정 제외대상&lt;/strong&gt; : 보훈의료지원 대상자&lt;/li&gt;\n\t&lt;li&gt;&lt;strong&gt;중복지원 제외대상 : &lt;/strong&gt;의료급여본인부담금 상한제/보상제 대상자, 긴급복지의료지원 대상자, 장애인의료비지원 대상자(진료비를 제외한 약제비에 대한 지원)&lt;/li&gt;\n\t&lt;li&gt;&lt;strong&gt;지원내용&lt;/strong&gt;\n\t&lt;div class=\"dd\" style=\"float:left; padding:1px 0px 0px; width:829px\"&gt;치매 치료를 위한 약처방 시 진료비 및 약제비의 보험급여분 중 본인부담금(비급여 항목 제외)\n\t&lt;ul style=\"margin-left:0px\"&gt;\n\t\t&lt;li&gt;월 3만원(연 36만원) 한도 내 당월 본인부담 실비 지원&lt;/li&gt;\n\t&lt;/ul&gt;\n\t&lt;/div&gt;\n\t&lt;/li&gt;\n\t&lt;li&gt;&nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp; &lt;strong&gt;신청서류&lt;/strong&gt;\n\n&lt;div class=\"dd\" style=\"-webkit-text-stroke-width:0px; background-color:#ffffff; color:#555555; float:left; font-family:\"Apple SD Gothic Neo\",\"Microsoft JhengHei\",\"Open Sans\",Helvetica,\"맑은 고딕\",\"Malgun Gothic\",나눔고딕,NanumGothic,\"Nanum Gothic\",돋움,Dotum,Arial,sans-serif; font-size:14px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; height:116px; letter-spacing:-1px; orphans:2; padding:1px 0px 0px; text-align:left; text-decoration-color:initial; text-decoration-style:initial; text-decoration-thickness:initial; text-indent:0px; text-transform:none; white-space:normal; widows:2; width:717px; word-spacing:0px\"&gt;\n&lt;ol style=\"margin-left:0px\"&gt;\n\t&lt;li&gt;당해연도에 발행된 치매치료제 처방전 또는 진단서 또는 소견서 (3개 중 택1)&lt;/li&gt;\n\t&lt;li&gt;대상자 본인 명의 입금통장 사본&lt;/li&gt;\n\t&lt;li&gt;지원신청서&lt;/li&gt;\n\t&lt;li&gt;개인정보 동의서&lt;/li&gt;\n\t&lt;li&gt;행정정보 공동이용 사전동의서 : 대상자 본인 및 건강보험가입자 -&gt; 소득기준 확인용&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&nbsp;&lt;/p&gt;\n",
+  "ancName": "부산광역시 영도구",
+  "deptName": "부산광역시 영도구 보건소 보건행정과",
+  "regDate": "20250528",
+  "ancCode": "3280000",
+  "deptCode": "3280053",
+  "lawList": [
+   {
+    "fullName": "치매관리법 / 제12조(치매환자의 의료비 지원사업)",
+    "lwrdNm": "치매관리법",
+    "lwrdUrl": "http://law.go.kr/법령/치매관리법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

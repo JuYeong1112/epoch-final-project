@@ -1,0 +1,85 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6909715",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급복지 지원사업에 대해 알려주세요.",
+  "qstnCntnCl": "긴급복지 지원사업에 대해 알려주세요.",
+  "ansCntnCl": "* 사업목적&nbsp;&lt;br /&gt;\n&nbsp;- 생계곤란 등의 위기상황에 대하여 도움이 필요한 사람을 신속하게 지원함으로써 이들이 위기상황에서 벗어나 건강&lt;br /&gt;\n&nbsp; &nbsp;하고 인간다운 생활을 하게 함을 목적으로 한다.&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&lt;br /&gt;\n* 위기사유&lt;br /&gt;\n&nbsp;1. 주소득자의 사망, 가출, 행방불명, 구금시설 수용 등으로 소득을 상실한 경우&lt;br /&gt;\n&nbsp;2. 중한 질병 또는 부상을 당한 경우&nbsp;&lt;br /&gt;\n&nbsp;3. 가구구성원으로부터 방임, 유기, 학대 등을 당한 경우&lt;br /&gt;\n&nbsp;4. 가정폭력 또는 성폭력을 당한 경우&lt;br /&gt;\n&nbsp;5. 화재 등으로 인하여 거주하는 주택 또는 건물에서 생활하기 곤란한 경우&lt;br /&gt;\n&nbsp;6. 주소득자 또는 부소득자의 휴업, 폐업 또는 사업장의 화재 등으로 실질적인 영업이 곤란한 경우&lt;br /&gt;\n&nbsp;7. 주소득자 또는 부소득자의 실직으로 소득을 상실한 경우&lt;br /&gt;\n&nbsp;8. 지방자치단체의 조례로 정한 사유가 발생한 경우(월세 체납, 건강보험료 체납 등)&lt;br /&gt;\n&nbsp;9. 그 밖에 보건복지부장관이 고시하는 사유(복지사각지대 대상자, 통합사례관리 대상자, 자살고위험군 등)&lt;br /&gt;\n① 이혼으로 소득이 현저히 감소한 경우&lt;br /&gt;\n② 소득의 상실 또는 현저한 감소로 인하여 단전된 경우&lt;br /&gt;\n③ 교정시설 출소하여 생계가 곤란한 자로서 다음 각 목의 요건을 모두 충족하는 경우&lt;br /&gt;\n④ 가족으로부터 방임, 유기, 생계유지의 곤란 등으로 노숙을 하는 경우&lt;br /&gt;\n⑤ 복지사각지대 발굴대상자, 통합사례관리 대상자 관련 부서(기관)으로부터 생계가 어렵다고 추천을 받은 경우&lt;br /&gt;\n⑥ 자살고위험군에 해당하는 자로서 다음 각 목의 요건을 모두 충족하는 경우&lt;br /&gt;\n⑦ 타인의 범죄로 인하여 피해자가 거주하는 주택 또는 건물에서 생활하기 곤란하여 거주지를 이전하는 경우&lt;br /&gt;\n10. 타 법률(전세사기 등)&lt;br /&gt;\n&lt;br /&gt;\n* 소득 및 재산기준 (2026년 기준)&lt;br /&gt;\n&nbsp; 1) 소득기준 : 기준 중위소득의 75%&lt;br /&gt;\n&nbsp; &nbsp; &nbsp;- 1인 1,923,179원 / 2인 3,149,469원 / 3인 4,019,277원 / 4인 4,871,054원&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 2) 재산기준 : 대도시(241,000,000원)&lt;br /&gt;\n&lt;br /&gt;\n&nbsp; 3) 금융재산 : 가구원수별 일상생활유지를 위해 필요한 금액(생활준비금)에 600만원을 합산한 금액 이하&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(청약, 보험 제외)&lt;br /&gt;\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 1인 8,564,000원 / 2인 10,199,000원 / 3인 11,359,000원 / 4인 12,494,000원&lt;br /&gt;\n&lt;br /&gt;\n* 신청방법&lt;br /&gt;\n&nbsp;- 신청장소 : 주민등록상 주소지 동 행정복지센터(생계비) 및 구청(의료비)&lt;br /&gt;\n&nbsp;- 신청기간 : 연중&lt;br /&gt;\n&lt;br /&gt;\n* 담당부서&lt;br /&gt;\n&nbsp;- 부산광역시 남구 용당동 천유경 (☎: 051-607-3525)&lt;br /&gt;\n&lt;br /&gt;\n&nbsp;",
+  "ancName": "부산광역시 남구",
+  "deptName": "부산광역시 남구 용당동",
+  "regDate": "20260625",
+  "ancCode": "3310000",
+  "deptCode": "3310036",
+  "lawList": [
+   {
+    "fullName": "긴급복지지원법 / 제1조(목적)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제2조(정의)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제3조(기본원칙)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제4조(국가 및 지방자치단체의 책무)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제5조(긴급지원대상자)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제6조(긴급지원기관)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제7조(지원요청 및 신고)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제7조의2(위기상황의 발굴)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제8조(현장 확인 및 지원)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제8조의2(금융정보 등의 제공동의서 제출)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제9조(긴급지원의 종류 및 내용)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제9조의2(긴급지원수급계좌)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제10조(긴급지원의 기간 등)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6910291",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "휴업급여 지급 요건이 궁금합니다. ",
+  "qstnCntnCl": " 휴업급여 지급 요건이 궁금합니다. 업무상 재해 후 회사에 출근하지 않았다면 무조건 받을 수 있나요?\n",
+  "ansCntnCl": "&lt;span style=&quot;font-family:휴먼명조&quot;&gt;휴업급여&lt;/span&gt;(&lt;span style=&quot;font-family:휴먼명조&quot;&gt;산재보험법 제&lt;/span&gt;52&lt;span style=&quot;font-family:휴먼명조&quot;&gt;조&lt;/span&gt;)&lt;span style=&quot;font-family:휴먼명조&quot;&gt;는 업무상 사유로 부상 또는 질병에 따른 요양으로 인하여 취합하지 못한 기간에 대하여 생계를 보호하기 위하여 지급하는 보험급여입니다&lt;/span&gt;.&lt;br /&gt;\n&nbsp;&lt;br /&gt;\n&lt;span style=&quot;font-family:휴먼명조&quot;&gt;즉&lt;/span&gt;, &lt;span style=&quot;font-family:휴먼명조&quot;&gt;휴업급여는 전체 요양기간에 대하여 지급하는 것이 아닌 &lt;/span&gt;&lt;span style=&quot;font-family:휴먼명조&quot;&gt;취업하지 못한 기간&lt;/span&gt;&lt;span style=&quot;font-family:휴먼명조&quot;&gt;을 요건으로 하고 있으며&lt;/span&gt;, &lt;span style=&quot;font-family:휴먼명조&quot;&gt;이때 &lt;/span&gt;&lt;span style=&quot;font-family:휴먼명조&quot;&gt;요양으로 취업하지 못한 기간&lt;/span&gt;&lt;span style=&quot;font-family:휴먼명조&quot;&gt;의 판단은 요양기간 내 사실상 취업하지 아니하였다고 하더라도 상병의 정도&lt;/span&gt;, &lt;span style=&quot;font-family:휴먼명조&quot;&gt;치유과정이나 그 상태&lt;/span&gt;, &lt;span style=&quot;font-family:휴먼명조&quot;&gt;요양방법 등을 고려할 때 취업이 가능하였다면 휴업급여 지급 대상에 해당하지 않습니다&lt;/span&gt;.\n&lt;div class=&quot;hwp_editor_board_content&quot;&gt;&nbsp;&lt;/div&gt;\n",
+  "ancName": "고용노동부",
+  "deptName": "고용노동부 산업안전보건정책실 산업보건보상정책관 산재보상정책과",
+  "regDate": "20260630",
+  "ancCode": "1492000",
+  "deptCode": "1494973",
+  "lawList": [
+   {
+    "fullName": "산업재해보상보험법 / 제52조(휴업급여)",
+    "lwrdNm": "산업재해보상보험법",
+    "lwrdUrl": "http://law.go.kr/법령/산업재해보상보험법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

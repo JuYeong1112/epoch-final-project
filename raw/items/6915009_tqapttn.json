@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6915009",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "기초연금 소급 지급 여부 문의",
+  "qstnCntnCl": "기초연금을 신청한 다음 달 기초연금이 신규 책정되었는데, 지난 달 기초연금을 받을 수 있나요?",
+  "ansCntnCl": "- 기초연금은 신청일이 속하는 달부터 지급됩니다.&lt;br /&gt;\n- 신청일이 속하는 달 이후에 지급결정이 된 경우에는 신청일이 속하는 달부터 소급하여 지급됩니다. 다만, 사전 신청의 경우에는 65세 생일이 속한 달부터 지급됩니다.&lt;br /&gt;\n&nbsp;",
+  "ancName": "서울특별시 양천구",
+  "deptName": "서울특별시 양천구 주민복지국 어르신복지과",
+  "regDate": "20260730",
+  "ancCode": "3140000",
+  "deptCode": "3140245",
+  "lawList": [
+   {
+    "fullName": "기초연금법 / 제14조(기초연금의 지급 및 지급 시기)",
+    "lwrdNm": "기초연금법",
+    "lwrdUrl": "http://law.go.kr/법령/기초연금법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi11"
+}

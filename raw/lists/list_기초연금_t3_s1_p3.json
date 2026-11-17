@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "31(건) 조회되었습니다.",
+ "resultCount": "31",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409190643",
+   "title": "기초연금 신청 방법",
+   "faqNo": "6901948"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1830000",
+   "ancName": "국가보훈부",
+   "regDate": "20260320100030",
+   "title": "복지정책과(기초연금 소득인정액에서 제외금액 조정건) 2022년 8월보도자료",
+   "faqNo": "6901281"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260310093145",
+   "title": "기초연금 신청?",
+   "faqNo": "6900905"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260223150658",
+   "title": "2026년 기초연금 선정기준",
+   "faqNo": "6900320"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5350000",
+   "ancName": "경상남도 김해시",
+   "regDate": "20260219142833",
+   "title": "2026년 기초연금 대상 및 지원 기준, 신청방법",
+   "faqNo": "6900276"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20251114101818",
+   "title": "기초연금 신청시 실업급여가 선정에 영향을 미치나요?",
+   "faqNo": "6898128"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3860000",
+   "ancName": "경기도 부천시",
+   "regDate": "20250909104931",
+   "title": "노인 기초연금 급여액 문",
+   "faqNo": "6890871"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4000000",
+   "ancName": "경기도 오산시",
+   "regDate": "20250804154001",
+   "title": "기초연금 신청문의",
+   "faqNo": "6884573"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20250727153820",
+   "title": "기초연금 신청",
+   "faqNo": "6893537"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3380000",
+   "ancName": "부산광역시 수영구",
+   "regDate": "20250704100921",
+   "title": "기초연금 지급 관련",
+   "faqNo": "6889939"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

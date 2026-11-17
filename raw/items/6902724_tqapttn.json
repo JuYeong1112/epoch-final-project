@@ -1,0 +1,30 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6902724",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "부양의무자 기준은 어떻게 되나요?",
+  "qstnCntnCl": "부양의무자 기준은 어떻게 되나요?",
+  "ansCntnCl": "&lt;br /&gt;\n&lt;span style=\"font-family:Malgun Gothic\"&gt;&lt;span style=\"font-size:16px\"&gt;'부양의무자'는 수급권자를 부양할 책임이 있는 사람으로서 수급권자의 1촌의 직계혈족과 그 배우자를 말합니다. 다만, 사망한 1촌의 직계혈족의 배우자는 제외합니다.(아들  딸 사망 시, 며느리  사위는 부양의무자 범위에서 제외)&lt;br /&gt;\n'수급자'는 ①부양의무자가 없거나, ②있어도 부양능력이 없거나, ③부양을 받을 수 없는 사람이어야 합니다.&lt;br /&gt;\n문의하신 기초생계급여의 부양의무자기준은&nbsp;2021년 10월에 폐지되었습니다.&lt;br /&gt;\n단, 부양의무자가구의 월소득이 1,084만원, 재산액이 12억원 초과인경우에는 부양의무자 기준 적용이 됩니다.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;\n&nbsp;",
+  "ancName": "대구광역시 서구",
+  "deptName": "대구광역시 서구 복지생활국 생활보장과",
+  "regDate": "20260421",
+  "ancCode": "3430000",
+  "deptCode": "3430092",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제2조(정의)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   },
+   {
+    "fullName": "국민기초생활 보장법 / 제8조의2(부양능력 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

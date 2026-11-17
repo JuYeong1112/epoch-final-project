@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3240000",
+   "ancName": "서울특별시 강동구",
+   "regDate": "20260409110807",
+   "title": "문화누리카드(통합문화이용권) 자주묻는 질의 응답",
+   "faqNo": "6901658"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260327145528",
+   "title": "상병수당 시범사업",
+   "faqNo": "6900963"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1830000",
+   "ancName": "국가보훈부",
+   "regDate": "20260320100030",
+   "title": "복지정책과(기초연금 소득인정액에서 제외금액 조정건) 2022년 8월보도자료",
+   "faqNo": "6901281"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260310093146",
+   "title": "노인맞춤 돌봄서비스 신청방법?",
+   "faqNo": "6900909"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260310093143",
+   "title": "노인일자리 및 사회활동 지원사업?",
+   "faqNo": "6900906"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260223150658",
+   "title": "2026년 기초연금 선정기준",
+   "faqNo": "6900320"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5350000",
+   "ancName": "경상남도 김해시",
+   "regDate": "20260219142833",
+   "title": "2026년 기초연금 대상 및 지원 기준, 신청방법",
+   "faqNo": "6900276"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3070000",
+   "ancName": "서울특별시 성북구",
+   "regDate": "20260219102355",
+   "title": "장애인활동지원 서비스의 지원급여(또는 지원시간)를 늘리고 싶습니다.",
+   "faqNo": "6900264"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3320000",
+   "ancName": "부산광역시 북구",
+   "regDate": "20251114101818",
+   "title": "기초연금 신청시 실업급여가 선정에 영향을 미치나요?",
+   "faqNo": "6898128"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3860000",
+   "ancName": "경기도 부천시",
+   "regDate": "20250909104931",
+   "title": "노인 기초연금 급여액 문",
+   "faqNo": "6890871"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

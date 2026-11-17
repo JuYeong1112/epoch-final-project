@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260729160229",
+   "title": "국가형 긴급복지 지원(3개월)을 받았는데, 생계급여에서 차감, 환수되었다고 하며  이번달",
+   "faqNo": "6914802"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3020000",
+   "ancName": "서울특별시 용산구",
+   "regDate": "20260728175623",
+   "title": "구립 갈월종합사회복지관 주요 사업",
+   "faqNo": "6914458"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3670000",
+   "ancName": "대전광역시 유성구",
+   "regDate": "20260727171410",
+   "title": "긴급복지지원제도 대상과 지원기준",
+   "faqNo": "6914017"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5835000",
+   "ancName": "전남광주통합특별시 곡성군",
+   "regDate": "20260727161524",
+   "title": "긴급복지 신청 방법",
+   "faqNo": "6913743"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7801000",
+   "ancName": "강원특별자치도교육청",
+   "regDate": "20260727131155",
+   "title": "교원과 일반직이 같은 연수를 들었는데 시간이 다릅니다.",
+   "faqNo": "6911531"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260727130910",
+   "title": "긴급복지 지원제도란 무엇인가요?",
+   "faqNo": "6913760"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5835000",
+   "ancName": "전남광주통합특별시 곡성군",
+   "regDate": "20260727103844",
+   "title": "의료요양돌봄 통합지원사업의 신청절차",
+   "faqNo": "6913620"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260724172124",
+   "title": "긴급지원(생계비 원) 지원방법 및 절차가 어떻게 될까요?",
+   "faqNo": "6913650"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3210000",
+   "ancName": "서울특별시 서초구",
+   "regDate": "20260724143906",
+   "title": "긴급복지 신청 문의",
+   "faqNo": "6911419"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260724130527",
+   "title": "복지위기 알림앱이 무엇인가요?",
+   "faqNo": "6913411"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

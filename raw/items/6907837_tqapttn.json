@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6907837",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "생계급여 신청하려는데 부양의무자의 범위가 어디까지인가요?",
+  "qstnCntnCl": "생계급여 신청하려는데 부양의무자의 범위가 어디까지인가요?",
+  "ansCntnCl": "부양의무자 기준은 다음과 같습니다. (2026년 6월 기준)&lt;br /&gt;\n&lt;br /&gt;\n- 부양의무자 범위 : 수급신청자의 1촌 직계혈족 및 그 배우자&lt;br /&gt;\n&nbsp; ※ 배우자가 사망한 사위,며느리는 수급신청자의 부양의무자가 아님&lt;br /&gt;\n&lt;br /&gt;\n-부양의무자 기준&lt;br /&gt;\n&nbsp; 적용 : 의료급여&lt;br /&gt;\n&nbsp; 미적용 : 생계,주거,교육급여&lt;br /&gt;\n&nbsp;&nbsp;&nbsp; ※단, 부양의무자의 소득 연1.3억원(월소득 1,084만원, 세전)또는 일반재산 12억원을 초과하는 경우 생계급여&lt;br /&gt;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 대상에서 제외&lt;br /&gt;\n&nbsp;",
+  "ancName": "대구광역시 달성군",
+  "deptName": "대구광역시 달성군 주민복지국 생활보장과",
+  "regDate": "20260625",
+  "ancCode": "3480000",
+  "deptCode": "3480421",
+  "lawList": [
+   {
+    "fullName": "국민기초생활 보장법 / 제8조의2(부양능력 등)",
+    "lwrdNm": "국민기초생활 보장법",
+    "lwrdUrl": "http://law.go.kr/법령/국민기초생활 보장법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

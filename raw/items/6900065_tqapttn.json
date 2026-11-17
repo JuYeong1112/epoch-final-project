@@ -1,0 +1,25 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6900065",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "청소년 위생용품 지원사업 안내",
+  "qstnCntnCl": "여성청소년 생리용품 지원 자격 지원방법 궁금합니다.",
+  "ansCntnCl": "안녕하세요 여성생리용품 바우처사업 지원 자격 및 절차 안내해드리겠습니다.&lt;br /&gt;\n&lt;br /&gt;\n지원기준: 자격기준과 연령기준을 모두 충족하는 여성청소년&lt;br /&gt;\n자격기준&lt;br /&gt;\n1.&nbsp;&apos;국민기초생활보장법&apos; 따른 생계, 의료, 주거, 교육 급여 수급자&lt;br /&gt;\n2. &apos;국민기초생활보장법&apos; 따른 차상위계층&lt;br /&gt;\n3.&nbsp; &apos;한부모가족지원법&apos; 제5조 및 제5조에의 2에 따른 지원대상자&lt;br /&gt;\n연령기준: 9세 ~ 24세&lt;br /&gt;\n&lt;br /&gt;\n신청방법&lt;br /&gt;\n방문신청: 청소년의 주민등록상 주소지 읍면동 행정복지센터 방문신청&lt;br /&gt;\n온라인 신청: 복지로 홈페이지 또는 앱&lt;br /&gt;\n&lt;br /&gt;\n월 1,4000원",
+  "ancName": "서울특별시 성북구",
+  "deptName": "서울특별시 성북구 복지교육국 아동청소년과",
+  "regDate": "20260204",
+  "ancCode": "3070000",
+  "deptCode": "3070295",
+  "lawList": [
+   {
+    "fullName": "청소년복지 지원법 / 제5조(건강한 성장지원)",
+    "lwrdNm": "청소년복지 지원법",
+    "lwrdUrl": "http://law.go.kr/법령/청소년복지 지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

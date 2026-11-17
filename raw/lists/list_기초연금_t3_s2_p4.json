@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "81(건) 조회되었습니다.",
+ "resultCount": "81",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5785000",
+   "ancName": "전남광주통합특별시 여수시",
+   "regDate": "20260713085221",
+   "title": "사회보장급여(기초생활수급자 등) 대상자 사후 변동관리 문의",
+   "faqNo": "6911136"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260710132652",
+   "title": "기초연금 수급자의 신청 범위 및 신청방법",
+   "faqNo": "6911064"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5810000",
+   "ancName": "전남광주통합특별시 서구",
+   "regDate": "20260710094008",
+   "title": "무인민원발급기에서 발급 가능한 서류가 어떤게 있나요?",
+   "faqNo": "6911189"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3900000",
+   "ancName": "경기도 광명시",
+   "regDate": "20260708162632",
+   "title": "경기도 장애인 누림통장 신청 안내",
+   "faqNo": "6907748"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182828",
+   "title": "누구나 돌봄서비스 안내",
+   "faqNo": "6909916"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4040000",
+   "ancName": "경기도 하남시",
+   "regDate": "20260706182751",
+   "title": "노인일자리 사업 참여 방법",
+   "faqNo": "6909849"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1492000",
+   "ancName": "고용노동부",
+   "regDate": "20260630163030",
+   "title": "산재보험 처리를 하면 산재보험료가 많이 오를까요?",
+   "faqNo": "6910293"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3040000",
+   "ancName": "서울특별시 광진구",
+   "regDate": "20260629174904",
+   "title": "노인맞춤 돌봄서비스 지원",
+   "faqNo": "6909403"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3310000",
+   "ancName": "부산광역시 남구",
+   "regDate": "20260625165945",
+   "title": "기초연금 대상 및 지원금액",
+   "faqNo": "6909750"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5360000",
+   "ancName": "경상남도 밀양시",
+   "regDate": "20260624160344",
+   "title": "어르신 기초연금 지급기준",
+   "faqNo": "6909621"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi12"
+}

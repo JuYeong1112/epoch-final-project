@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "84(건) 조회되었습니다.",
+ "resultCount": "84",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1384000",
+   "ancName": "성평등가족부",
+   "regDate": "20260827165204",
+   "title": "한부모가족지원사업",
+   "faqNo": "6916345"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5855000",
+   "ancName": "전남광주통합특별시 화순군",
+   "regDate": "20260820161306",
+   "title": "이혼한 주부입니다. 채무로 경제활동이 어려운데 긴급생계비를 받을수 있을까요?",
+   "faqNo": "6916143"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5590000",
+   "ancName": "경기도 양주시",
+   "regDate": "20260731095411",
+   "title": "긴급의료지원 신청 및 지원기준 안내",
+   "faqNo": "6915230"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3190000",
+   "ancName": "서울특별시 동작구",
+   "regDate": "20260730195601",
+   "title": "푸드마켓 이용 대상 및 신청 방법",
+   "faqNo": "6915034"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3190000",
+   "ancName": "서울특별시 동작구",
+   "regDate": "20260730195600",
+   "title": "긴급복지지원사업",
+   "faqNo": "6915031"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730164437",
+   "title": "양천형 밤샘 긴급돌봄 어린이집 운영에 대해 알려주세요",
+   "faqNo": "6915101"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3140000",
+   "ancName": "서울특별시 양천구",
+   "regDate": "20260730164250",
+   "title": "긴급복지지원제도",
+   "faqNo": "6914762"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "1192000",
+   "ancName": "해양수산부",
+   "regDate": "20260730143946",
+   "title": "공무원 필수교육",
+   "faqNo": "6915266"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3910000",
+   "ancName": "경기도 평택시",
+   "regDate": "20260730091543",
+   "title": "긴급복지 지원제도란 무엇인가요",
+   "faqNo": "6914599"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3940000",
+   "ancName": "경기도 고양시",
+   "regDate": "20260730090018",
+   "title": "긴급생계비와 생계급여 간 공제 이유 및 계산 방식",
+   "faqNo": "6914936"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}

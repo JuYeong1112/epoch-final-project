@@ -1,0 +1,45 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "1(건) 조회되었습니다.",
+ "resultData": {
+  "faqNo": "6901582",
+  "dutySctnNm": "tqapttn",
+  "qnaTitl": "긴급복지 지원 제도가 무엇인지? 어떤 지원을 받을 수 있는지 궁금합니다.",
+  "qstnCntnCl": "긴급복지 지원 제도가 무엇인지? 어떤 지원을 받을 수 있는지 궁금합니다.",
+  "ansCntnCl": "1. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;평소 우리군 행정에 관심을 가져주신 점에 대하여 감사드립니다&lt;/span&gt;.&lt;br /&gt;\n2. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;귀하의 민원 내용은 &lt;/span&gt;&apos;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;긴급복지 지원 제도 안내 및 지원 종류 문의&lt;/span&gt;&apos;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;로 확인됩니다&lt;/span&gt;.&lt;br /&gt;\n3. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;먼저&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;긴급복지 지원은 주 소득자의 실직&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;중한 질병 등 갑작스러운 위기 상황으로 생계유지가 어려운 가구를 돕기 위한 제도입니다&lt;/span&gt;. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;소득&lt;/span&gt;&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;재산 기준을 충족하는 경우 신청할 수 있으며&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;선지원 후조사&lt;/span&gt; &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;원칙에 따라 우선 지원이 이루어진 뒤 사후 조사가 진행됩니다&lt;/span&gt;. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;지원 종류로는 생계비&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;연료비&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;의료비가 지원 가능하며 의료비의 경우 반드시 퇴원 전에 병원 또는 주소지 행정복지센터를 통해 신청해야 합니다&lt;/span&gt;.&lt;br /&gt;\n4. &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;귀하의 질문에 만족스러운 답변이 되었기를 바라며&lt;/span&gt;, &lt;span style=&quot;font-family:함초롬바탕&quot;&gt;추가 설명이 필요한 경우 복지정책과 통합돌봄&lt;/span&gt;TF(&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;☎&lt;/span&gt;940-3793)&lt;span style=&quot;font-family:함초롬바탕&quot;&gt;으로 연락주시면 친절히 안내드리도록 하겠습니다&lt;/span&gt;.",
+  "ancName": "경상남도 거창군",
+  "deptName": "경상남도 거창군 경제복지국 복지정책과",
+  "regDate": "20260401",
+  "ancCode": "5470000",
+  "deptCode": "5470181",
+  "lawList": [
+   {
+    "fullName": "긴급복지지원법 / 제1조(목적)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제2조(정의)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제3조(기본원칙)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제4조(국가 및 지방자치단체의 책무)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   },
+   {
+    "fullName": "긴급복지지원법 / 제5조(긴급지원대상자)",
+    "lwrdNm": "긴급복지지원법",
+    "lwrdUrl": "http://law.go.kr/법령/긴급복지지원법"
+   }
+  ],
+  "subjList": []
+ },
+ "resultDebug": "2026-07-30 19:10:40, eapi21"
+}

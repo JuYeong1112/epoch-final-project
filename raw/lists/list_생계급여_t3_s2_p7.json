@@ -1,0 +1,88 @@
+{
+ "resultCode": "S00",
+ "resultMessage": "138(건) 조회되었습니다.",
+ "resultCount": "138",
+ "resultList": [
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3480000",
+   "ancName": "대구광역시 달성군",
+   "regDate": "20260625173921",
+   "title": "생계급여 신청하려는데 부양의무자의 범위가 어디까지인가요?",
+   "faqNo": "6907837"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4181000",
+   "ancName": "강원특별자치도 춘천시",
+   "regDate": "20260622091524",
+   "title": "법정 한부모가구 지원 내용",
+   "faqNo": "6907269"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7010000",
+   "ancName": "서울특별시교육청",
+   "regDate": "20260619174312",
+   "title": "다자녀 가정에 교육비 지원 요청",
+   "faqNo": "6887168"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7240000",
+   "ancName": "대구광역시교육청",
+   "regDate": "20260619171428",
+   "title": "교육비 지원 내용 및 지원 대상",
+   "faqNo": "6906813"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "7010000",
+   "ancName": "서울특별시교육청",
+   "regDate": "20260619141536",
+   "title": "사립유치원 저소득층 유아학비 지원대상 및 지원금 문의",
+   "faqNo": "6908854"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4050000",
+   "ancName": "경기도 용인시",
+   "regDate": "20260617154425",
+   "title": "2026년 에너지바우처 지원대상과 신청방법과 어떻게 되나요?",
+   "faqNo": "6907717"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "5090000",
+   "ancName": "경상북도 영주시",
+   "regDate": "20260617153836",
+   "title": "생계급여 금액은 매달 똑같이 나오나요? 어떻게 계산되나요?",
+   "faqNo": "6907472"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3280000",
+   "ancName": "부산광역시 영도구",
+   "regDate": "20260615135739",
+   "title": "자활근로사업은 누가 신청할 수 있고, 어떻게 참여할 수 있나요?",
+   "faqNo": "6906071"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "3700000",
+   "ancName": "울산광역시 남구",
+   "regDate": "20260610102638",
+   "title": "기초생활수급자 신청 및 선정기준 문의",
+   "faqNo": "6906575"
+  },
+  {
+   "dutySctnNm": "tqapttn",
+   "ancCode": "4140000",
+   "ancName": "경기도 연천군",
+   "regDate": "20260609173747",
+   "title": "생계급여 수급자의 부정수급 신고",
+   "faqNo": "6906590"
+  }
+ ],
+ "resultDebug": "2026-07-30 19:10:40, eapi22"
+}
